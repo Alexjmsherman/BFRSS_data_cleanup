@@ -1795,7 +1795,7 @@ What was the MAIN reason you had this PSA test?
 Section: 16.6 Prostate Cancer Screening Type: Num
 Column: 189 SAS Variable Name: PCPSARS1
 Prologue:
-Description: What was the MAIN reason you had this PSA test - was it …?
+Description: What was the MAIN reason you had this PSA test - was it ...?
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -2997,12 +2997,12 @@ BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
 CODEBOOK REPORT, 2012
 Land-Line and Cell-Phone data
 73 of 162 July 5, 2013
-Has A Doctor, Nurse, Or Other Health Professional Ever Said That You Have…Problem Caused By A Chronic Illness Or By
+Has A Doctor, Nurse, Or Other Health Professional Ever Said That You Have...Problem Caused By A Chronic Illness Or By
 Medicines; Taken For A Chronic Illness?
 Module: 10.3 High Risk/Health Care Worker Type: Num
 Column: 301 SAS Variable Name: DRHPAD1
 Prologue:
-Description: Has a doctor, nurse, or other health professional ever said that you have… Lung problems, other than asthma,
+Description: Has a doctor, nurse, or other health professional ever said that you have... Lung problems, other than asthma,
 Kidney problems, Anemia, including Sickle Cell, Or A weakened immune system caused by a chronic illness or by
 medicines, taken for a chronic illness?
 Value Value Label Frequency Percentage
@@ -3917,7 +3917,7 @@ Household prepared to handle large-scale disaster or emergency
 Module: 19.1 General Preparedness Type: Num
 Column: 357 SAS Variable Name: GPWELPR3
 Prologue:
-Description: How well prepared do you feel your household is to handle a large-scale disaster or emergency? Would you say…
+Description: How well prepared do you feel your household is to handle a large-scale disaster or emergency? Would you say...
 Value Value Label Frequency Percentage
 Weighted
 Percentage
