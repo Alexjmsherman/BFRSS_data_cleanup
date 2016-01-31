@@ -448,7 +448,7 @@ Percentage
 3 Good 156,059 30.81 31.29
 4 Fair 69,491 13.72 13.22
 5 Poor 29,479 5.82 4.85
-7 Don’t know/Not Sure 1,077 0.21 0.17
+7 Don't know/Not Sure 1,077 0.21 0.17
 9 Refused 932 0.18 0.25
 BLANK Not asked or Missing 3
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -468,7 +468,7 @@ Percentage
 Notes: _ _ Number of days
 181,337 35.80 35.76
 88 None 312,943 61.79 62.04
-77 Don’t know/Not sure 9,660 1.91 1.55
+77 Don't know/Not sure 9,660 1.91 1.55
 99 Refused 2,526 0.50 0.66
 BLANK Not asked or Missing 1
 Number of Days Mental Health Not Good
@@ -484,7 +484,7 @@ Percentage
 Notes: _ _ Number of days
 156,389 30.88 35.06
 88 None 340,313 67.19 63.10
-77 Don’t know/Not sure 7,252 1.43 1.22
+77 Don't know/Not sure 7,252 1.43 1.22
 99 Refused 2,513 0.50 0.61
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
 CODEBOOK REPORT, 2011
@@ -503,7 +503,7 @@ Percentage
 Notes: _ _ Number of days
 109,939 41.57 41.29
 88 None 147,583 55.81 56.37
-77 Don’t know/Not sure 5,548 2.10 1.67
+77 Don't know/Not sure 5,548 2.10 1.67
 99 Refused 1,387 0.52 0.68
 BLANK Not asked or Missing
 Notes: Section 2.01, PHYSHLTH, is 88 and Section 2.02, MENTHLTH,
@@ -520,7 +520,7 @@ Weighted
 Percentage
 1 Yes 446,544 88.17 81.32
 2 No 58,263 11.50 18.17
-7 Don’t know/Not Sure 973 0.19 0.37
+7 Don't know/Not Sure 973 0.19 0.37
 9 Refused 687 0.14 0.15
 Multiple Health Care Professionals
 Section: 3.2 Health Care Access Type: Num
@@ -534,7 +534,7 @@ Percentage
 1 Yes, only one 390,680 77.14 70.74
 2 More than one 41,199 8.13 6.86
 3 No 72,973 14.41 21.97
-7 Don’t know/Not Sure 1,072 0.21 0.28
+7 Don't know/Not Sure 1,072 0.21 0.28
 9 Refused 543 0.11 0.16
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
 CODEBOOK REPORT, 2011
@@ -550,7 +550,7 @@ Weighted
 Percentage
 1 Yes 64,279 12.69 16.91
 2 No 440,873 87.05 82.85
-7 Don’t know/Not sure 1,032 0.20 0.18
+7 Don't know/Not sure 1,032 0.20 0.18
 9 Refused 283 0.06 0.06
 Length of time since last routine checkup
 Section: 3.4 Health Care Access Type: Num
@@ -565,7 +565,7 @@ Percentage
 2 Within past 2 years (1 year but less than 2 years ago) 60,350 11.92 13.67
 3 Within past 5 years (2 years but less than 5 years ago) 36,246 7.16 8.94
 4 5 or more years ago 36,209 7.15 8.65
-7 Don’t know/Not sure 6,023 1.19 1.15
+7 Don't know/Not sure 6,023 1.19 1.15
 8 Never 5,068 1.00 1.39
 9 Refused 604 0.12 0.12
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -582,15 +582,15 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 Yes 201,409 39.77 31.48
-2 Yes, but female told only during pregnancy—Go to Section 05.01
+2 Yes, but female told only during pregnancy-Go to Section 05.01
 BLOODCHO
 3,719 0.73 0.91
-3 No—Go to Section 05.01 BLOODCHO 293,859 58.02 66.40
-4 Told borderline high or pre-hypertensive—Go to Section 05.01
+3 No-Go to Section 05.01 BLOODCHO 293,859 58.02 66.40
+4 Told borderline high or pre-hypertensive-Go to Section 05.01
 BLOODCHO
 6,110 1.21 0.98
-7 Don´t know/Not Sure—Go to Section 05.01 BLOODCHO 990 0.20 0.16
-9 Refused—Go to Section 05.01 BLOODCHO 375 0.07 0.07
+7 Don´t know/Not Sure-Go to Section 05.01 BLOODCHO 990 0.20 0.16
+9 Refused-Go to Section 05.01 BLOODCHO 375 0.07 0.07
 BLANK Not asked or Missing 5
 Currently Taking Blood Pressure Medication
 Section: 4.2 Hypertension Awareness Type: Num
@@ -602,7 +602,7 @@ Weighted
 Percentage
 1 Yes 169,937 84.37 77.19
 2 No 31,150 15.47 22.70
-7 Don’t know/Not Sure 270 0.13 0.09
+7 Don't know/Not Sure 270 0.13 0.09
 9 Refused 52 0.03 0.02
 BLANK Not asked or Missing
 Notes: Section 04.01, BPHIGH4, is coded 2, 3, 4, 7, 9, or Missing
@@ -616,9 +616,9 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 Yes 435,750 86.04 77.38
-2 No—Go to Section 06.01 CVDINFR4 61,086 12.06 20.14
-7 Don’t know/Not Sure—Go to Section 06.01 CVDINFR4 9,473 1.87 2.45
-9 Refused—Go to Section 06.01 CVDINFR4 158 0.03 0.03
+2 No-Go to Section 06.01 CVDINFR4 61,086 12.06 20.14
+7 Don't know/Not Sure-Go to Section 06.01 CVDINFR4 9,473 1.87 2.45
+9 Refused-Go to Section 06.01 CVDINFR4 158 0.03 0.03
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
 CODEBOOK REPORT, 2011
 Land-Line and Cell-Phone data
@@ -635,7 +635,7 @@ Percentage
 2 Within the past 2 years (1 year but less than 2 years ago) 51,080 11.72 13.07
 3 Within the past 5 years (2 years but less than 5 years ago) 31,249 7.17 8.40
 4 5 or more years ago 16,615 3.81 4.25
-7 Don’t know/Not Sure 5,511 1.26 1.13
+7 Don't know/Not Sure 5,511 1.26 1.13
 9 Refused 214 0.05 0.07
 BLANK Not asked or Missing
 Notes: Section 5.01, BLOODCHO, is coded 2, 7, 9, or Missing
@@ -650,7 +650,7 @@ Weighted
 Percentage
 1 Yes 187,934 43.13 38.24
 2 No 243,931 55.98 61.06
-7 Don’t know/Not Sure 3,463 0.79 0.61
+7 Don't know/Not Sure 3,463 0.79 0.61
 9 Refused 421 0.10 0.09
 BLANK Not asked or Missing
 Notes: Section 05.01, BLOODCHO, is coded 2, 7, 9, or Missing
@@ -663,14 +663,14 @@ Ever Diagnosed with Heart Attack
 Section: 6.1 Chronic Health Conditions Type: Num
 Column: 89 SAS Variable Name: CVDINFR4
 Prologue: Has a doctor, nurse, or other health professional ever told you that you had any of the following? For each, tell me
-“Yes”, “No”, or you’re “Not sure”:
+“Yes”, “No”, or you're “Not sure”:
 Description: (Ever told) you had a heart attack, also called a myocardial infarction?
 Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 Yes 30,052 5.93 4.29
 2 No 473,950 93.58 95.31
-7 Don’t know/Not sure 2,313 0.46 0.38
+7 Don't know/Not sure 2,313 0.46 0.38
 9 Refused 151 0.03 0.02
 BLANK Not asked or Missing 1
 Ever Diagnosed with Angina or Coronary Heart Disease
@@ -683,7 +683,7 @@ Weighted
 Percentage
 1 Yes 30,235 5.97 4.27
 2 No 471,606 93.12 95.11
-7 Don’t know/Not sure 4,458 0.88 0.60
+7 Don't know/Not sure 4,458 0.88 0.60
 9 Refused 168 0.03 0.03
 Ever Diagnosed with a Stroke
 Section: 6.3 Chronic Health Conditions Type: Num
@@ -695,7 +695,7 @@ Weighted
 Percentage
 1 Yes 20,484 4.04 2.89
 2 No 484,597 95.68 96.89
-7 Don’t know/Not sure 1,283 0.25 0.21
+7 Don't know/Not sure 1,283 0.25 0.21
 9 Refused 103 0.02 0.01
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
 CODEBOOK REPORT, 2011
@@ -710,9 +710,9 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 Yes 65,097 12.85 13.45
-2 No—Go to Section 06.06 CHCSCNCR 439,783 86.83 86.29
-7 Don’t know/Not Sure—Go to Section 06.06 CHCSCNCR 1,485 0.29 0.25
-9 Refused—Go to Section 06.06 CHCSCNCR 102 0.02 0.02
+2 No-Go to Section 06.06 CHCSCNCR 439,783 86.83 86.29
+7 Don't know/Not Sure-Go to Section 06.06 CHCSCNCR 1,485 0.29 0.25
+9 Refused-Go to Section 06.06 CHCSCNCR 102 0.02 0.02
 Still Have Asthma
 Section: 6.5 Chronic Health Conditions Type: Num
 Column: 93 SAS Variable Name: ASTHNOW
@@ -723,7 +723,7 @@ Weighted
 Percentage
 1 Yes 45,203 69.44 65.05
 2 No 18,181 27.93 32.19
-7 Don’t know/Not Sure 1,676 2.57 2.71
+7 Don't know/Not Sure 1,676 2.57 2.71
 9 Refused 37 0.06 0.06
 BLANK Not asked or Missing
 Notes: Section 06.04, ASTHMA3, is coded 2, 7, 9, or Missing
@@ -738,7 +738,7 @@ Weighted
 Percentage
 1 Yes 44,352 8.78 5.72
 2 No 459,709 90.97 94.09
-7 Don’t know / Not sure 1,174 0.23 0.17
+7 Don't know / Not sure 1,174 0.23 0.17
 9 Refused 107 0.02 0.02
 BLANK Not asked or Missing 1,125
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -755,7 +755,7 @@ Weighted
 Percentage
 1 Yes 47,502 9.40 6.45
 2 No 456,677 90.37 93.34
-7 Don’t know / Not sure 994 0.20 0.19
+7 Don't know / Not sure 994 0.20 0.19
 9 Refused 169 0.03 0.03
 BLANK Not asked or Missing 1,125
 Ever told) you have
@@ -769,7 +769,7 @@ Weighted
 Percentage
 1 Yes 39,440 7.80 6.29
 2 No 463,188 91.66 93.20
-7 Don’t know / Not sure 2,573 0.51 0.49
+7 Don't know / Not sure 2,573 0.51 0.49
 9 Refused 139 0.03 0.02
 BLANK Not asked or Missing 1,127
 Told Have Arthritis
@@ -784,7 +784,7 @@ Weighted
 Percentage
 1 Yes 168,483 33.34 24.64
 2 No 333,602 66.02 74.78
-7 Don’t know/Not Sure 3,089 0.61 0.56
+7 Don't know/Not Sure 3,089 0.61 0.56
 9 Refused 167 0.03 0.03
 BLANK Not asked or Missing 1,126
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -802,7 +802,7 @@ Weighted
 Percentage
 1 Yes 91,092 18.03 16.73
 2 No 411,928 81.52 82.80
-7 Don’t know/Not sure 1,895 0.38 0.40
+7 Don't know/Not sure 1,895 0.38 0.40
 9 Refused 417 0.08 0.08
 BLANK Not asked or Missing 1,135
 Ever told) you have kidney disease?
@@ -816,7 +816,7 @@ Weighted
 Percentage
 1 Yes 15,752 3.12 2.52
 2 No 487,877 96.54 97.20
-7 Don’t know / Not sure 1,559 0.31 0.26
+7 Don't know / Not sure 1,559 0.31 0.26
 9 Refused 151 0.03 0.02
 BLANK Not asked or Missing 1,128
 Ever told you have vision or eye problems?
@@ -831,7 +831,7 @@ Percentage
 1 Yes 119,080 23.56 19.58
 2 No 379,654 75.13 79.18
 3 Respondent is blind 862 0.17 0.14
-7 Don’t know / Not sure 5,144 1.02 0.97
+7 Don't know / Not sure 5,144 1.02 0.97
 9 Refused 601 0.12 0.13
 BLANK Not asked or Missing 1,126
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -851,7 +851,7 @@ Percentage
 2 Yes, but female told only during pregnancy 4,828 0.96 1.08
 3 No 429,062 84.91 87.55
 4 No, pre-diabetes or borderline diabetes 8,179 1.62 1.39
-7 Don’t know/Not Sure 602 0.12 0.15
+7 Don't know/Not Sure 602 0.12 0.15
 9 Refused 209 0.04 0.05
 BLANK Not asked or Missing 1,126
 Smoked at Least 100 Cigarettes
@@ -863,9 +863,9 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 Yes 232,861 45.98 44.62
-2 No—Go to Section 07.05 USENOW3 271,310 53.57 54.97
-7 Don’t know/Not Sure—Go to Section 07.05 USENOW3 2,103 0.42 0.36
-9 Refused—Go to Section 07.05 USENOW3 193 0.04 0.05
+2 No-Go to Section 07.05 USENOW3 271,310 53.57 54.97
+7 Don't know/Not Sure-Go to Section 07.05 USENOW3 2,103 0.42 0.36
+9 Refused-Go to Section 07.05 USENOW3 193 0.04 0.05
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
 CODEBOOK REPORT, 2011
 Land-Line and Cell-Phone data
@@ -880,9 +880,9 @@ Weighted
 Percentage
 1 Every day 62,027 26.64 31.83
 2 Some days 22,724 9.76 12.98
-3 Not at all—Go to Section 07.04 LASTSMK2 147,864 63.50 55.07
-7 Don´t Know/Not Sure—Go to Section 07.05 USENOW3 79 0.03 0.04
-9 Refused—Go to Section 07.05 USENOW3 166 0.07 0.08
+3 Not at all-Go to Section 07.04 LASTSMK2 147,864 63.50 55.07
+7 Don´t Know/Not Sure-Go to Section 07.05 USENOW3 79 0.03 0.04
+9 Refused-Go to Section 07.05 USENOW3 166 0.07 0.08
 BLANK Not asked or Missing
 Notes: Section 07.01, SMOKE100, is coded 2, 7, 9, or Missing
 273,607
@@ -895,10 +895,10 @@ smoking?
 Value Value Label Frequency Percentage
 Weighted
 Percentage
-1 Yes—Go to Section 07.05 USENOW3 47,472 56.01 59.30
-2 No—Go to Section 07.05 USENOW3 36,999 43.66 40.33
-7 Don’t know/Not Sure—Go to Section 07.05 USENOW3 221 0.26 0.23
-9 Refused—Go to Section 07.05 USENOW3 58 0.07 0.14
+1 Yes-Go to Section 07.05 USENOW3 47,472 56.01 59.30
+2 No-Go to Section 07.05 USENOW3 36,999 43.66 40.33
+7 Don't know/Not Sure-Go to Section 07.05 USENOW3 221 0.26 0.23
+9 Refused-Go to Section 07.05 USENOW3 58 0.07 0.14
 BLANK Not asked or Missing
 Notes: Section 07.01, SMOKE100, is coded 2, 7, 9, or Missing; or
 Section 07.02, SMOKDAY2, is coded 3, 7, 9, or Missing
@@ -923,7 +923,7 @@ Percentage
 6 Within the past 10 years (5 years but less than 10 years ago) 14,762 9.98 11.17
 7 10 years or more 98,475 66.60 56.52
 8 Never smoked regularly 300 0.20 0.28
-77 Don’t know/Not sure 679 0.46 0.45
+77 Don't know/Not sure 679 0.46 0.45
 99 Refused 86 0.06 0.08
 BLANK Not asked or Missing
 Notes: Section 07.01, SMOKE100, is coded 2, 7, 9, or Missing; or
@@ -943,7 +943,7 @@ Percentage
 1 Every day 8,657 1.71 1.88
 2 Some days 6,729 1.33 1.82
 3 Not at all 490,647 96.88 96.17
-7 Don’t know/Not Sure 144 0.03 0.04
+7 Don't know/Not Sure 144 0.03 0.04
 9 Refused 287 0.06 0.10
 BLANK Not asked or Missing 3
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -958,7 +958,7 @@ Description: What is your age?
 Value Value Label Frequency Percentage
 Weighted
 Percentage
-7 Don’t know/Not sure 443 0.09 0.06
+7 Don't know/Not sure 443 0.09 0.06
 9 Refused 4,521 0.89 0.62
 18 - 24 Age 18 - 24
 Notes: _ _ Code age in years
@@ -979,7 +979,7 @@ Weighted
 Percentage
 1 Yes 38,718 7.64 15.16
 2 No 464,920 91.80 84.41
-7 Don’t know/Not Sure 1,382 0.27 0.18
+7 Don't know/Not Sure 1,382 0.27 0.18
 9 Refused 1,447 0.29 0.25
 Multiple Race
 Section: 8.3 Demographics Type: Char
@@ -989,7 +989,7 @@ Description: Which one or more of the following would you say is your race? [Mar
 Value Value Label Frequency Percentage
 Weighted
 Percentage
-7 Don’t know/Not sure 1,675 0.33 0.64
+7 Don't know/Not sure 1,675 0.33 0.64
 9 Refused
 Notes: Specify__________
 5,028 0.99 1.57
@@ -1017,7 +1017,7 @@ Percentage
 6 Other
 Notes: Specify__________
 357 3.54 4.37
-7 Don’t know/Not sure 641 6.36 6.44
+7 Don't know/Not sure 641 6.36 6.44
 8 Multiracial but preferred race not asked 43 0.43 0.07
 9 Refused 567 5.63 8.20
 BLANK Not asked or Missing
@@ -1035,7 +1035,7 @@ Weighted
 Percentage
 1 Yes 64,594 12.76 10.85
 2 No 441,365 87.17 89.07
-7 Don’t know/Not Sure 138 0.03 0.03
+7 Don't know/Not Sure 138 0.03 0.03
 9 Refused 251 0.05 0.06
 BLANK Not asked or Missing 119
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -1144,7 +1144,7 @@ Notes: If “no,“ ask 07
 Notes: If “no,“ code 08
 67,569 13.37 12.79
 8 $75,000 or more 114,328 22.62 23.56
-77 Don’t know/Not sure 36,192 7.16 7.98
+77 Don't know/Not sure 36,192 7.16 7.98
 99 Refused 36,384 7.20 5.77
 BLANK Not asked or Missing 999
 Reported Weight in Pounds
@@ -1159,7 +1159,7 @@ Percentage
 50 - 0999 Weight (pounds)
 Notes: 0 _ _ _ = weight in pounds
 484,429 95.81 96.25
-7777 Don’t know/Not sure 7,643 1.51 1.46
+7777 Don't know/Not sure 7,643 1.51 1.46
 9000 - 999 Weight (kilograms)
 Notes: The initial ´9´ indicates this was a metric value.
 569 0.11 0.20
@@ -1181,7 +1181,7 @@ Percentage
 200 - 711 Height (ft/inches)
 Notes: 0 _ / _ _ = feet / inches
 497,909 98.50 97.71
-7777 Don’t know/Not sure 3,643 0.72 1.03
+7777 Don't know/Not sure 3,643 0.72 1.03
 9000 - 999 Height (meters/centimeters)
 Notes: The initial ´9´ indicates this was a metric value.
 1,530 0.30 0.72
@@ -1195,7 +1195,7 @@ Description: What county do you live in?
 Value Value Label Frequency Percentage
 Weighted
 Percentage
-777 Don’t know/Not sure 4,260 0.91 1.46
+777 Don't know/Not sure 4,260 0.91 1.46
 999 Refused 12,139 2.59 2.65
 BLANK Not asked or Missing 37,163
 HIDDEN Data not displayed
@@ -1212,10 +1212,10 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 Yes 20,956 4.83 4.34
-2 No—Go to Section 08.17 CPDEMO1 411,076 94.78 95.19
-7 Don’t know/Not sure—Go to Section 08.17 CPDEMO1 206 0.05 0.04
-9 Refused—Go to Section 08.17 CPDEMO1 1,486 0.34 0.42
-BLANK Not asked or Missing—Go to Section 08.17 CPDEMO1 72,743
+2 No-Go to Section 08.17 CPDEMO1 411,076 94.78 95.19
+7 Don't know/Not sure-Go to Section 08.17 CPDEMO1 206 0.05 0.04
+9 Refused-Go to Section 08.17 CPDEMO1 1,486 0.34 0.42
+BLANK Not asked or Missing-Go to Section 08.17 CPDEMO1 72,743
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
 CODEBOOK REPORT, 2011
 Land-Line and Cell-Phone data
@@ -1236,7 +1236,7 @@ Percentage
 6 Residential telephone numbers
 Notes: 6 = 6 or more
 33 0.16 0.09
-7 Don’t know/Not Sure 204 0.97 1.34
+7 Don't know/Not Sure 204 0.97 1.34
 9 Refused 201 0.96 1.23
 BLANK Not asked or Missing
 Notes: Section 08.15, NUMHHOL2, is coded 2, 7, 9, or Missing
@@ -1249,9 +1249,9 @@ Description: Do you have a cell phone for personal use? Please include cell phon
 Value Value Label Frequency Percentage
 Weighted
 Percentage
-1 Yes—Go to Section 08.19 CPDEMO3 330,067 76.11 82.85
+1 Yes-Go to Section 08.19 CPDEMO3 330,067 76.11 82.85
 2 No 101,376 23.38 16.65
-7 Don’t know/Not sure 175 0.04 0.02
+7 Don't know/Not sure 175 0.04 0.02
 9 Refused 2,038 0.47 0.48
 BLANK Not asked or Missing 72,811
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -1266,10 +1266,10 @@ Description: Do you share a cell phone for personal use (at least one-third of t
 Value Value Label Frequency Percentage
 Weighted
 Percentage
-1 Yes—Go to Section 08.20 CPDEMO4 5,246 5.91 11.15
-2 No—Go to Section 08.21 RENTHOM1 81,759 92.10 86.05
-7 Don’t know/Not sure—Go to Section 08.21 RENTHOM1 143 0.16 0.15
-9 Refused—Go to Section 08.21 RENTHOM1 1,621 1.83 2.65
+1 Yes-Go to Section 08.20 CPDEMO4 5,246 5.91 11.15
+2 No-Go to Section 08.21 RENTHOM1 81,759 92.10 86.05
+7 Don't know/Not sure-Go to Section 08.21 RENTHOM1 143 0.16 0.15
+9 Refused-Go to Section 08.21 RENTHOM1 1,621 1.83 2.65
 BLANK Not asked or Missing
 Notes: Section 08.17, CPDEMO1, is coded 1
 417,698
@@ -1283,7 +1283,7 @@ Weighted
 Percentage
 1 Yes 44,678 13.54 14.48
 2 No 284,642 86.25 85.30
-7 Don’t know/Not sure 382 0.12 0.10
+7 Don't know/Not sure 382 0.12 0.10
 9 Refused 325 0.10 0.12
 BLANK Not asked or Missing
 Notes: Section 08.18, CPDEMO2, is coded 1, 2, 7, 9, or Missing
@@ -1317,7 +1317,7 @@ Percentage
 1 Own 372,334 73.84 65.60
 2 Rent 106,532 21.13 27.35
 3 Other arrangement 19,504 3.87 5.65
-7 Don’t know/Not Sure 785 0.16 0.27
+7 Don't know/Not Sure 785 0.16 0.27
 9 Refused 5,063 1.00 1.13
 BLANK Not asked or Missing 2,249
 Respondents Sex
@@ -1328,8 +1328,8 @@ Description: Indicate sex of respondent.
 Value Value Label Frequency Percentage
 Weighted
 Percentage
-1 Male—Go to Section 09.01 FRUITJU1 198,812 39.25 48.73
-2 Female—If 12.01, AGE, is 45 or older go to Section 09.01 FRUITJU1 307,655 60.75 51.27
+1 Male-Go to Section 09.01 FRUITJU1 198,812 39.25 48.73
+2 Female-If 12.01, AGE, is 45 or older go to Section 09.01 FRUITJU1 307,655 60.75 51.27
 Pregnancy Status
 Section: 8.23 Demographics Type: Num
 Column: 152 SAS Variable Name: PREGNANT
@@ -1340,7 +1340,7 @@ Weighted
 Percentage
 1 Yes 3,157 3.87 3.76
 2 No 77,925 95.48 95.36
-7 Don’t know/Not Sure 230 0.28 0.31
+7 Don't know/Not Sure 230 0.28 0.31
 9 Refused 306 0.37 0.56
 BLANK Not asked or Missing
 Notes: Section 8.22, SEX, is coded 1; or Section 8.01, AGE, is
@@ -1365,7 +1365,7 @@ Percentage
 300 Less than one time per month 2,711 0.55 0.59
 301 - 399 Per month 111,531 22.67 23.52
 555 Never 161,768 32.88 30.87
-777 Don’t know/Not sure 10,362 2.11 1.90
+777 Don't know/Not sure 10,362 2.11 1.90
 999 Refused 2,958 0.60 1.26
 BLANK Not asked or Missing 14,416
 How many times did you eat fruit?
@@ -1383,7 +1383,7 @@ Percentage
 300 Less than one time per month 343 0.07 0.08
 301 - 399 Per month 110,333 22.47 22.84
 555 Never 18,702 3.81 4.17
-777 Don’t know/Not sure 6,077 1.24 1.01
+777 Don't know/Not sure 6,077 1.24 1.01
 999 Refused 2,753 0.56 1.23
 BLANK Not asked or Missing 15,399
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -1407,7 +1407,7 @@ Percentage
 300 Less than one time per month 1,522 0.31 0.35
 301 - 399 Per month 197,441 40.29 38.69
 555 Never 80,136 16.35 15.97
-777 Don’t know/Not sure 8,554 1.75 1.35
+777 Don't know/Not sure 8,554 1.75 1.35
 999 Refused 2,730 0.56 1.24
 BLANK Not asked or Missing 16,427
 How many times did you eat dark green vegetables?
@@ -1424,7 +1424,7 @@ Percentage
 300 Less than one time per month 681 0.14 0.16
 301 - 399 Per month 156,080 31.91 31.28
 555 Never 38,786 7.93 7.73
-777 Don’t know/Not sure 5,168 1.06 0.82
+777 Don't know/Not sure 5,168 1.06 0.82
 999 Refused 2,703 0.55 1.25
 BLANK Not asked or Missing 17,276
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -1446,7 +1446,7 @@ Percentage
 300 Less than one time per month 1,436 0.29 0.36
 301 - 399 Per month 193,813 39.67 38.76
 555 Never 68,004 13.92 16.41
-777 Don’t know/Not sure 5,951 1.22 0.96
+777 Don't know/Not sure 5,951 1.22 0.96
 999 Refused 2,617 0.54 1.27
 BLANK Not asked or Missing 17,920
 How many times did you eat OTHER vegetables?
@@ -1465,7 +1465,7 @@ Percentage
 300 Less than one time per month 150 0.03 0.03
 301 - 399 Servings per month 135,663 27.82 28.14
 555 Never 8,042 1.65 2.23
-777 Don’t know/Not sure 6,928 1.42 1.12
+777 Don't know/Not sure 6,928 1.42 1.12
 999 Refused 2,977 0.61 1.37
 BLANK Not asked or Missing 18,786
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -1482,9 +1482,9 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 Yes 353,170 72.71 73.58
-2 No—Go to Section 11.01 QLACTLM2 130,303 26.83 25.47
-7 Don’t know/Not Sure—Go to Section 11.01 QLACTLM2 589 0.12 0.09
-9 Refused—Go to Section 11.01 QLACTLM2 1,680 0.35 0.87
+2 No-Go to Section 11.01 QLACTLM2 130,303 26.83 25.47
+7 Don't know/Not Sure-Go to Section 11.01 QLACTLM2 589 0.12 0.09
+9 Refused-Go to Section 11.01 QLACTLM2 1,680 0.35 0.87
 BLANK Not asked or Missing 20,725
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
 CODEBOOK REPORT, 2011
@@ -1594,8 +1594,8 @@ Description: What type of physical activity or exercise did you spend the most t
 Value Value Label Frequency Percentage
 Weighted
 Percentage
-77 Don’t know/Not Sure—Go to Section 10.08 STRENGTH 1,248 0.35 0.33
-99 Refused—Go to Section 10.08 STRENGTH 489 0.14 0.15
+77 Don't know/Not Sure-Go to Section 10.08 STRENGTH 1,248 0.35 0.33
+99 Refused-Go to Section 10.08 STRENGTH 489 0.14 0.15
 BLANK Not asked or Missing 153,468
 How Many Times Walking, Running, Jogging, or Swimming
 Section: 10.4 Exercise (Physical Activity) Type: Num
@@ -1607,7 +1607,7 @@ Weighted
 Percentage
 101 - 199 Times per week 259,802 74.08 73.85
 201 - 299 Times per month 87,915 25.07 25.38
-777 Don’t know/Not sure 2,570 0.73 0.58
+777 Don't know/Not sure 2,570 0.73 0.58
 999 Refused 427 0.12 0.19
 BLANK Not asked or Missing
 Notes: Section 10.01, EXERANY2, is coded 2, 7, 9, or Missing; or
@@ -1622,7 +1622,7 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 - 759 Hours and Minutes 342,419 97.72 98.02
-777 Don’t know/Not sure 6,009 1.71 1.30
+777 Don't know/Not sure 6,009 1.71 1.30
 800 - 959 Hours and Minutes 1,617 0.46 0.58
 999 Refused 351 0.10 0.10
 BLANK Not asked or Missing
@@ -1724,7 +1724,7 @@ Percentage
 68 Wrestling 134 0.04 0.05
 69 Yoga 4,111 1.17 1.12
 70 Other______ 33,971 9.71 7.88
-88 No other activity—Go to Section 10.08 STRENGTH 127,939 36.56 35.83
+88 No other activity-Go to Section 10.08 STRENGTH 127,939 36.56 35.83
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
 CODEBOOK REPORT, 2011
 Land-Line and Cell-Phone data
@@ -1737,8 +1737,8 @@ Description: What other type of physical activity gave you the next most exercis
 Value Value Label Frequency Percentage
 Weighted
 Percentage
-77 Don’t know/Not Sure—Go to Section 10.08 STRENGTH 4,574 1.31 1.37
-99 Refused—Go to Section 10.08 STRENGTH 1,152 0.33 0.42
+77 Don't know/Not Sure-Go to Section 10.08 STRENGTH 4,574 1.31 1.37
+99 Refused-Go to Section 10.08 STRENGTH 1,152 0.33 0.42
 BLANK Not asked or Missing
 Notes: Section 10.01, EXERANY2, is coded 2, 7, 9, or Missing; or
 Section 10.02, EXRACT01 is coded 77, 99
@@ -1753,7 +1753,7 @@ Weighted
 Percentage
 101 - 199 Times per week 148,329 68.64 68.36
 201 - 299 Times per month 65,652 30.38 30.89
-777 Don’t know/Not sure 1,801 0.83 0.57
+777 Don't know/Not sure 1,801 0.83 0.57
 999 Refused 312 0.14 0.19
 BLANK Not asked or Missing
 Notes: Section 10.01, EXERANY2, is coded 2, 7, 9, or Missing; or
@@ -1773,7 +1773,7 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 - 759 Hours and Minutes 210,310 97.39 97.85
-777 Don’t know/Not sure 3,832 1.77 1.26
+777 Don't know/Not sure 3,832 1.77 1.26
 787 1 0.00 0.00
 800 - 959 Hours and Minutes 1,435 0.66 0.72
 999 Refused 379 0.18 0.17
@@ -1795,7 +1795,7 @@ Weighted
 Percentage
 101 - 199 Times per week 123,173 25.49 28.31
 201 - 299 Times per month 51,066 10.57 12.01
-777 Don’t know / Not sure 3,135 0.65 0.55
+777 Don't know / Not sure 3,135 0.65 0.55
 888 Never 303,423 62.79 58.00
 999 Refused 2,408 0.50 1.12
 BLANK Not asked or Missing 23,262
@@ -1813,7 +1813,7 @@ Weighted
 Percentage
 1 Yes 137,208 28.47 23.25
 2 No 339,974 70.55 74.91
-7 Don’t know/Not Sure 1,936 0.40 0.30
+7 Don't know/Not Sure 1,936 0.40 0.30
 9 Refused 2,800 0.58 1.54
 BLANK Not asked or Missing 24,549
 Health Problems Requiring Special Equipment
@@ -1827,7 +1827,7 @@ Weighted
 Percentage
 1 Yes 53,018 11.01 7.74
 2 No 425,868 88.43 90.71
-7 Don’t know/Not Sure 269 0.06 0.06
+7 Don't know/Not Sure 269 0.06 0.06
 9 Refused 2,457 0.51 1.48
 BLANK Not asked or Missing 24,855
 Limited Because of Joint Symptoms
@@ -1840,7 +1840,7 @@ Weighted
 Percentage
 1 Yes 81,377 50.60 50.41
 2 No 77,475 48.17 47.76
-7 Don’t know/Not sure 1,175 0.73 0.64
+7 Don't know/Not sure 1,175 0.73 0.64
 9 Refused 811 0.50 1.18
 BLANK Not asked or Missing
 Notes: Section 06.09, HAVARTH3, is coded 2, 7, 9, or Missing
@@ -1859,7 +1859,7 @@ Weighted
 Percentage
 1 Yes 52,115 32.42 34.65
 2 No 104,223 64.84 62.13
-7 Don’t know/Not Sure 2,565 1.60 1.36
+7 Don't know/Not Sure 2,565 1.60 1.36
 9 Refused 1,829 1.14 1.87
 BLANK Missing
 Notes: Section 06.09, HAVARTH3, is coded 2, 7, 9, or Missing
@@ -1876,7 +1876,7 @@ Percentage
 1 A lot 31,148 19.40 20.44
 2 A little 40,341 25.13 25.58
 3 Not at all 87,189 54.31 52.25
-7 Don’t know/Not Sure 919 0.57 0.47
+7 Don't know/Not Sure 919 0.57 0.47
 9 Refused 943 0.59 1.27
 BLANK Missing
 Notes: Section 06.09, HAVARTH3, is coded 2, 7, 9, or Missing
@@ -1896,7 +1896,7 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 0 - 10 Enter number [0-10] 156,282 97.51 97.05
-77 Don’t know/Not Sure 2,700 1.68 1.29
+77 Don't know/Not Sure 2,700 1.68 1.29
 99 Refused 1,285 0.80 1.66
 BLANK Missing
 Notes: Section 06.09, HAVARTH3, is coded 2, 7, 9, or Missing
@@ -1905,7 +1905,7 @@ How often use seatbelts in car?
 Section: 13.1 Seatbelt Use Type: Num
 Column: 198 SAS Variable Name: SEATBELT
 Prologue:
-Description: How often do you use seat belts when you drive or ride in a car? Would you say—
+Description: How often do you use seat belts when you drive or ride in a car? Would you say-
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -1914,7 +1914,7 @@ Percentage
 3 Sometimes 14,786 3.08 2.98
 4 Seldom 6,076 1.26 1.24
 5 Never 8,115 1.69 1.76
-7 Don’t know/Not sure 355 0.07 0.06
+7 Don't know/Not sure 355 0.07 0.06
 8 Never drive or ride in a car 1,337 0.28 0.26
 9 Refused 2,659 0.55 1.56
 BLANK Not asked or Missing 26,058
@@ -1933,9 +1933,9 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 Yes 215,781 45.01 36.03
-2 No—Go to Section 14.04 PNEUVAC3 259,939 54.22 62.15
-7 Don’t know/Not Sure—Go to Section 14.04 PNEUVAC3 1,130 0.24 0.29
-9 Refused—Go to Section 14.04 PNEUVAC3 2,580 0.54 1.54
+2 No-Go to Section 14.04 PNEUVAC3 259,939 54.22 62.15
+7 Don't know/Not Sure-Go to Section 14.04 PNEUVAC3 1,130 0.24 0.29
+9 Refused-Go to Section 14.04 PNEUVAC3 2,580 0.54 1.54
 BLANK Not asked or Missing 27,037
 Where did you get your last flu shot/vaccine?
 Section: 14.3 Immunization Type: Num
@@ -1958,7 +1958,7 @@ center)
 9 Some other kind of place 6,691 3.11 3.05
 10 Received vaccination in Canada/Mexico (Volunteered – Do not read) 89 0.04 0.07
 11 A school 2,569 1.19 1.59
-77 Don’t know / Not sure—Probe: 651 0.30 0.26
+77 Don't know / Not sure-Probe: 651 0.30 0.26
 99 Refused 150 0.07 0.12
 BLANK Not asked or Missing
 Notes: Section 14.01, FLUSHOT4, is coded 2, 7, or 9
@@ -1978,7 +1978,7 @@ Weighted
 Percentage
 1 Yes 169,387 35.37 26.93
 2 No 268,308 56.03 60.95
-7 Don’t know/Not Sure 38,633 8.07 10.56
+7 Don't know/Not Sure 38,633 8.07 10.56
 9 Refused 2,565 0.54 1.56
 BLANK Not asked or Missing 27,574
 Days in past 30 had alcoholic beverage
@@ -1996,9 +1996,9 @@ Notes: 1_ _ = Days per week
 201 - 299 Days in past 30 days
 Notes: 2_ _ = Days in past 30
 150,258 31.40 33.63
-777 Don’t know/Not sure—Go to Section 16.01 HIVTST6 2,427 0.51 0.46
-888 No drinks in past 30 days—Go to Section 16.01 HIVTST6 230,214 48.10 43.87
-999 Refused—Go to Section 16.01 HIVTST6 3,404 0.71 1.77
+777 Don't know/Not sure-Go to Section 16.01 HIVTST6 2,427 0.51 0.46
+888 No drinks in past 30 days-Go to Section 16.01 HIVTST6 230,214 48.10 43.87
+999 Refused-Go to Section 16.01 HIVTST6 3,404 0.71 1.77
 BLANK Not asked or Missing 27,864
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
 CODEBOOK REPORT, 2011
@@ -2017,7 +2017,7 @@ Percentage
 1 - 76 Number of drinks
 Notes: _ _ Number of drinks
 239,213 98.69 98.33
-77 Don’t know/Not sure 2,555 1.05 1.40
+77 Don't know/Not sure 2,555 1.05 1.40
 99 Refused 617 0.25 0.27
 BLANK Not asked or Missing
 Notes: Section 15.01, ALCDAY5, is coded 888, 766, or 9999;
@@ -2033,7 +2033,7 @@ Weighted
 Percentage
 1 - 76 Number of Times 60,769 25.09 32.90
 88 None 178,675 73.77 65.65
-77 Don’t know/Not Sure 2,258 0.93 1.17
+77 Don't know/Not Sure 2,258 0.93 1.17
 99 Refused 516 0.21 0.28
 BLANK Not asked or Missing
 Notes: Section 15.01, ALCDAY5, is coded 888, 777, or 999;
@@ -2047,7 +2047,7 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 - 76 Number of drinks 235,194 97.16 96.56
-77 Don’t know/Not sure 5,879 2.43 2.91
+77 Don't know/Not sure 5,879 2.43 2.91
 99 Refused 991 0.41 0.54
 BLANK Not asked or Missing
 Notes: Section 15.01, ALCDAY5, is coded 888, 777, or 999;
@@ -2066,9 +2066,9 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 Yes 133,239 28.27 35.92
-2 No—Go to Section 16.03 HIVRISK3 322,055 68.34 60.14
-7 Don’t know/Not Sure—Go to Section 16.03 HIVRISK3 11,909 2.53 2.02
-9 Refused—Go to Section 16.03 HIVRISK3 4,052 0.86 1.93
+2 No-Go to Section 16.03 HIVRISK3 322,055 68.34 60.14
+7 Don't know/Not Sure-Go to Section 16.03 HIVRISK3 11,909 2.53 2.02
+9 Refused-Go to Section 16.03 HIVRISK3 4,052 0.86 1.93
 BLANK Not asked or Missing 35,212
 Month and Year of Last HIV Test
 Section: 16.2 HIV/AIDS Type: Num
@@ -2082,7 +2082,7 @@ Percentage
 11985 - 12 Code month and year
 Notes: _ _/_ _ _ _ month and year
 105,423 79.17 83.57
-777777 Don’t know/Not sure 27,365 20.55 16.12
+777777 Don't know/Not sure 27,365 20.55 16.12
 999999 Refused 378 0.28 0.30
 BLANK Not asked or Missing
 Notes: Section 16.01, HIVTST6, is coded 2, 7, 9, or Missing
@@ -2104,7 +2104,7 @@ Weighted
 Percentage
 1 Yes 9,738 2.09 3.73
 2 No 451,645 96.88 94.19
-7 Don’t know/Not sure 374 0.08 0.06
+7 Don't know/Not sure 374 0.08 0.06
 9 Refused 4,418 0.95 2.02
 BLANK Not asked or Missing 40,292
 Had a test for high blood sugar or diabetes in the past three years?
@@ -2117,7 +2117,7 @@ Weighted
 Percentage
 1 Yes 70,817 57.38 51.96
 2 No 46,834 37.95 43.55
-7 Don’t know/Not Sure 5,725 4.64 4.46
+7 Don't know/Not Sure 5,725 4.64 4.46
 9 Refused 42 0.03 0.03
 BLANK Not asked or Missing
 Notes: Section 6.13, DIABETE3, is coded 1
@@ -2138,7 +2138,7 @@ Percentage
 1 Yes 10,167 8.24 7.07
 2 Yes, during pregnancy 1,577 1.28 1.32
 3 No 111,197 90.11 91.23
-7 Don’t know/Not Sure 413 0.33 0.34
+7 Don't know/Not Sure 413 0.33 0.34
 9 Refused 48 0.04 0.04
 BLANK Not asked or Missing
 Notes: Section 6.13, DIABETE3, is coded 1; If Section 6.13,
@@ -2156,7 +2156,7 @@ Percentage
 1 - 97 Age in years [97 = 97 and older]
 Notes: _ _ Code age in years, 97 = 97 or older
 13,799 94.09 94.76
-98 Don’t know/Not sure 808 5.51 4.76
+98 Don't know/Not sure 808 5.51 4.76
 99 Refused 58 0.40 0.48
 BLANK Not asked or Missing
 Notes: Section 6.13, DIABETE3, is coded 2, 3, 4, 7, 9, or Missing
@@ -2200,7 +2200,7 @@ Notes: 3 _ _ Times per month
 401 - 499 Times per year
 Notes: 4 _ _ Times per year
 364 2.48 2.24
-777 Don’t know/Not sure 186 1.27 1.49
+777 Don't know/Not sure 186 1.27 1.49
 888 Never 1,702 11.61 11.51
 999 Refused 41 0.28 0.19
 BLANK Not asked or Missing
@@ -2228,7 +2228,7 @@ Notes: 3 _ _ Times per month
 Notes: 4 _ _ Times per year
 263 1.79 1.87
 555 No feet 119 0.81 1.40
-777 Don’t know/Not sure 386 2.63 2.53
+777 Don't know/Not sure 386 2.63 2.53
 888 Never 2,044 13.94 14.47
 999 Refused 49 0.33 0.22
 BLANK Not asked or Missing
@@ -2251,7 +2251,7 @@ Percentage
 Notes: _ _ Number of times, 76=76 or more
 12,634 86.17 86.36
 88 None 1,483 10.11 10.07
-77 Don’t know/Not sure 481 3.28 2.93
+77 Don't know/Not sure 481 3.28 2.93
 99 Refused 64 0.44 0.64
 BLANK Not asked or Missing
 Notes: Section 6.13, DIABETE3, is coded 2, 3, 4, 7, 9, or Missing
@@ -2270,7 +2270,7 @@ Notes: _ _ Number of times, 76 = 76 or more
 11,654 79.50 79.12
 88 None 1,118 7.63 8.39
 98 Never heard of “A one C” test 658 4.49 4.19
-77 Don’t know/Not sure 1,188 8.10 7.80
+77 Don't know/Not sure 1,188 8.10 7.80
 99 Refused 42 0.29 0.50
 BLANK Not asked or Missing
 Notes: Section 6.13, DIABETE3, is coded 2, 3, 4, 7, 9, or Missing
@@ -2291,7 +2291,7 @@ Percentage
 Notes: _ _ Number of times, 76=76 or more
 10,514 72.31 71.99
 88 None 3,552 24.43 24.54
-77 Don’t know/Not sure 425 2.92 2.92
+77 Don't know/Not sure 425 2.92 2.92
 99 Refused 49 0.34 0.55
 BLANK Not asked or Missing
 Notes: Section 6.13, DIABETE3, is coded 2, 3, 4, 7, 9, or Missing;
@@ -2310,7 +2310,7 @@ Percentage
 2 Within the past year (1 month but less than 12 months ago) 7,479 51.03 51.49
 3 Within the past 2 years (1 year but less than 2 years ago) 1,920 13.10 13.36
 4 2 or more years ago 1,705 11.63 11.97
-7 Don’t know/Not sure 244 1.66 1.47
+7 Don't know/Not sure 244 1.66 1.47
 8 Never 465 3.17 3.81
 9 Refused 18 0.12 0.10
 BLANK Not asked or Missing
@@ -2330,7 +2330,7 @@ Weighted
 Percentage
 1 Yes 2,714 18.52 18.84
 2 No 11,739 80.11 79.81
-7 Don’t know/Not sure 187 1.28 1.18
+7 Don't know/Not sure 187 1.28 1.18
 9 Refused 13 0.09 0.17
 BLANK Not asked or Missing
 Notes: Section 6.13, DIABETE3, is coded 2, 3, 4, 7, 9, or Missing
@@ -2345,7 +2345,7 @@ Weighted
 Percentage
 1 Yes 7,892 53.86 51.84
 2 No 6,687 45.64 47.46
-7 Don’t know/Not sure 63 0.43 0.58
+7 Don't know/Not sure 63 0.43 0.58
 9 Refused 11 0.08 0.12
 BLANK Not asked or Missing
 Notes: Section 6.13, DIABETE3, is coded 2, 3, 4, 7, 9, or Missing
@@ -2402,7 +2402,7 @@ Percentage
 101 - 199 Times per day 3,124 12.03 17.17
 201 - 299 Times per week 4,714 18.15 20.79
 301 - 399 Times per month 4,950 19.05 19.23
-777 Don’t know/Not sure 187 0.72 0.56
+777 Don't know/Not sure 187 0.72 0.56
 888 Never 12,989 50.00 42.23
 999 Refused 14 0.05 0.02
 BLANK Not asked or Missing 480,489
@@ -2422,7 +2422,7 @@ Percentage
 101 - 199 Times per day 1,742 6.71 7.95
 201 - 299 Times per week 4,029 15.51 19.84
 301 - 399 Times per month 4,940 19.02 19.70
-777 Don’t know/Not sure 298 1.15 0.90
+777 Don't know/Not sure 298 1.15 0.90
 888 Never 14,950 57.57 51.59
 999 Refused 10 0.04 0.02
 BLANK Not asked or Missing 480,498
@@ -2443,7 +2443,7 @@ Percentage
 6 Never noticed or never looked for calorie information 629 2.43 1.32
 8 Usually cannot find calorie information 97 0.37 0.22
 55 Do not eat at fast food or chain restaurants 1,788 6.89 4.32
-77 Don’t know/Not sure 85 0.33 0.27
+77 Don't know/Not sure 85 0.33 0.27
 99 Refused 12 0.05 0.05
 BLANK Not asked or Missing 480,534
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -2462,7 +2462,7 @@ Weighted
 Percentage
 1 Yes 1,674 49.15 47.89
 2 No 1,626 47.74 48.75
-7 Don’t know / Not sure 26 0.76 0.82
+7 Don't know / Not sure 26 0.76 0.82
 9 Refused 80 2.35 2.54
 BLANK Not asked or Missing
 Notes: Section 8.22, SEX, is coded 1; or Section 8.22, SEX, is coded
@@ -2479,7 +2479,7 @@ Weighted
 Percentage
 1 Yes 2,587 76.02 72.72
 2 No 739 21.72 24.68
-7 Don’t know / Not sure 3 0.09 0.18
+7 Don't know / Not sure 3 0.09 0.18
 9 Refused 74 2.17 2.41
 BLANK Not asked or Missing
 Notes: Section 8.22, SEX, is coded 1; or Section 8.22, SEX, is coded
@@ -2498,11 +2498,11 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 Yes 1,577 46.37 45.79
-2 No—Go to Module 05.05 NOBCUSE4 1,507 44.31 42.40
-3 No partner/not sexually active—Go to Module 05.06 FPCHLDF2 155 4.56 5.98
-4 Same sex partner—Go to Module 05.06 FPCHLDF2 14 0.41 0.51
-7 Don’t know / Not sure—Go to Module 05.06 FPCHLDF2 22 0.65 1.11
-9 Refused—Go to Module 05.06 FPCHLDF2 126 3.70 4.22
+2 No-Go to Module 05.05 NOBCUSE4 1,507 44.31 42.40
+3 No partner/not sexually active-Go to Module 05.06 FPCHLDF2 155 4.56 5.98
+4 Same sex partner-Go to Module 05.06 FPCHLDF2 14 0.41 0.51
+7 Don't know / Not sure-Go to Module 05.06 FPCHLDF2 22 0.65 1.11
+9 Refused-Go to Module 05.06 FPCHLDF2 126 3.70 4.22
 BLANK Not asked or Missing
 Notes: Section 8.22, SEX, is coded 1; or Section 8.22, SEX, is coded
 2 and Section 8.01, AGE, is greater than 44;
@@ -2519,34 +2519,34 @@ Description: What did you or your husband/partner do the last time you had sex t
 Value Value Label Frequency Percentage
 Weighted
 Percentage
-1 Female sterilization (ex. tubal ligation, Essure, Adiana)—Go to
+1 Female sterilization (ex. tubal ligation, Essure, Adiana)-Go to
 Module 05.07 PFPVITMN
 194 12.33 11.16
-2 Male sterilization (vasectomy)—Go to Module 05.07 PFPVITMN 125 7.95 8.89
-3 Contraceptive implant (ex. Implanon)—Go to Module 05.06 FPCHLDF2 15 0.95 1.07
-4 Levonorgestrel(LNG) or hormonal IUD(ex. Mirena)—Go to Module 05.06
+2 Male sterilization (vasectomy)-Go to Module 05.07 PFPVITMN 125 7.95 8.89
+3 Contraceptive implant (ex. Implanon)-Go to Module 05.06 FPCHLDF2 15 0.95 1.07
+4 Levonorgestrel(LNG) or hormonal IUD(ex. Mirena)-Go to Module 05.06
 FPCHLDF2
 34 2.16 1.77
-5 Copper-bearing IUD (ex. ParaGard)—Go to Module 05.06 FPCHLDF2 17 1.08 0.63
-6 IUD, type unknown—Go to Module 05.06 FPCHLDF2 109 6.93 6.72
-7 Shots (ex. Depo-Provera)—Go to Module 05.06 FPCHLDF2 40 2.54 1.91
-8 Birth control pills, any kind—Go to Module 05.06 FPCHLDF2 427 27.15 29.05
-9 Contraceptive patch (ex. Ortho Evra)—Go to Module 05.06 FPCHLDF2 8 0.51 0.66
-10 Contraceptive ring (ex. NuvaRing)—Go to Module 05.06 FPCHLDF2 23 1.46 1.33
-11 Male condoms—Go to Module 05.06 FPCHLDF2 430 27.34 26.06
-12 Diaphragm, cervical cap, sponge—Go to Module 05.06 FPCHLDF2 9 0.57 0.48
-13 Female condoms—Go to Module 05.06 FPCHLDF2 9 0.57 0.39
+5 Copper-bearing IUD (ex. ParaGard)-Go to Module 05.06 FPCHLDF2 17 1.08 0.63
+6 IUD, type unknown-Go to Module 05.06 FPCHLDF2 109 6.93 6.72
+7 Shots (ex. Depo-Provera)-Go to Module 05.06 FPCHLDF2 40 2.54 1.91
+8 Birth control pills, any kind-Go to Module 05.06 FPCHLDF2 427 27.15 29.05
+9 Contraceptive patch (ex. Ortho Evra)-Go to Module 05.06 FPCHLDF2 8 0.51 0.66
+10 Contraceptive ring (ex. NuvaRing)-Go to Module 05.06 FPCHLDF2 23 1.46 1.33
+11 Male condoms-Go to Module 05.06 FPCHLDF2 430 27.34 26.06
+12 Diaphragm, cervical cap, sponge-Go to Module 05.06 FPCHLDF2 9 0.57 0.48
+13 Female condoms-Go to Module 05.06 FPCHLDF2 9 0.57 0.39
 14 Not having sex at certain times (rhythm or natural family
-planning)—Go to Module 05.06 FPCHLDF2
+planning)-Go to Module 05.06 FPCHLDF2
 5 0.32 1.02
-15 Withdrawal (or pulling out)—Go to Module 05.06 FPCHLDF2 16 1.02 0.73
-16 Foam, jelly, film, or cream—Go to Module 05.06 FPCHLDF2 4 0.25 0.08
-17 Emergency contraception (morning after pill)—Go to Module 05.06
+15 Withdrawal (or pulling out)-Go to Module 05.06 FPCHLDF2 16 1.02 0.73
+16 Foam, jelly, film, or cream-Go to Module 05.06 FPCHLDF2 4 0.25 0.08
+17 Emergency contraception (morning after pill)-Go to Module 05.06
 FPCHLDF2
 2 0.13 0.05
-18 Other method—Go to Module 05.06 FPCHLDF2 46 2.92 3.53
-77 Don’t know/Not sure—Go to Module 05.06 FPCHLDF2 10 0.64 0.57
-99 Refused—Go to Module 05.06 FPCHLDF2 50 3.18 3.89
+18 Other method-Go to Module 05.06 FPCHLDF2 46 2.92 3.53
+77 Don't know/Not sure-Go to Module 05.06 FPCHLDF2 10 0.64 0.57
+99 Refused-Go to Module 05.06 FPCHLDF2 50 3.18 3.89
 BLANK Not asked or Missing
 Notes: Section 8.22, SEX, is coded 1; or Section 8.22, SEX, is coded
 2 and Section 8.01, AGE, is greater than 44; or Module 05.03,
@@ -2577,15 +2577,15 @@ Percentage
 10 Don´t think you or your partner can get pregnant (infertile or too
 old)
 139 9.24 8.57
-11 You had tubes tied (sterilization)—Go to next module 304 20.20 16.69
-12 You had a hysterectomy—Go to next module 148 9.83 7.27
-13 Your partner had a vasectomy (sterilization)—Go to next module 65 4.32 3.14
+11 You had tubes tied (sterilization)-Go to next module 304 20.20 16.69
+12 You had a hysterectomy-Go to next module 148 9.83 7.27
+13 Your partner had a vasectomy (sterilization)-Go to next module 65 4.32 3.14
 14 You are currently breast-feeding 3 0.20 0.37
 15 You just had a baby/postpartum 5 0.33 0.82
-16 You are pregnant now—Go to Module 05.07 PFPVITMN 36 2.39 1.71
+16 You are pregnant now-Go to Module 05.07 PFPVITMN 36 2.39 1.71
 17 Same sex partner 14 0.93 2.38
 18 Other reason 219 14.55 15.13
-77 Don’t know/Not sure 71 4.72 7.99
+77 Don't know/Not sure 71 4.72 7.99
 99 Refused 101 6.71 6.84
 BLANK Not asked or Missing
 Notes: Section 8.22, SEX, is coded 1; or Section 8.22, SEX, is coded
@@ -2614,7 +2614,7 @@ now
 now
 340 13.52 15.72
 5 You do want to have one, 5 or more years from now 259 10.30 14.70
-7 Don’t know/Not sure 147 5.84 5.98
+7 Don't know/Not sure 147 5.84 5.98
 9 Refused 173 6.88 6.67
 BLANK Not asked or Missing
 Notes: Section 8.22, SEX, is coded 1; or Section 8.22, SEX, is coded
@@ -2634,7 +2634,7 @@ Percentage
 2 1 to 3 times a week 229 9.06 9.88
 3 4 to 6 times a week 111 4.39 3.77
 4 Every day of the week 873 34.53 34.53
-7 Don’t know / Not sure 48 1.90 2.55
+7 Don't know / Not sure 48 1.90 2.55
 9 Refused 112 4.43 5.41
 BLANK Not asked or Missing
 Notes: Section 8.22, SEX, is coded 1; or Section 8.22, SEX, is coded
@@ -2649,7 +2649,7 @@ Difficulty recognizing friend across street
 Module: 6.1 Visual Impairment and Access to Eye Care Type: Num
 Column: 290 SAS Variable Name: VIDFCLT3
 Prologue:
-Description: How much difficulty, if any, do you have in recognizing a friend across the street? Would you say—
+Description: How much difficulty, if any, do you have in recognizing a friend across the street? Would you say-
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -2662,7 +2662,7 @@ Module: 6.2 Visual Impairment and Access to Eye Care Type: Num
 Column: 291 SAS Variable Name: VIREDIF3
 Prologue:
 Description: How much difficulty, if any, do you have reading print in newspapers, magazines, recipes, menus, or numbers on the
-telephone? Would you say—
+telephone? Would you say-
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -2775,7 +2775,7 @@ Weighted
 Percentage
 1 - 30 Number of days 15,803 68.30 68.08
 88 None 6,361 27.49 25.02
-77 Don’t know/Not sure 538 2.33 2.80
+77 Don't know/Not sure 538 2.33 2.80
 99 Refused 435 1.88 4.10
 BLANK Not asked or Missing 483,330
 How Much Time Do You Sleep
@@ -2789,7 +2789,7 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 - 24 Number of hours [1-24] 22,403 96.86 94.65
-77 Don’t know/Not Sure 260 1.12 1.05
+77 Don't know/Not Sure 260 1.12 1.05
 99 Refused 467 2.02 4.30
 BLANK Missing 483,337
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -2807,7 +2807,7 @@ Weighted
 Percentage
 1 Yes 10,705 46.29 47.29
 2 No 9,353 40.44 38.91
-7 Don’t know/Not Sure 2,565 11.09 9.17
+7 Don't know/Not Sure 2,565 11.09 9.17
 9 Refused 503 2.18 4.63
 BLANK Not asked or Missing 483,341
 Number of Days in Past Thirty Felt You Did Not Get Enough Sleep
@@ -2820,7 +2820,7 @@ Weighted
 Percentage
 1 - 30 Number of days [1-30] 7,085 30.65 31.45
 88 None 15,075 65.21 62.33
-77 Don’t know/Not Sure 513 2.22 2.34
+77 Don't know/Not Sure 513 2.22 2.34
 99 Refused 445 1.92 3.88
 BLANK Missing 483,349
 Number of Days in Past Thirty Fell Asleep While Driving
@@ -2835,7 +2835,7 @@ Percentage
 2 No 21,175 91.63 89.67
 3 Don´t drive 848 3.67 2.61
 4 Don´t have license 12 0.05 0.06
-7 Don’t know/Not Sure 27 0.12 0.09
+7 Don't know/Not Sure 27 0.12 0.09
 9 Refused 514 2.22 4.62
 BLANK Not asked or Missing 483,359
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -2903,7 +2903,7 @@ Weighted
 Percentage
 1 Yes 943 37.47 37.02
 2 No 1,538 61.10 61.65
-7 Don’t know/Not Sure 24 0.95 0.74
+7 Don't know/Not Sure 24 0.95 0.74
 9 Refused 12 0.48 0.59
 BLANK Not asked or Missing
 Notes: Section 06.01, CVDINFR4, is coded 2, 7, 9 or Missing
@@ -2918,7 +2918,7 @@ Weighted
 Percentage
 1 Yes 598 32.17 31.97
 2 No 1,233 66.33 66.84
-7 Don’t know/Not Sure 22 1.18 1.01
+7 Don't know/Not Sure 22 1.18 1.01
 9 Refused 6 0.32 0.17
 BLANK Not asked or Missing
 Notes: Section 06.03, CVDSTRK3, is coded 2, 7, 9 or Missing
@@ -2931,9 +2931,9 @@ Description: Do you take aspirin daily or every other day?
 Value Value Label Frequency Percentage
 Weighted
 Percentage
-1 Yes—Go to Next Module 15,117 34.23 24.59
+1 Yes-Go to Next Module 15,117 34.23 24.59
 2 No 28,953 65.57 75.27
-7 Don’t know/Not sure 63 0.14 0.11
+7 Don't know/Not sure 63 0.14 0.11
 9 Refused 24 0.05 0.03
 BLANK Not asked or Missing 462,310
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -2952,7 +2952,7 @@ Percentage
 1 Yes, not stomach related 2,115 7.28 4.80
 2 Yes, stomach problems 1,579 5.44 3.68
 3 No 25,028 86.19 90.92
-7 Don’t know/Not sure 284 0.98 0.54
+7 Don't know/Not sure 284 0.98 0.54
 9 Refused 31 0.11 0.05
 BLANK Not asked or Missing
 Notes: Module 09.03, CVDASPRN, is coded 1
@@ -2967,7 +2967,7 @@ Weighted
 Percentage
 1 Yes 22,765 73.14 74.43
 2 No 8,060 25.90 24.77
-7 Don’t know/Not Sure 221 0.71 0.57
+7 Don't know/Not Sure 221 0.71 0.57
 9 Refused 78 0.25 0.23
 BLANK Not asked or Missing
 Notes: Section 04.01, BPHIGH4, is coded 2, 7, 9, or Missing
@@ -2987,7 +2987,7 @@ Percentage
 1 Yes 23,511 75.56 77.01
 2 No 4,490 14.43 14.38
 3 Do not use salt 2,954 9.49 8.13
-7 Don’t know/Not Sure 103 0.33 0.32
+7 Don't know/Not Sure 103 0.33 0.32
 9 Refused 58 0.19 0.16
 BLANK Not asked or Missing
 Notes: Section 04.01, BPHIGH4, is coded 2, 7, 9, or Missing
@@ -3003,7 +3003,7 @@ Percentage
 1 Yes 9,000 28.93 33.62
 2 No 7,040 22.63 23.57
 3 Do not drink 14,887 47.85 42.33
-7 Don’t know/Not Sure 106 0.34 0.27
+7 Don't know/Not Sure 106 0.34 0.27
 9 Refused 80 0.26 0.21
 BLANK Not asked or Missing
 Notes: Section 04.01, BPHIGH4, is coded 2, 7, 9, or Missing
@@ -3022,7 +3022,7 @@ Weighted
 Percentage
 1 Yes 20,412 65.62 64.88
 2 No 10,449 33.59 34.45
-7 Don’t know/Not Sure 169 0.54 0.47
+7 Don't know/Not Sure 169 0.54 0.47
 9 Refused 78 0.25 0.21
 BLANK Not asked or Missing
 Notes: Section 04.01, BPHIGH4, is coded 2, 7, 9, or Missing
@@ -3038,7 +3038,7 @@ Weighted
 Percentage
 1 Yes 18,748 60.29 64.87
 2 No 12,072 38.82 34.47
-7 Don’t know/Not Sure 223 0.72 0.50
+7 Don't know/Not Sure 223 0.72 0.50
 9 Refused 51 0.16 0.15
 BLANK Not asked or Missing
 Notes: Section 04.01, BPHIGH4, is coded 2, 7, 9, or Missing
@@ -3059,7 +3059,7 @@ Percentage
 1 Yes 20,644 66.39 69.30
 2 No 8,886 28.58 26.67
 3 Do not use salt 1,261 4.06 3.25
-7 Don’t know/Not Sure 251 0.81 0.62
+7 Don't know/Not Sure 251 0.81 0.62
 9 Refused 53 0.17 0.15
 BLANK Not asked or Missing
 Notes: Section 04.01, BPHIGH4, is coded 2, 7, 9, or Missing
@@ -3076,7 +3076,7 @@ Percentage
 1 Yes 7,094 22.82 27.51
 2 No 13,664 43.95 44.89
 3 Do not drink 10,149 32.65 27.09
-7 Don’t know/Not Sure 126 0.41 0.37
+7 Don't know/Not Sure 126 0.41 0.37
 9 Refused 55 0.18 0.14
 BLANK Not asked or Missing
 Notes: Section 04.01, BPHIGH4, is coded 2, 7, 9, or Missing
@@ -3096,7 +3096,7 @@ Weighted
 Percentage
 1 Yes 23,099 74.31 75.79
 2 No 7,652 24.62 23.29
-7 Don’t know/Not Sure 264 0.85 0.74
+7 Don't know/Not Sure 264 0.85 0.74
 9 Refused 70 0.23 0.18
 BLANK Not asked or Missing
 Notes: Section 04.01, BPHIGH4, is coded 2, 7, 9, or Missing
@@ -3112,7 +3112,7 @@ Weighted
 Percentage
 1 Yes 28,189 90.70 87.67
 2 No 2,755 8.86 11.97
-7 Don’t know/Not Sure 75 0.24 0.18
+7 Don't know/Not Sure 75 0.24 0.18
 9 Refused 60 0.19 0.18
 BLANK Not asked or Missing
 Notes: Section 04.01, BPHIGH4, is coded 2, 7, 9, or Missing
@@ -3134,7 +3134,7 @@ Percentage
 2 Yes, but female told only during pregnancy 73 0.24 0.26
 3 No 6,715 21.62 22.08
 4 Told borderline or pre-hypertensive 241 0.78 0.67
-7 Don’t know/Not Sure 568 1.83 1.32
+7 Don't know/Not Sure 568 1.83 1.32
 9 Refused 95 0.31 0.28
 BLANK Not asked or Missing
 Notes: Section 04.01, BPHIGH4, is coded 2, 7, 9, or Missing
@@ -3143,14 +3143,14 @@ Heart Attack Symptoms - Jaw/Back/Neck Pain
 Module: 11.1 Heart Attack and Stroke Type: Num
 Column: 326 SAS Variable Name: HASYMP1
 Prologue: Now I would like to ask you about your knowledge of the signs and symptoms of a heart attack and stroke. Which of
-the following do you think is a symptom of a heart attack? For each, tell me “yes”, “no”, or you’re “not sure”:
+the following do you think is a symptom of a heart attack? For each, tell me “yes”, “no”, or you're “not sure”:
 Description: (Do you think) pain or discomfort in the jaw, neck, or back (are symptoms of a heart attack)?
 Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 Yes 15,075 62.64 54.01
 2 No 5,552 23.07 30.41
-7 Don’t know/Not sure 3,423 14.22 15.55
+7 Don't know/Not sure 3,423 14.22 15.55
 9 Refused 17 0.07 0.04
 BLANK Not asked or Missing 482,400
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -3167,7 +3167,7 @@ Weighted
 Percentage
 1 Yes 14,548 60.48 59.47
 2 No 5,536 23.01 23.91
-7 Don’t know/Not sure 3,956 16.44 16.56
+7 Don't know/Not sure 3,956 16.44 16.56
 9 Refused 16 0.07 0.07
 BLANK Not asked or Missing 482,411
 Heart Attack Symptoms - Chest Pain/Discomfort
@@ -3180,7 +3180,7 @@ Weighted
 Percentage
 1 Yes 22,156 92.11 91.32
 2 No 1,097 4.56 5.32
-7 Don’t know/Not sure 787 3.27 3.30
+7 Don't know/Not sure 787 3.27 3.30
 9 Refused 13 0.05 0.06
 BLANK Not asked or Missing 482,414
 Heart Attack Symptoms - Vision Problems
@@ -3193,7 +3193,7 @@ Weighted
 Percentage
 1 Yes 7,831 32.56 34.76
 2 No 10,004 41.59 40.40
-7 Don’t know/Not sure 6,199 25.77 24.78
+7 Don't know/Not sure 6,199 25.77 24.78
 9 Refused 17 0.07 0.06
 BLANK Not asked or Missing 482,416
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -3210,7 +3210,7 @@ Weighted
 Percentage
 1 Yes 20,916 86.99 83.09
 2 No 1,810 7.53 10.33
-7 Don’t know/Not sure 1,304 5.42 6.52
+7 Don't know/Not sure 1,304 5.42 6.52
 9 Refused 15 0.06 0.06
 BLANK Not asked or Missing 482,422
 Heart Attack Symptoms - Shortness of Breath
@@ -3223,20 +3223,20 @@ Weighted
 Percentage
 1 Yes 20,217 84.10 82.20
 2 No 2,086 8.68 9.94
-7 Don’t know/Not sure 1,723 7.17 7.80
+7 Don't know/Not sure 1,723 7.17 7.80
 9 Refused 13 0.05 0.06
 BLANK Not asked or Missing 482,428
 Stroke Symptoms - Confusion/Trouble speaking
 Module: 11.7 Heart Attack and Stroke Type: Num
 Column: 332 SAS Variable Name: STRSYMP1
-Prologue: Which of the following do you think is a symptom of a stroke? For each, tell me “yes”, “no”, or you’re “not sure”.
+Prologue: Which of the following do you think is a symptom of a stroke? For each, tell me “yes”, “no”, or you're “not sure”.
 Description: (Do you think) sudden confusion or trouble speaking (are symptoms of a stroke?)
 Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 Yes 21,640 90.08 87.93
 2 No 727 3.03 4.49
-7 Don’t know/Not sure 1,648 6.86 7.56
+7 Don't know/Not sure 1,648 6.86 7.56
 9 Refused 9 0.04 0.03
 BLANK Not asked or Missing 482,443
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -3254,7 +3254,7 @@ Weighted
 Percentage
 1 Yes 22,447 93.44 92.04
 2 No 590 2.46 3.46
-7 Don’t know/Not sure 977 4.07 4.46
+7 Don't know/Not sure 977 4.07 4.46
 9 Refused 10 0.04 0.04
 BLANK Not asked or Missing 482,443
 Stroke Symptoms - Vision Problems
@@ -3267,7 +3267,7 @@ Weighted
 Percentage
 1 Yes 16,602 69.12 66.81
 2 No 2,223 9.26 11.40
-7 Don’t know/Not sure 5,182 21.57 21.76
+7 Don't know/Not sure 5,182 21.57 21.76
 9 Refused 12 0.05 0.02
 BLANK Not asked or Missing 482,448
 Stroke Symptoms - Chest Pain/Discomfort
@@ -3280,7 +3280,7 @@ Weighted
 Percentage
 1 Yes 8,424 35.08 37.09
 2 No 9,159 38.14 37.35
-7 Don’t know/Not sure 6,426 26.76 25.54
+7 Don't know/Not sure 6,426 26.76 25.54
 9 Refused 7 0.03 0.02
 BLANK Not asked or Missing 482,451
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -3297,7 +3297,7 @@ Weighted
 Percentage
 1 Yes 20,476 85.28 83.57
 2 No 1,253 5.22 6.32
-7 Don’t know/Not sure 2,266 9.44 10.07
+7 Don't know/Not sure 2,266 9.44 10.07
 9 Refused 16 0.07 0.05
 BLANK Not asked or Missing 482,456
 Stroke Symptoms - Severe Headache
@@ -3310,7 +3310,7 @@ Weighted
 Percentage
 1 Yes 15,253 63.52 59.31
 2 No 3,342 13.92 17.20
-7 Don’t know/Not sure 5,404 22.51 23.45
+7 Don't know/Not sure 5,404 22.51 23.45
 9 Refused 13 0.05 0.04
 BLANK Not asked or Missing 482,455
 First Aid for Heart Attack and Stroke
@@ -3326,7 +3326,7 @@ Percentage
 3 Call 911 21,011 87.53 89.03
 4 Call their spouse or a family member 153 0.64 0.40
 5 Do something else 1,137 4.74 3.90
-7 Don’t know/Not sure 142 0.59 0.49
+7 Don't know/Not sure 142 0.59 0.49
 9 Refused 21 0.09 0.12
 BLANK Not asked or Missing 482,462
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -3434,7 +3434,7 @@ Weighted
 Percentage
 1 Yes 1,291 51.95 45.13
 2 No 1,110 44.67 51.11
-7 Don’t know / Not sure 83 3.34 3.66
+7 Don't know / Not sure 83 3.34 3.66
 9 Refused 1 0.04 0.10
 BLANK Not asked or Missing
 Notes: Section 8.01, AGE, is less than 40; or Section 8.22, SEX,
@@ -3449,9 +3449,9 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 Yes 1,374 55.29 48.10
-2 No—Go to Module 13.08 PROSTATE 959 38.59 46.06
-7 Don’t know/Not Sure—Go to Module 13.08 PROSTATE 150 6.04 5.72
-9 Refused—Go to Module 13.08 PROSTATE 2 0.08 0.11
+2 No-Go to Module 13.08 PROSTATE 959 38.59 46.06
+7 Don't know/Not Sure-Go to Module 13.08 PROSTATE 150 6.04 5.72
+9 Refused-Go to Module 13.08 PROSTATE 2 0.08 0.11
 BLANK Not asked or Missing
 Notes: Section 8.01, AGE, is less than 40; or Section 8.22, SEX,
 is coded 2;
@@ -3473,7 +3473,7 @@ Percentage
 3 Within the past 3 years (2 years but less than 3 years ago) 130 9.46 9.89
 4 Within the past 5 years (3 years but less than 5 years ago) 92 6.70 7.26
 5 5 or more years ago 98 7.13 7.92
-7 Don’t know/Not Sure 20 1.46 1.92
+7 Don't know/Not Sure 20 1.46 1.92
 9 Refused 1 0.07 0.04
 BLANK Not asked or Missing
 Notes: Section 8.01, AGE, is less than 40; or Section 8.22, SEX,
@@ -3491,7 +3491,7 @@ Percentage
 1 Part of a routine exam 1,049 76.40 76.22
 2 Because of a problem 142 10.34 10.18
 3 Other reason 171 12.45 12.98
-7 Don’t know / Not sure 10 0.73 0.58
+7 Don't know / Not sure 10 0.73 0.58
 9 Refused 1 0.07 0.04
 BLANK Not asked or Missing
 Notes: Section 8.01, AGE, is less than 40; or Section 8.22, SEX,
@@ -3511,7 +3511,7 @@ Weighted
 Percentage
 1 Yes 793 57.80 55.73
 2 No 521 37.97 39.69
-7 Don’t know / Not sure 57 4.15 4.56
+7 Don't know / Not sure 57 4.15 4.56
 9 Refused 1 0.07 0.02
 BLANK Not asked or Missing
 Notes: Section 8.01, AGE, is less than 40; or Section 8.22, SEX,
@@ -3527,7 +3527,7 @@ Weighted
 Percentage
 1 Yes 408 29.74 28.27
 2 No 893 65.09 66.33
-7 Don’t know / Not sure 69 5.03 5.16
+7 Don't know / Not sure 69 5.03 5.16
 9 Refused 2 0.15 0.24
 BLANK Not asked or Missing
 Notes: Section 8.01, AGE, is less than 40; or Section 8.22, SEX,
@@ -3551,7 +3551,7 @@ Percentage
 together
 579 42.20 39.71
 4 Your spouse/significant other/family member made the decision 34 2.48 2.94
-7 Don’t know / Not sure 21 1.53 0.86
+7 Don't know / Not sure 21 1.53 0.86
 9 Refused 5 0.36 0.39
 BLANK Not asked or Missing
 Notes: Section 8.01, AGE, is less than 40; or Section 8.22, SEX,
@@ -3567,7 +3567,7 @@ Weighted
 Percentage
 1 Yes 111 4.48 3.52
 2 No 2,362 95.24 96.33
-7 Don’t know/Not sure 6 0.24 0.15
+7 Don't know/Not sure 6 0.24 0.15
 9 Refused 1 0.04 0.01
 BLANK Not asked or Missing
 Notes: Section 8.01, AGE, is less than 40; or Section 8.22, SEX,
@@ -3587,9 +3587,9 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 Yes 2,362 48.28 44.99
-2 No—Go to Module 14.03 HADSIGM3 2,492 50.94 54.18
-7 Don’t know/Not Sure—Go to Module 14.03 HADSIGM3 37 0.76 0.82
-9 Refused—Go to Module 14.03 HADSIGM3 1 0.02 0.00
+2 No-Go to Module 14.03 HADSIGM3 2,492 50.94 54.18
+7 Don't know/Not Sure-Go to Module 14.03 HADSIGM3 37 0.76 0.82
+9 Refused-Go to Module 14.03 HADSIGM3 1 0.02 0.00
 BLANK Not asked or Missing
 Notes: Section 8.01, AGE, is less than 50
 501,575
@@ -3606,7 +3606,7 @@ Percentage
 3 Within the past 3 years (2 years but less than 3 years ago) 285 12.07 13.76
 4 Within the past 5 years (3 years but less than 5 years ago) 278 11.77 10.23
 5 5 or more years ago 580 24.56 23.18
-7 Don’t know/Not sure 36 1.52 1.36
+7 Don't know/Not sure 36 1.52 1.36
 BLANK Not asked or Missing
 Notes: Section 8.01, AGE, is less than 50; or Module 14.01,
 BLDSTOOL, is coded 2, 7, 9, or Missing
@@ -3625,9 +3625,9 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 Yes 3,075 62.87 62.04
-2 No—Go to Next Module 1,759 35.96 36.80
-7 Don’t know/Not Sure—Go to Next Module 53 1.08 1.13
-9 Refused—Go to Next Module 4 0.08 0.03
+2 No-Go to Next Module 1,759 35.96 36.80
+7 Don't know/Not Sure-Go to Next Module 53 1.08 1.13
+9 Refused-Go to Next Module 4 0.08 0.03
 BLANK Not asked or Missing
 Notes: Section 8.01, AGE, is less than 50
 501,576
@@ -3644,7 +3644,7 @@ Weighted
 Percentage
 1 Sigmoidoscopy 418 13.61 12.76
 2 Colonoscopy 2,546 82.88 84.09
-7 Don’t know/Not Sure 106 3.45 3.05
+7 Don't know/Not Sure 106 3.45 3.05
 9 Refused 2 0.07 0.09
 BLANK Not asked or Missing
 Notes: Section 8.01, AGE, is less than 50; or Module 14.03,
@@ -3668,7 +3668,7 @@ Percentage
 4 Within the past 5 years (3 years but less than 5 years ago) 651 21.19 20.77
 5 Within the past 10 years (5 years but less than 10 years ago) 587 19.11 17.39
 6 10 or more years ago 227 7.39 6.85
-7 Don’t know/Not sure 36 1.17 0.94
+7 Don't know/Not sure 36 1.17 0.94
 9 Refused 1 0.03 0.05
 BLANK Not asked or Missing
 Notes: Section 8.01, AGE, is less than 50; or Module 14.03,
@@ -3686,7 +3686,7 @@ Weighted
 Percentage
 1 Yes 2,446 41.93 42.92
 2 No 3,286 56.32 55.43
-7 Don’t know / Not sure 85 1.46 1.26
+7 Don't know / Not sure 85 1.46 1.26
 9 Refused 17 0.29 0.39
 BLANK Not asked or Missing 500,633
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -3703,9 +3703,9 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 Yes 119 72.12 81.18
-2 No—Go to Module 15.07 SMCTIMEQ 42 25.45 17.77
-7 Don’t know / Not sure—Go to Module 15.07 SMCTIMEQ 2 1.21 0.10
-9 Refused—Go to Module 15.07 SMCTIMEQ 2 1.21 0.94
+2 No-Go to Module 15.07 SMCTIMEQ 42 25.45 17.77
+7 Don't know / Not sure-Go to Module 15.07 SMCTIMEQ 2 1.21 0.10
+9 Refused-Go to Module 15.07 SMCTIMEQ 2 1.21 0.94
 BLANK Not asked or Missing
 Notes: Section 07.01, SMOKE100, is coded 2, 7, or 9; or Section
 07.02, SMOKDAY2, is coded 7 or 9; or Section 07.03, STOPSMK2, is
@@ -3746,7 +3746,7 @@ Weighted
 Percentage
 1 Yes 105 17.30 12.93
 2 No 496 81.71 86.73
-7 Don’t know / Not sure 6 0.99 0.33
+7 Don't know / Not sure 6 0.99 0.33
 BLANK Not asked or Missing
 Notes: Section 07.01, SMOKE100, is coded 2, 7, or 9; or Section
 07.02, SMOKDAY2, is coded 7 or 9; or Section 07.03, STOPSMK2, is
@@ -3806,9 +3806,9 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 Yes 313 33.16 38.02
-2 No—Go to next module 613 64.94 61.17
-7 Don’t know / Not sure—Go to next module 13 1.38 0.59
-9 Refused—Go to next module 5 0.53 0.22
+2 No-Go to next module 613 64.94 61.17
+7 Don't know / Not sure-Go to next module 13 1.38 0.59
+9 Refused-Go to next module 5 0.53 0.22
 BLANK Not asked or Missing
 Notes: Section 07.01, SMOKE100, is coded 2, 7, or 9; or Section
 07.02, SMOKDAY2, is coded 7 or 9; or Section 07.03, STOPSMK2, is
@@ -3832,7 +3832,7 @@ Percentage
 3 In the next 6 months 94 30.03 30.22
 4 In the next year 41 13.10 19.22
 5 More than 1 year from now 31 9.90 8.78
-7 Don’t know / Not sure 12 3.83 2.05
+7 Don't know / Not sure 12 3.83 2.05
 9 Refused 1 0.32 0.11
 BLANK Not asked or Missing
 Notes: Section 07.01, SMOKE100, is coded 2, 7, or 9; or Section
@@ -3843,9 +3843,9 @@ coded 1,2,7, or 9; or Section 07.04, LASTSMK2, is coded 5, 6, 7,
 How many days did you breathe smoke at your workplace?
 Module: 16.1 Secondhand Smoke I Type: Num
 Column: 367-368 SAS Variable Name: SHSNWRK1
-Prologue: Now I’m going to ask you about smoke you might have breathed at work because someone else was smoking
+Prologue: Now I'm going to ask you about smoke you might have breathed at work because someone else was smoking
 indoors.
-Description: During the past 7 days, that is, since last [TODAY’S DAY OF THE WEEK], on how many days did you breathe the
+Description: During the past 7 days, that is, since last [TODAY'S DAY OF THE WEEK], on how many days did you breathe the
 smoke at your workplace from someone other than you who was smoking tobacco?
 Value Value Label Frequency Percentage
 Weighted
@@ -3857,7 +3857,7 @@ How many days did someone else smoke in your home?
 Module: 16.2 Secondhand Smoke I Type: Num
 Column: 369-370 SAS Variable Name: SHSNHOM1
 Prologue:
-Description: Not counting decks, porches, or garages, during the past 7 days, that is, since last [TODAY’S DAY OF WEEK], on
+Description: Not counting decks, porches, or garages, during the past 7 days, that is, since last [TODAY'S DAY OF WEEK], on
 how many days did someone other than you smoke tobacco inside your home while you were at home?
 Value Value Label Frequency Percentage
 Weighted
@@ -3871,7 +3871,7 @@ How many days did you ride in a vehicle where someone was smoking tobacco?
 Module: 16.3 Secondhand Smoke I Type: Num
 Column: 371-372 SAS Variable Name: SHSRIDEV
 Prologue:
-Description: During the past 7 days, that is, since last [TODAY’S DAY OF WEEK], on how many days did you ride in a vehicle
+Description: During the past 7 days, that is, since last [TODAY'S DAY OF WEEK], on how many days did you ride in a vehicle
 where someone other than you was smoking tobacco?
 Value Value Label Frequency Percentage
 Weighted
@@ -3883,7 +3883,7 @@ Column: 373-374 SAS Variable Name: SHSINPUB
 Prologue: The next question asks about tobacco use in indoor public places. Examples of indoor public places are the indoor
 areas of stores, restaurants, bars, casinos, clubs, and sports arenas.
 Description: [If Q8.9 = 1 (Employed) or Q8.9 = 2 (Self-employed); say “Not counting times while you were at work,”] during the
-past 7 days, that is, since last [TODAY’S DAY OF WEEK], on how many days did you breathe the smoke from
+past 7 days, that is, since last [TODAY'S DAY OF WEEK], on how many days did you breathe the smoke from
 someone else who was smoking in an indoor public place?
 Value Value Label Frequency Percentage
 Weighted
@@ -3932,7 +3932,7 @@ Percentage
 Notes: 96=96 and older
 337 58.81 63.92
 97 Age 10 or younger 121 21.12 19.92
-98 Don’t know/Not sure 47 8.20 5.41
+98 Don't know/Not sure 47 8.20 5.41
 99 Refused 68 11.87 10.74
 BLANK Not asked or Missing
 Notes: Section 06.04, ASTHMA3, is coded 2, 7, 9, or Missing
@@ -3946,9 +3946,9 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 Yes 157 37.65 37.70
-2 No—Go to Module 17.05 ASRCHKUP 205 49.16 49.96
-7 Don’t know/Not sure—Go to Module 17.05 ASRCHKUP 5 1.20 0.30
-9 Refused—Go to Module 17.05 ASRCHKUP 50 11.99 12.04
+2 No-Go to Module 17.05 ASRCHKUP 205 49.16 49.96
+7 Don't know/Not sure-Go to Module 17.05 ASRCHKUP 5 1.20 0.30
+9 Refused-Go to Module 17.05 ASRCHKUP 50 11.99 12.04
 BLANK Not asked or Missing
 Notes: Section 06.04, ASTHMA3, is coded 2, 7, 9, or Missing; or
 Section 06.05, ASTHNOW, is coded 2, 7, 9, or Missing
@@ -3989,7 +3989,7 @@ Percentage
 Notes: 87=87 or more
 78 49.68 47.35
 88 None 68 43.31 49.38
-98 Don’t know/Not sure 9 5.73 3.14
+98 Don't know/Not sure 9 5.73 3.14
 99 Refused 2 1.27 0.13
 BLANK Not asked or Missing
 Notes: Section 06.04, ASTHMA3, is coded 2, 7, 9, or Missing; or
@@ -4011,7 +4011,7 @@ Weighted
 Percentage
 1 - 87 Number of visits [87 = 87 or more] 182 43.65 42.70
 88 None 172 41.25 45.95
-98 Don’t know/Not sure 16 3.84 2.03
+98 Don't know/Not sure 16 3.84 2.03
 99 Refused 47 11.27 9.32
 BLANK Not asked or Missing
 Notes: Section 06.04, ASTHMA3, is coded 2, 7, 9, or Missing; or
@@ -4027,7 +4027,7 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 - 365 Number of days 94 22.54 20.10
-777 Don’t know/Not sure 27 6.47 3.29
+777 Don't know/Not sure 27 6.47 3.29
 888 None 245 58.75 64.44
 999 Refused 51 12.23 12.17
 BLANK Not asked or Missing
@@ -4053,8 +4053,8 @@ Percentage
 3 More that 2 times a week, but not every day 38 9.11 10.02
 4 Every day, but not all the time 52 12.47 14.99
 5 Every day, all the time 15 3.60 3.00
-7 Don’t know/Not sure 25 6.00 6.70
-8 Not at any time—Go to Module 17.09 ASTHMED3 115 27.58 25.36
+7 Don't know/Not sure 25 6.00 6.70
+8 Not at any time-Go to Module 17.09 ASTHMED3 115 27.58 25.36
 9 Refused 69 16.55 12.13
 BLANK Not asked or Missing
 Notes: Section 06.04, ASTHMA3, is coded 2, 7, 9, or Missing; or
@@ -4065,7 +4065,7 @@ Module: 17.8 Adult Asthma History Type: Num
 Column: 391 SAS Variable Name: ASNOSLEP
 Prologue:
 Description: During the past 30 days, how many days did symptoms of asthma make it difficult for you to stay asleep? Would you
-say—
+say-
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -4074,7 +4074,7 @@ Percentage
 3 Five 7 2.32 2.22
 4 Six to ten 12 3.97 2.17
 5 More than ten 30 9.93 11.76
-7 Don’t know/Not sure 27 8.94 9.41
+7 Don't know/Not sure 27 8.94 9.41
 8 None 109 36.09 36.37
 9 Refused 64 21.19 15.91
 BLANK Not asked or Missing
@@ -4098,7 +4098,7 @@ Percentage
 1 1 to 14 days 84 20.14 22.45
 2 15 to 24 days 18 4.32 8.09
 3 25 to 30 days 100 23.98 12.66
-7 Don’t know/Not sure 14 3.36 3.18
+7 Don't know/Not sure 14 3.36 3.18
 8 Never 136 32.61 41.52
 9 Refused 65 15.59 12.09
 BLANK Not asked or Missing
@@ -4120,7 +4120,7 @@ Percentage
 4 30 to 59 times (in the past 30 days) 27 6.47 2.83
 5 60 to 99 times (in the past 30 days) 9 2.16 1.06
 6 100 or more times (in the past 30 days) 3 0.72 0.16
-7 Don’t know/Not sure 26 6.24 11.92
+7 Don't know/Not sure 26 6.24 11.92
 8 Never (include no attack in past 30 days) 152 36.45 34.93
 9 Refused 63 15.11 11.65
 BLANK Not asked or Missing
@@ -4242,16 +4242,16 @@ Module: 20.1 Adult Human Papilloma Virus (HPV) Type: Num
 Column: 401 SAS Variable Name: HPVADVC2
 Prologue: A vaccine to prevent the human papilloma virus or HPV infection is available and is called the cervical cancer or
 genital warts vaccine, HPV shot, [Fill: if female “GARDASIL or CERVARIX”, if male “GARDASIL”].
-Description: Have you ever had the HPV vaccination? (Human Papilloma Virus (Human Pap•uh•loh•muh Virus), Gardasil
-(Gar•duh• seel), Cervarix (Serv a rix))
+Description: Have you ever had the HPV vaccination? (Human Papilloma Virus (Human Pap-uh-loh-muh Virus), Gardasil
+(Gar-duh- seel), Cervarix (Serv a rix))
 Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 Yes 290 5.31 6.82
-2 No—Go to Next Module 4,860 88.93 86.17
-3 Doctor refused when asked—Go to Next Module 8 0.15 0.19
-7 Don’t know/Not Sure—Go to Next Module 161 2.95 3.08
-9 Refused—Go to Next Module 146 2.67 3.75
+2 No-Go to Next Module 4,860 88.93 86.17
+3 Doctor refused when asked-Go to Next Module 8 0.15 0.19
+7 Don't know/Not Sure-Go to Next Module 161 2.95 3.08
+9 Refused-Go to Next Module 146 2.67 3.75
 BLANK Not asked or Missing
 Notes: Section 8.01, AGE, is greater than 49
 501,002
@@ -4268,8 +4268,8 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 - 2 Number of shots 96 33.10 27.49
-3 All shots—Go to Next Module 162 55.86 64.75
-77 Don’t know/Not Sure 31 10.69 7.73
+3 All shots-Go to Next Module 162 55.86 64.75
+77 Don't know/Not Sure 31 10.69 7.73
 99 Refused 1 0.34 0.03
 BLANK Not asked or Missing
 Notes: Section 8.01, AGE, is greater than 49; or Module 20.01,
@@ -4286,7 +4286,7 @@ Weighted
 Percentage
 1 Yes 712 10.32 8.68
 2 No 6,084 88.15 89.96
-7 Don’t know/Not Sure 93 1.35 1.27
+7 Don't know/Not Sure 93 1.35 1.27
 9 Refused 13 0.19 0.09
 BLANK Not asked or Missing
 Notes: Section 8.01, AGE, is less than 50
@@ -4301,7 +4301,7 @@ Weighted
 Percentage
 1 Yes 4,418 76.67 73.44
 2 No 1,091 18.93 21.42
-7 Don’t know / Not sure 146 2.53 2.66
+7 Don't know / Not sure 146 2.53 2.66
 9 Refused 107 1.86 2.48
 BLANK Not asked or Missing
 Notes: Section 06.08, CHCCOPD, is coded 2, 7, 9, or missing;
@@ -4320,7 +4320,7 @@ Weighted
 Percentage
 1 Yes 3,620 62.86 62.18
 2 No 1,961 34.05 34.24
-7 Don’t know / Not sure 65 1.13 1.17
+7 Don't know / Not sure 65 1.13 1.17
 9 Refused 113 1.96 2.42
 BLANK Not asked or Missing
 Notes: Section 06.08, CHCCOPD, is coded 2, 7, 9, or missing;
@@ -4336,7 +4336,7 @@ Weighted
 Percentage
 1 Yes 2,413 41.91 41.54
 2 No 3,187 55.36 55.60
-7 Don’t know / Not sure 35 0.61 0.38
+7 Don't know / Not sure 35 0.61 0.38
 9 Refused 122 2.12 2.48
 BLANK Not asked or Missing
 Notes: Section 06.08, CHCCOPD, is coded 2, 7, 9, or missing;
@@ -4356,7 +4356,7 @@ Weighted
 Percentage
 1 Yes 889 15.45 16.00
 2 No 4,713 81.91 81.14
-7 Don’t know / Not sure 30 0.52 0.38
+7 Don't know / Not sure 30 0.52 0.38
 9 Refused 122 2.12 2.47
 BLANK Not asked or Missing
 Notes: Section 06.08, CHCCOPD, is coded 2, 7, 9, or missing;
@@ -4372,7 +4372,7 @@ Weighted
 Percentage
 1 - 76 Number (00-76) 3,291 57.23 54.46
 88 None 2,195 38.17 41.31
-77 Don’t know / Not sure 161 2.80 2.38
+77 Don't know / Not sure 161 2.80 2.38
 99 Refused 103 1.79 1.85
 BLANK Not asked or Missing
 Notes: Section 06.08, CHCCOPD, is coded 2, 7, 9, or missing;
@@ -4509,7 +4509,7 @@ Weighted
 Percentage
 1 Yes 865 39.92 42.60
 2 No 1,216 56.11 52.39
-7 Don’t know/Not Sure 8 0.37 0.30
+7 Don't know/Not Sure 8 0.37 0.30
 9 Refused 78 3.60 4.70
 BLANK Not asked or Missing
 Notes: Section 08.05, VETERAN3, is coded 2, 7, 9, or missing
@@ -4529,7 +4529,7 @@ Weighted
 Percentage
 1 Yes 301 13.89 14.49
 2 No 1,774 81.86 80.34
-7 Don’t know/Not Sure 13 0.60 0.65
+7 Don't know/Not Sure 13 0.60 0.65
 9 Refused 79 3.65 4.52
 BLANK Not asked or Missing
 Notes: Section 08.05, VETERAN3, is coded 2, 7, 9, or missing
@@ -4545,7 +4545,7 @@ Weighted
 Percentage
 1 Yes 65 3.00 3.64
 2 No 2,018 93.12 91.61
-7 Don’t know/Not Sure 6 0.28 0.21
+7 Don't know/Not Sure 6 0.28 0.21
 9 Refused 78 3.60 4.54
 BLANK Not asked or Missing
 Notes: Section 08.05, VETERAN3, is coded 2, 7, 9, or missing
@@ -4566,7 +4566,7 @@ Percentage
 2 Yes, from a non-VA facility 62 2.86 3.26
 3 Yes, from both VA and non-VA facilities 18 0.83 1.02
 4 No 1,882 86.89 85.12
-7 Don’t know/Not Sure 2 0.09 0.30
+7 Don't know/Not Sure 2 0.09 0.30
 9 Refused 85 3.92 4.69
 BLANK Not asked or Missing
 Notes: Section 08.05, VETERAN3, is coded 2, 7, 9, or missing
@@ -4582,9 +4582,9 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 Yes 99 4.59 4.95
-2 No—Go to next module 1,959 90.82 89.48
-7 Don’t know/Not Sure—Go to next module 3 0.14 0.06
-9 Refused—Go to next module 96 4.45 5.51
+2 No-Go to next module 1,959 90.82 89.48
+7 Don't know/Not Sure-Go to next module 3 0.14 0.06
+9 Refused-Go to next module 96 4.45 5.51
 BLANK Not asked or Missing
 Notes: Section 08.05, VETERAN3, is coded 2, 7, 9, or missing
 504,310
@@ -4691,7 +4691,7 @@ Weighted
 Percentage
 1 - 14 01-14 days 4,243 29.18 32.90
 88 None 9,856 67.78 64.30
-77 Don’t know/Not sure 379 2.61 2.40
+77 Don't know/Not sure 379 2.61 2.40
 99 Refused 63 0.43 0.39
 BLANK Not asked or Missing 491,926
 Days felt down, depressed or hopeless
@@ -4704,7 +4704,7 @@ Weighted
 Percentage
 1 - 14 01-14 days 3,757 25.86 28.30
 88 None 10,654 73.32 70.97
-77 Don’t know/Not sure 79 0.54 0.51
+77 Don't know/Not sure 79 0.54 0.51
 99 Refused 40 0.28 0.22
 BLANK Not asked or Missing 491,937
 Days had trouble with sleep
@@ -4717,7 +4717,7 @@ Weighted
 Percentage
 1 - 14 01-14 days 6,518 44.87 46.51
 88 None 7,866 54.15 52.76
-77 Don’t know/Not sure 116 0.80 0.58
+77 Don't know/Not sure 116 0.80 0.58
 99 Refused 27 0.19 0.15
 BLANK Not asked or Missing 491,940
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -4734,7 +4734,7 @@ Weighted
 Percentage
 1 - 14 01-14 days 8,545 58.83 61.33
 88 None 5,820 40.07 37.76
-77 Don’t know/Not sure 129 0.89 0.77
+77 Don't know/Not sure 129 0.89 0.77
 99 Refused 31 0.21 0.13
 BLANK Not asked or Missing 491,942
 Days ate too little or too much
@@ -4747,7 +4747,7 @@ Weighted
 Percentage
 1 - 14 01-14 days 4,542 31.28 34.15
 88 None 9,828 67.68 64.99
-77 Don’t know/Not sure 130 0.90 0.76
+77 Don't know/Not sure 130 0.90 0.76
 99 Refused 22 0.15 0.10
 BLANK Not asked or Missing 491,945
 Days felt like failure or let family down
@@ -4761,7 +4761,7 @@ Weighted
 Percentage
 1 - 14 01-14 days 2,550 17.57 19.69
 88 None 11,841 81.57 79.53
-77 Don’t know/Not sure 81 0.56 0.50
+77 Don't know/Not sure 81 0.56 0.50
 99 Refused 44 0.30 0.28
 BLANK Not asked or Missing 491,951
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -4779,7 +4779,7 @@ Weighted
 Percentage
 1 - 14 01-14 days 2,389 16.46 18.53
 88 None 12,019 82.82 80.80
-77 Don’t know/Not sure 74 0.51 0.50
+77 Don't know/Not sure 74 0.51 0.50
 99 Refused 31 0.21 0.17
 BLANK Not asked or Missing 491,954
 Days talked to move slower or faster than usual
@@ -4793,7 +4793,7 @@ Weighted
 Percentage
 1 - 14 01-14 days 1,263 8.70 10.29
 88 None 13,020 89.73 88.36
-77 Don’t know/Not sure 193 1.33 1.16
+77 Don't know/Not sure 193 1.33 1.16
 99 Refused 34 0.23 0.19
 BLANK Not asked or Missing 491,957
 Receiving medicine or treatment from health pro for emotional problem
@@ -4807,7 +4807,7 @@ Weighted
 Percentage
 1 Yes 1,888 13.01 12.46
 2 No 12,560 86.58 87.22
-7 Don’t know/Not sure 21 0.14 0.09
+7 Don't know/Not sure 21 0.14 0.09
 9 Refused 38 0.26 0.23
 BLANK Not asked or Missing 491,960
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -4826,7 +4826,7 @@ Weighted
 Percentage
 1 Yes 2,236 15.42 16.65
 2 No 12,184 84.01 82.77
-7 Don’t know/Not sure 46 0.32 0.37
+7 Don't know/Not sure 46 0.32 0.37
 9 Refused 37 0.26 0.22
 BLANK Not asked or Missing 491,964
 Have you experienced confusion or memory loss that is happening more often or is getting worse?
@@ -4840,7 +4840,7 @@ Weighted
 Percentage
 1 Yes 4,093 9.00 7.65
 2 No 40,364 88.80 90.02
-7 Don’t know/Not sure 338 0.74 0.40
+7 Don't know/Not sure 338 0.74 0.40
 9 Refused 660 1.45 1.92
 BLANK Not asked or Missing 461,012
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -4860,7 +4860,7 @@ Percentage
 1 - 6 Number of people
 Notes: 6 = 6 or more
 2,724 9.22 8.59
-7 Don’t know/Not sure 141 0.48 0.34
+7 Don't know/Not sure 141 0.48 0.34
 8 None 26,334 89.14 89.29
 9 Refused 342 1.16 1.79
 BLANK Not asked or Missing
@@ -4883,7 +4883,7 @@ Percentage
 6 Age 70-79 448 21.96 18.28
 7 Age 80-89 391 19.17 12.89
 8 Age 90 + 134 6.57 6.06
-77 Don’t know/Not sure 38 1.86 0.84
+77 Don't know/Not sure 38 1.86 0.84
 99 Refused 15 0.74 0.71
 BLANK Not asked or Missing
 Notes: NUMADULT=1 and Module 18.01, CIMEMLOS, is coded 1, 2, 7, 9,
@@ -4909,29 +4909,29 @@ Percentage
 3 Sometimes 1,380 24.71 24.19
 4 Rarely 898 16.08 19.17
 5 Never 2,422 43.37 40.54
-7 Don’t know/Not sure 82 1.47 0.87
+7 Don't know/Not sure 82 1.47 0.87
 9 Refused 26 0.47 0.60
 BLANK Not asked or Missing
 Notes: NUMADULT=1 and Module 18.01, CIMEMLOS, is coded 2, 7, 9, or
 missing; or Module 18.02, CINOADLT, is > 6
 500,883
-As a result of person’s confusion or memory loss, in which areas do you ” need the MOST assistance?
+As a result of person's confusion or memory loss, in which areas do you ” need the MOST assistance?
 Module: 27.5 Cognitive Impairment Type: Num
 Column: 458 SAS Variable Name: CIASSIST
 Prologue:
-Description: As a result of [If Q1 = 1 (Yes): insert “your” otherwise, insert “this person’s”] confusion or memory loss, in which of
+Description: As a result of [If Q1 = 1 (Yes): insert “your” otherwise, insert “this person's”] confusion or memory loss, in which of
 the following four areas [If Q1 = 1 (Yes): insert “do you” otherwise, insert “does this person”] need the MOST
 assistance?
 Value Value Label Frequency Percentage
 Weighted
 Percentage
-1 Safety—read only if necessary: 419 7.51 6.76
-2 Transportation—read only if necessary: 845 15.14 16.74
-3 Household activities—read only if necessary: 1,199 21.48 22.81
-4 Personal care—read only if necessary: 681 12.20 15.49
+1 Safety-read only if necessary: 419 7.51 6.76
+2 Transportation-read only if necessary: 845 15.14 16.74
+3 Household activities-read only if necessary: 1,199 21.48 22.81
+4 Personal care-read only if necessary: 681 12.20 15.49
 5 Needs assistance, but not in those areas 206 3.69 2.41
-6 Doesn’t need assistance in any area 1,991 35.67 32.01
-7 Don’t know/Not sure 193 3.46 2.82
+6 Doesn't need assistance in any area 1,991 35.67 32.01
+7 Don't know/Not sure 193 3.46 2.82
 9 Refused 47 0.84 0.95
 BLANK Not asked or Missing
 Notes: NUMADULT=1 and Module 18.01, CIMEMLOS, is coded 2, 7, 9, or
@@ -4946,7 +4946,7 @@ Module: 27.6 Cognitive Impairment Type: Num
 Column: 459 SAS Variable Name: CIINTFER
 Prologue:
 Description: During the past 12 months, how often has confusion or memory loss interfered with [If Q1 = 1 (Yes): insert “your”
-otherwise, insert “this person’s”] ability to work, volunteer, or engage in social activities?
+otherwise, insert “this person's”] ability to work, volunteer, or engage in social activities?
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -4955,7 +4955,7 @@ Percentage
 3 Sometimes 1,192 21.37 22.00
 4 Rarely 1,006 18.03 21.07
 5 Never 2,301 41.24 39.41
-7 Don’t know/Not sure 66 1.18 0.65
+7 Don't know/Not sure 66 1.18 0.65
 9 Refused 36 0.65 0.83
 BLANK Not asked or Missing
 Notes: NUMADULT=1 and Module 18.01, CIMEMLOS, is coded 2, 7, 9, or
@@ -4976,7 +4976,7 @@ Percentage
 3 Sometimes 947 17.01 18.67
 4 Rarely 689 12.37 14.55
 5 Never 2,896 52.01 48.32
-7 Don’t know/Not sure 41 0.74 0.32
+7 Don't know/Not sure 41 0.74 0.32
 9 Refused 38 0.68 0.81
 BLANK Not asked or Missing
 Notes: NUMADULT=1 and Module 18.01, CIMEMLOS, is coded 2, 7, 9, or
@@ -4991,14 +4991,14 @@ Module: 27.8 Cognitive Impairment Type: Num
 Column: 461 SAS Variable Name: CIHCPROF
 Prologue:
 Description: Has anyone discussed with a health care professional, increases in [If Q1 = 1 (Yes): insert “your” otherwise, insert
-“this person’s”] confusion or memory loss?
+“this person's”] confusion or memory loss?
 Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 Yes 1,815 32.61 33.97
-2 No—Go to Next Module 3,632 65.25 63.77
-7 Don’t know/Not sure—Go to Next Module 82 1.47 1.45
-9 Refused—Go to Next Module 37 0.66 0.80
+2 No-Go to Next Module 3,632 65.25 63.77
+7 Don't know/Not sure-Go to Next Module 82 1.47 1.45
+9 Refused-Go to Next Module 37 0.66 0.80
 BLANK Not asked or Missing
 Notes: NUMADULT=1 and Module 18.01, CIMEMLOS, is coded 2, 7, 9, or
 missing; or Module 18.02, CINOADLT, is > 6
@@ -5014,7 +5014,7 @@ Weighted
 Percentage
 1 Yes 946 52.12 57.06
 2 No 849 46.78 42.33
-7 Don’t know/Not sure 20 1.10 0.61
+7 Don't know/Not sure 20 1.10 0.61
 BLANK Not asked or Missing
 Notes: NUMADULT=1 and Module 18.01, CIMEMLOS, is coded 2, 7, 9, or
 missing; or Module 18.02, CINOADLT, is > 6; or Module 18.08,
@@ -5024,19 +5024,19 @@ BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
 CODEBOOK REPORT, 2011
 Land-Line and Cell-Phone data
 121 of 190 January 24, 2013
-Has a health care professional ever said it was Alzheimer’s disease or some other form of dementia?
+Has a health care professional ever said it was Alzheimer's disease or some other form of dementia?
 Module: 27.10 Cognitive Impairment Type: Num
 Column: 463 SAS Variable Name: CIDIAGAZ
 Prologue:
 Description: Has a health care professional ever said that [If Q1 = 1 (Yes): insert “you have” otherwise, insert “this person has”]
-Alzheimer’s disease or some other form of dementia?
+Alzheimer's disease or some other form of dementia?
 Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 Yes, Alzheimer´s Disease 174 9.59 7.86
 2 Yes, some other form of dementia but not Alzheimer´s disease 290 15.98 15.29
 3 No diagnosis has been given 1,306 71.96 75.01
-7 Don’t know/Not sure 41 2.26 1.71
+7 Don't know/Not sure 41 2.26 1.71
 9 Refused 4 0.22 0.13
 BLANK Not asked or Missing
 Notes: NUMADULT=1 and Module 18.01, CIMEMLOS, is coded 2, 7, 9, or
@@ -5057,7 +5057,7 @@ Percentage
 3 Sometimes 5,866 15.14 18.09
 4 Rarely 5,903 15.23 15.46
 5 Never 21,194 54.70 46.09
-7 Don’t know/Not Sure 65 0.17 0.13
+7 Don't know/Not Sure 65 0.17 0.13
 8 Not applicable 1,647 4.25 4.18
 9 Refused 60 0.15 0.22
 BLANK Not asked or Missing
@@ -5081,7 +5081,7 @@ Percentage
 3 Sometimes 4,649 11.47 15.36
 4 Rarely 5,178 12.78 14.02
 5 Never 27,867 68.78 60.25
-7 Don’t know/Not Sure 65 0.16 0.20
+7 Don't know/Not Sure 65 0.16 0.20
 8 Not applicable 52 0.13 0.30
 9 Refused 38 0.09 0.17
 BLANK Not asked or Missing 465,948
@@ -5097,7 +5097,7 @@ Percentage
 2 Paid by the hour 10,604 49.47 50.83
 3 Paid by the job/task (e.g. commission, piecework) 1,727 8.06 8.59
 4 Paid some other way 1,723 8.04 5.35
-7 Don’t know/Not Sure 84 0.39 0.68
+7 Don't know/Not Sure 84 0.39 0.68
 9 Refused 159 0.74 0.84
 BLANK Not asked or Missing
 Notes: Section 08.21, EMPLOY, is coded 3, 4, 5, 6, 7, or 8
@@ -5114,10 +5114,10 @@ Description: About how many hours do you work per week on all of your jobs and b
 Value Value Label Frequency Percentage
 Weighted
 Percentage
-1 - 96 Hours (1-96 or more)—Go to next Module 20,886 97.45 96.92
-97 Don’t know/Not Sure—Go to next Module 355 1.66 1.91
-98 Zero (none)—Go to next Module 63 0.29 0.43
-99 Refused—Go to next Module 128 0.60 0.74
+1 - 96 Hours (1-96 or more)-Go to next Module 20,886 97.45 96.92
+97 Don't know/Not Sure-Go to next Module 355 1.66 1.91
+98 Zero (none)-Go to next Module 63 0.29 0.43
+99 Refused-Go to next Module 128 0.60 0.74
 BLANK Not asked or Missing
 Notes: Section 08.21, EMPLOY, is coded 3, 4, 5, 6, 7, or 8
 485,035
@@ -5134,7 +5134,7 @@ Percentage
 2 Paid by the hour 5,721 44.13 51.94
 3 Paid by the job/task (e.g. commission, piecework) 766 5.91 6.08
 4 Paid some other way 1,026 7.91 4.85
-7 Don’t know/Not Sure 331 2.55 2.39
+7 Don't know/Not Sure 331 2.55 2.39
 9 Refused 103 0.79 1.12
 BLANK Not asked or Missing
 Notes: Section 08.21, EMPLOY, is coded 1, 2, 5, 6, or 8; or Module
@@ -5154,7 +5154,7 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 - 96 Hours (1-96 or more) 16,697 87.68 88.68
-97 Don’t know/Not Sure 1,309 6.87 5.21
+97 Don't know/Not Sure 1,309 6.87 5.21
 98 Zero (none) 938 4.93 5.67
 99 Refused 100 0.53 0.45
 BLANK Not asked or Missing
@@ -5164,7 +5164,7 @@ Location of last HIV test
 Module: 29.1 HIV/AIDS Type: Num
 Column: 472-473 SAS Variable Name: WHRTST9
 Prologue:
-Description: Where did you have your last HIV test — at a private doctor or HMO office, at a counseling and testing site, at a
+Description: Where did you have your last HIV test - at a private doctor or HMO office, at a counseling and testing site, at a
 hospital, at a clinic, in a jail or prison, at a drug treatment facility, at home, or somewhere else?
 Value Value Label Frequency Percentage
 Weighted
@@ -5216,7 +5216,7 @@ Weighted
 Percentage
 1 Yes 7,917 16.31 17.62
 2 No 39,998 82.43 81.19
-7 Don’t know/Not Sure 326 0.67 0.66
+7 Don't know/Not Sure 326 0.67 0.66
 9 Refused 285 0.59 0.53
 BLANK Not asked or Missing 457,941
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -5233,7 +5233,7 @@ Weighted
 Percentage
 1 Yes 11,983 24.70 25.50
 2 No 36,070 74.36 73.72
-7 Don’t know/Not Sure 166 0.34 0.26
+7 Don't know/Not Sure 166 0.34 0.26
 9 Refused 286 0.59 0.53
 BLANK Not asked or Missing 457,962
 Live With Anyone Who Used Illegal Drugs or Abused Prescriptions?
@@ -5246,7 +5246,7 @@ Weighted
 Percentage
 1 Yes 3,772 7.78 10.64
 2 No 44,302 91.34 88.58
-7 Don’t know/Not Sure 189 0.39 0.34
+7 Don't know/Not Sure 189 0.39 0.34
 9 Refused 237 0.49 0.44
 BLANK Not asked or Missing 457,967
 Live With Anyone Who Served TIme in Prison or Jail?
@@ -5260,7 +5260,7 @@ Weighted
 Percentage
 1 Yes 2,229 4.60 7.21
 2 No 45,953 94.76 92.17
-7 Don’t know/Not Sure 84 0.17 0.20
+7 Don't know/Not Sure 84 0.17 0.20
 9 Refused 230 0.47 0.42
 BLANK Not asked or Missing 457,971
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -5277,7 +5277,7 @@ Weighted
 Percentage
 1 Yes 9,745 20.10 25.04
 2 No 38,084 78.54 73.40
-7 Don’t know/Not Sure 177 0.37 0.32
+7 Don't know/Not Sure 177 0.37 0.32
 8 Parents not married 228 0.47 0.79
 9 Refused 258 0.53 0.44
 BLANK Not asked or Missing 457,975
@@ -5292,7 +5292,7 @@ Percentage
 1 Never 40,341 83.20 81.27
 2 Once 1,895 3.91 4.83
 3 More than once 5,367 11.07 12.20
-7 Don’t know/Not Sure 456 0.94 0.97
+7 Don't know/Not Sure 456 0.94 0.97
 9 Refused 425 0.88 0.74
 BLANK Not asked or Missing 457,983
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -5311,7 +5311,7 @@ Percentage
 1 Never 40,199 82.92 80.96
 2 Once 1,991 4.11 4.70
 3 More than once 5,684 11.72 13.16
-7 Don’t know/Not Sure 172 0.35 0.26
+7 Don't know/Not Sure 172 0.35 0.26
 9 Refused 432 0.89 0.92
 BLANK Not asked or Missing 457,989
 How Often Did A Parent Swear At You?
@@ -5325,7 +5325,7 @@ Percentage
 1 Never 31,244 64.46 60.56
 2 Once 3,076 6.35 8.03
 3 More than once 13,197 27.23 29.77
-7 Don’t know/Not Sure 485 1.00 0.78
+7 Don't know/Not Sure 485 1.00 0.78
 9 Refused 467 0.96 0.86
 BLANK Not asked or Missing 457,998
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -5343,7 +5343,7 @@ Percentage
 1 Never 42,441 87.58 88.33
 2 Once 1,900 3.92 3.56
 3 More than once 3,342 6.90 6.51
-7 Don’t know/Not Sure 146 0.30 0.33
+7 Don't know/Not Sure 146 0.30 0.33
 9 Refused 632 1.30 1.27
 BLANK Not asked or Missing 458,006
 How Often Did Anyone Make You Touch Them Sexually?
@@ -5357,7 +5357,7 @@ Percentage
 1 Never 44,055 90.93 91.15
 2 Once 1,366 2.82 2.76
 3 More than once 2,276 4.70 4.60
-7 Don’t know/Not Sure 163 0.34 0.31
+7 Don't know/Not Sure 163 0.34 0.31
 9 Refused 590 1.22 1.17
 BLANK Not asked or Missing 458,017
 How Often Did Anyone Ever Force You to Have Sex?
@@ -5371,7 +5371,7 @@ Percentage
 1 Never 45,717 94.38 94.30
 2 Once 680 1.40 1.55
 3 More than once 1,314 2.71 2.67
-7 Don’t know/Not Sure 137 0.28 0.32
+7 Don't know/Not Sure 137 0.28 0.32
 9 Refused 589 1.22 1.15
 BLANK Not asked or Missing 458,030
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -5386,7 +5386,7 @@ Description: What is the birth month and year of the “Xth” child?
 Value Value Label Frequency Percentage
 Weighted
 Percentage
-777777 Don’t know/Not sure 1,332 3.33 4.59
+777777 Don't know/Not sure 1,332 3.33 4.59
 999999 Refused 2,899 7.24 7.58
 BLANK Not asked or Missing
 Notes: Section 08.07, CHILDREN, is coded 0, 88, 99, or Missing;
@@ -5420,7 +5420,7 @@ Weighted
 Percentage
 1 Yes 7,585 18.99 25.21
 2 No 31,296 78.33 71.78
-7 Don’t know/Not Sure 152 0.38 0.45
+7 Don't know/Not Sure 152 0.38 0.45
 9 Refused 919 2.30 2.56
 BLANK Not asked or Missing
 Notes: Section 08.07, CHILDREN, is coded 0, 88, 99, or Missing; or
@@ -5438,7 +5438,7 @@ Description: Which one or more of the following would you say is the race of the
 Value Value Label Frequency Percentage
 Weighted
 Percentage
-7 Don’t know/Not sure 241 0.60 1.40
+7 Don't know/Not sure 241 0.60 1.40
 9 Refused 1,264 3.17 4.52
 BLANK Not asked or Missing
 Notes: Section 08.07, CHILDREN, is coded 0, 88, 99, or Missing; or
@@ -5452,7 +5452,7 @@ Race of child
 Module: 32.5 Random Child Selection Type: Num
 Column: 502 SAS Variable Name: RCSBRACE
 Prologue:
-Description: Which one of these groups would you say best represents the child’s race?
+Description: Which one of these groups would you say best represents the child's race?
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -5462,7 +5462,7 @@ Percentage
 4 Native Hawaiian or other Pacific Islander 332 13.96 6.18
 5 American Indian or Alaskan Native 104 4.37 4.82
 6 Other 80 3.36 3.30
-7 Don’t know/Not sure 318 13.37 15.98
+7 Don't know/Not sure 318 13.37 15.98
 9 Refused 157 6.60 10.87
 BLANK Not asked or Missing
 Notes: Section 08.07, CHILDREN, is coded 0, 88, 99, or Missing; or
@@ -5487,7 +5487,7 @@ Percentage
 4 Sibling (include biologic, step, and adoptive sibling) 1,384 3.47 8.33
 5 Other relative 710 1.78 2.89
 6 Not related in any way 453 1.14 1.62
-7 Don’t know/Not sure 24 0.06 0.16
+7 Don't know/Not sure 24 0.06 0.16
 9 Refused 686 1.72 2.08
 BLANK Not asked or Missing
 Notes: Section 08.07, CHILDREN, is coded 0, 88, 99, or Missing; or
@@ -5502,9 +5502,9 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 Yes 5,257 13.70 13.07
-2 No—Go to next module 32,167 83.85 83.97
-7 Don’t know/Not Sure—Go to next module 273 0.71 0.83
-9 Refused—Go to next module 667 1.74 2.13
+2 No-Go to next module 32,167 83.85 83.97
+7 Don't know/Not Sure-Go to next module 273 0.71 0.83
+9 Refused-Go to next module 667 1.74 2.13
 BLANK Not asked or Missing
 Notes: Section 08.07, CHILDREN, is coded 0, 88, 99, or Missing
 468,103
@@ -5522,7 +5522,7 @@ Weighted
 Percentage
 1 Yes 3,375 64.21 62.88
 2 No 1,745 33.20 34.86
-7 Don’t know/Not Sure 133 2.53 2.20
+7 Don't know/Not Sure 133 2.53 2.20
 9 Refused 3 0.06 0.06
 BLANK Not asked or Missing
 Notes: Section 08.07, CHILDREN, is coded 0, 88, 99, or Missing; or
@@ -5537,9 +5537,9 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 Yes 3,276 43.30 43.69
-2 No—Go to next module 3,715 49.10 47.18
-7 Don’t know/Not Sure—Go to next module 332 4.39 5.17
-9 Refused—Go to next module 243 3.21 3.96
+2 No-Go to next module 3,715 49.10 47.18
+7 Don't know/Not Sure-Go to next module 332 4.39 5.17
+9 Refused-Go to next module 243 3.21 3.96
 BLANK Not asked or Missing
 Notes: Section 08.07, CHILDREN, is coded 0, 88, 99, or Missing; or
 CHILDAGE < 6 months;
@@ -5585,7 +5585,7 @@ center)
 9 Some other kind of place 61 1.86 2.02
 10 Received vaccination in Canada/Mexic 5 0.15 0.08
 11 A school 200 6.11 5.33
-77 Don’t know / Not sure—Probe: 41 1.25 1.80
+77 Don't know / Not sure-Probe: 41 1.25 1.80
 99 Refused 2 0.06 0.07
 BLANK Not asked or Missing
 Notes: Section 08.07, CHILDREN, is coded 0, 88, 99, or Missing; or
@@ -5596,7 +5596,7 @@ Asthma Follow-Up call back request
 Followup: 1.1 Asthma Follow-up Call Back Type: Num
 Column: 515 SAS Variable Name: CALLBACK
 Prologue:
-Description: We would like to call you again within the next 2 weeks to talk in more detail about (your/your child’s) experiences
+Description: We would like to call you again within the next 2 weeks to talk in more detail about (your/your child's) experiences
 with asthma. The information will be used to help develop and improve the asthma programs in <STATE>. The
 information you gave us today and any you give us in the future will be kept confidential. If you agree to this, we will
 keep your first name or initials and phone number on file, separate from the answers collected today.
@@ -5605,7 +5605,7 @@ Weighted
 Percentage
 1 Yes 33,188 72.31 70.65
 2 No 12,468 27.17 28.16
-7 Don’t know/Not Sure 52 0.11 0.26
+7 Don't know/Not Sure 52 0.11 0.26
 9 Refused 189 0.41 0.93
 BLANK Not asked or Missing 460,570
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -5634,8 +5634,8 @@ Description: Is this (phone number) ?
 Value Value Label Frequency Percentage
 Weighted
 Percentage
-1 Yes—Go to CELLFON2 71,223 99.95 99.94
-7 Don’t know/Not sure 31 0.04 0.05
+1 Yes-Go to CELLFON2 71,223 99.95 99.94
+7 Don't know/Not sure 31 0.04 0.05
 9 Refused 5 0.01 0.01
 BLANK Not asked or Missing 435,208
 Is this a cellular telephone?
@@ -5646,7 +5646,7 @@ Description: Is this a cellular telephone?
 Value Value Label Frequency Percentage
 Weighted
 Percentage
-1 Yes—Go to CADULT 71,259 100.00 100.00
+1 Yes-Go to CADULT 71,259 100.00 100.00
 BLANK Not asked or Missing 435,208
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
 CODEBOOK REPORT, 2011
@@ -5660,8 +5660,8 @@ Description: Are you 18 years of age or older?
 Value Value Label Frequency Percentage
 Weighted
 Percentage
-1 Yes, Male Respondent—Go to PVTRESD2 36,187 50.78 57.44
-2 Yes, Female Respondent—Go to PVTRESD2 35,072 49.22 42.56
+1 Yes, Male Respondent-Go to PVTRESD2 36,187 50.78 57.44
+2 Yes, Female Respondent-Go to PVTRESD2 35,072 49.22 42.56
 BLANK Not asked or Missing 435,208
 Do you live in a private residence?
 CellPhone: 1.4 Cell Phone Introduction Type: Num
@@ -5671,9 +5671,9 @@ Description: Do you live in a private residence, that is, not in a dormitory or 
 Value Value Label Frequency Percentage
 Weighted
 Percentage
-1 Yes—Go to CSTATE 70,881 99.47 99.85
-2 No—Go to CSTATE 377 0.53 0.15
-7 Don’t know/Not sure 1 0.00 0.00
+1 Yes-Go to CSTATE 70,881 99.47 99.85
+2 No-Go to CSTATE 377 0.53 0.15
+7 Don't know/Not sure 1 0.00 0.00
 BLANK Not asked or Missing 435,208
 Are you a resident of [STATE]?
 CellPhone: 1.5 Cell Phone Introduction Type: Num
@@ -5684,8 +5684,8 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 0 1 0.00 0.00
-1 Yes—Go to LANDLINE 65,990 92.61 87.50
-2 No—Go to RSPSTATE 5,267 7.39 12.50
+1 Yes-Go to LANDLINE 65,990 92.61 87.50
+2 No-Go to RSPSTATE 5,267 7.39 12.50
 BLANK Not asked or Missing 435,209
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
 CODEBOOK REPORT, 2011
@@ -5775,7 +5775,7 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 Yes 2,560 3.59 0.69
-2 No—Go to Survey Introduction 68,698 96.41 99.31
+2 No-Go to Survey Introduction 68,698 96.41 99.31
 BLANK Not asked or Missing 435,209
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
 CODEBOOK REPORT, 2011
@@ -5791,7 +5791,7 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 - 100 Enter Percent (1 to 100) 2,437 95.20 94.99
-777 Don’t know/Not sure 89 3.48 3.63
+777 Don't know/Not sure 89 3.48 3.63
 888 Zero 12 0.47 0.65
 999 Refused 22 0.86 0.73
 BLANK Not asked or Missing 503,907
@@ -6080,7 +6080,7 @@ Description: CRACE with 7, 8, 9s removed, in ascending order
 Value Value Label Frequency Percentage
 Weighted
 Percentage
-7 Don’t know/Not sure 367 0.44 0.83
+7 Don't know/Not sure 367 0.44 0.83
 9 Refused 3,072 3.72 6.03
 BLANK Missing 423,835
 HIDDEN Data not displayed
@@ -6122,7 +6122,7 @@ Notes: CRACEASC = 6
 7 Multiracial
 Notes: CRACEASC >= 12
 3,733 4.52 3.67
-77 Don’t know/Not sure
+77 Don't know/Not sure
 Notes: CRACEASC = 7
 367 0.44 0.83
 99 Refused
@@ -6204,7 +6204,7 @@ Percentage
 180 - 191 15 Years old 5,381 6.42 6.06
 192 - 203 16 Years old 5,709 6.81 6.39
 204 - 215 17 Years old 5,980 7.13 6.54
-777 Don’t know / Not sure 2,633 3.14 4.23
+777 Don't know / Not sure 2,633 3.14 4.23
 999 Refused 5,932 7.08 7.91
 BLANK Not asked or Missing 422,650
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -6489,7 +6489,7 @@ Notes: GENHLTH = 1 or 2 or 3
 2 Fair or Poor Health
 Notes: GENHLTH = 4 or 5
 98,970 19.54 18.07
-9 Don’t know/Not Sure Or Refused/Missing
+9 Don't know/Not Sure Or Refused/Missing
 Notes: GENHLTH = 7 or 9 or Missing
 2,012 0.40 0.42
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -6512,7 +6512,7 @@ Notes: 18 <= AGE <=64 and HLTHPLAN = 1
 2 Do not have health care coverage
 Notes: 18 <= AGE <=64 and HLTHPLAN = 2
 54,902 10.84 17.72
-9 Don’t know/Not Sure, Refused or Missing
+9 Don't know/Not Sure, Refused or Missing
 Notes: AGE > 64 or AGE = Missing or HLTHPLAN = 7 or 9 or Missing
 166,594 32.89 18.71
 High Blood Pressure Calculated Variable
@@ -6531,7 +6531,7 @@ Notes: BPHIGH4 = 2 or 3 or 4
 2 Yes
 Notes: BPHIGH4 = 1
 201,409 39.77 31.48
-9 Don’t know/Not Sure/Refused/Missing
+9 Don't know/Not Sure/Refused/Missing
 Notes: BPHIGH4 = 7 or 9 or Missing
 1,370 0.27 0.23
 Cholesterol Checked Calculated Variable
@@ -6553,7 +6553,7 @@ Notes: BLOODCHO = 1 and CHOLCHK = 4
 3 Have never had cholesterol checked
 Notes: BLOODCHO = 2
 61,086 12.06 20.14
-9 Don’t know/Not Sure Or Refused/Missing
+9 Don't know/Not Sure Or Refused/Missing
 Notes: BLOODCHO = 7 or 9 or Missing or CHOLCHK = 7 or 9 or Missing
 15,356 3.03 3.41
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -6577,7 +6577,7 @@ Notes: BLOODCHO=1 and TOLDHI2 = 2
 2 Yes
 Notes: BLOODCHO=1 and TOLDHI2 = 1
 187,934 43.13 38.24
-9 Don’t know/Not Sure Or Refused/Missing
+9 Don't know/Not Sure Or Refused/Missing
 Notes: BLOODCHO=1 and TOLDHI2 = 7 or 9 or Missing
 3,885 0.89 0.70
 BLANK Missing
@@ -6599,7 +6599,7 @@ Notes: ASTHMA3 = 2
 2 Yes
 Notes: ASTHMA3 = 1
 65,097 12.85 13.45
-9 Don’t know/Not Sure Or Refused/Missing
+9 Don't know/Not Sure Or Refused/Missing
 Notes: ASTHMA3 = 7 or 9 or Missing
 1,587 0.31 0.26
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -6622,7 +6622,7 @@ Notes: ASTHMA3 = 2 or ASTHMA3 = 1 and ASTHNOW = 2
 2 Yes
 Notes: ASTHMA3 = 1 and ASTHNOW = 1
 45,203 8.93 8.75
-9 Don’t know/Not Sure Or Refused/Missing
+9 Don't know/Not Sure Or Refused/Missing
 Notes: ASTHMA3 = 7 or 9 or Missing or ASTHNOW = 7 or 9 or Missing
 3,300 0.65 0.64
 Computed Asthma Status
@@ -6644,7 +6644,7 @@ Notes: ASTHMA3 = 1 and ASTHNOW = 2
 3 Never
 Notes: ASTHMA3 = 2
 439,783 86.83 86.29
-9 Don’t know/Not Sure Or Refused/Missing
+9 Don't know/Not Sure Or Refused/Missing
 Notes: ASTHMA3 = 7 or 9 or Missing or ASTHNOW = 7 or 9 or Missing
 3,300 0.65 0.64
 Respondents diagnosed with arthritis
@@ -6692,7 +6692,7 @@ Notes: SMOKE100 = 1 and SMOKEDAY = 3
 4 Never smoked
 Notes: SMOKE100 = 2
 271,310 53.57 54.97
-9 Don’t know/Refused/Missing
+9 Don't know/Refused/Missing
 Notes: SMOKE100 = 1 and SMOKEDAY = 9 or SMOKE100 = 7 or 9 or Missing
 2,542 0.50 0.46
 Current Smoking Calculated Variable
@@ -6711,7 +6711,7 @@ Notes: _SMOKER3 = 3 or 4
 2 Yes
 Notes: _SMOKER3 = 1 or 2
 84,751 16.73 19.99
-9 Don’t know/Refused/Missing
+9 Don't know/Refused/Missing
 Notes: _SMOKER3 = 9
 2,542 0.50 0.46
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -6728,7 +6728,7 @@ Description: MRACE with trailing 7,8,9s removed
 Value Value Label Frequency Percentage
 Weighted
 Percentage
-7 Don’t know/Not sure
+7 Don't know/Not sure
 Notes: MRACE = 7
 1,675 0.33 0.64
 9 Refused
@@ -6751,7 +6751,7 @@ Description: MRACE with 7,8,9s removed, in ascending order
 Value Value Label Frequency Percentage
 Weighted
 Percentage
-7 Don’t know/Not sure
+7 Don't know/Not sure
 Notes: MRACEORG = 7
 1,675 0.33 0.64
 9 Refused
@@ -6802,7 +6802,7 @@ Notes: MRACEASC >= 12 and ORACE2 = 7 or 9
 8 Multiracial but preferred race not asked
 Notes: MRACEASC >= 12 and ORACE2 = 8 or Missing
 3 0.00 0.00
-77 Don’t know/Not sure
+77 Don't know/Not sure
 Notes: MRACEASC = 7
 1,675 0.33 0.64
 99 Refused
@@ -6846,7 +6846,7 @@ Notes: MRACEASC = 6
 7 Multiracial
 Notes: MRACEASC >= 12
 10,055 1.99 1.77
-77 Don’t know/Not sure
+77 Don't know/Not sure
 Notes: MRACEASC = 7
 1,675 0.33 0.64
 99 Refused
@@ -6893,7 +6893,7 @@ Notes: HISPANC2 = 2 and _MRACE = 7
 8 Hispanic
 Notes: HISPANC2 = 1
 38,718 7.65 15.16
-9 Don’t know/Not sure/Refused
+9 Don't know/Not sure/Refused
 Notes: HISPANC2 = 7 or 9 or _MRACE = 77 or 99 and HISPANC2 = 2
 5,989 1.18 1.02
 BLANK Missing
@@ -6916,7 +6916,7 @@ Notes: RACE2 = 1
 2 Non-White or Hispanic
 Notes: RACE2 = 2 or 3 or 4 or 5 or 6 or 7 or 8
 109,284 21.58 33.44
-9 Don’t know/Not sure/Refused
+9 Don't know/Not sure/Refused
 Notes: RACE2 = 9
 5,989 1.18 1.02
 BLANK 126
@@ -6949,7 +6949,7 @@ Notes: RACE2 = 7
 5 Hispanic
 Notes: RACE2 = 8
 38,718 7.65 15.16
-9 Don’t know/Not sure/Refused
+9 Don't know/Not sure/Refused
 Notes: RACE2 = 9
 5,989 1.18 1.02
 BLANK 126
@@ -6978,7 +6978,7 @@ Notes: _RACEGR2 = 3
 5 Multiracial, Non-Hispanic
 Notes: _RACEGR2 = 4
 9,011 1.80 1.49
-BLANK Don’t know/Not sure/Refused component question
+BLANK Don't know/Not sure/Refused component question
 Notes: _RACEGR2 = 9 or Missing
 6,115
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -7085,7 +7085,7 @@ Notes: 75 <= AGE <= 79
 13 Age 80 or older
 Notes: 80 <= AGE <= 99
 42,079 8.31 4.38
-14 Don’t know/Refused/Missing
+14 Don't know/Refused/Missing
 Notes: 7 <= AGE <= 9
 4,965 0.98 0.68
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -7108,7 +7108,7 @@ Notes: 18 <= AGE <= 64
 2 Age 65 or older
 Notes: 65 <= AGE <= 99
 160,529 31.70 17.58
-3 Don’t know/Refused/Missing
+3 Don't know/Refused/Missing
 Notes: 7 <= AGE <= 9
 4,965 0.98 0.68
 Imputed age in six groups
@@ -7200,7 +7200,7 @@ Percentage
 1 - 9999 1 or greater
 Notes: WTKG3/(HTM4*HTM4) (Has 2 implied decimal places)
 478,839 100.00 100.00
-BLANK Don’t know/Refused/Missing
+BLANK Don't know/Refused/Missing
 Notes: WTKG3 = 777 or 999 or HTM4 = 777 or 999 or PREGNANT=1 or _BMI5
 < 12.00 or _BMI5 > 99.99
 27,628
@@ -7226,7 +7226,7 @@ Notes: 2500 <= _BMI5 < 3000
 4 Obese
 Notes: 3000 <= _BMI5 < 9999
 133,190 27.82 27.42
-BLANK Don’t know/Refused/Missing
+BLANK Don't know/Refused/Missing
 Notes: _BMI5 = Missing
 27,628
 Overweight or obese calculated variable
@@ -7245,7 +7245,7 @@ Notes: 1200 <= _BMI54 < 2500 (_BMI5 has 2 implied decimal places)
 2 Yes
 Notes: 2500 <= _BMI5 < 9999
 306,946 60.61 59.77
-9 Don’t know/Refused/Missing
+9 Don't know/Refused/Missing
 Notes: _BMI5 = Missing
 27,628 5.46 5.50
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -7280,7 +7280,7 @@ Notes: CHILDREN = 04
 6 Five or more children in household
 Notes: 05 <= CHILDREN < 88
 3,412 0.67 0.96
-9 Don’t know/Not sure/Missing
+9 Don't know/Not sure/Missing
 Notes: CHILDREN = 99
 2,448 0.48 0.46
 Computed level of education completed categories
@@ -7305,7 +7305,7 @@ Notes: EDUCA = 5
 4 Graduated from College or Technical School
 Notes: EDUCA = 6
 172,669 34.09 25.28
-9 Don’t know/Not sure/Missing
+9 Don't know/Not sure/Missing
 Notes: EDUCA = 9 or Missing
 1,928 0.38 0.39
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -7337,7 +7337,7 @@ Notes: INCOME2 = 6
 5 $50,000 or more
 Notes: INCOME2 = 7 or 8
 181,897 35.91 36.30
-9 Don’t know/Not sure/Missing
+9 Don't know/Not sure/Missing
 Notes: INCOME2 = 77 or 99 or Missing
 73,575 14.53 13.88
 Computed Fruit Juice intake in times per day
@@ -7351,7 +7351,7 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 0 - 9999 Times per day 478,731 100.00 100.00
-BLANK Don’t know/Not Sure Or Refused/Missing 27,736
+BLANK Don't know/Not Sure Or Refused/Missing 27,736
 Computed Fruit intake in times per day
 CalculatedVaria
 bles:
@@ -7363,7 +7363,7 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 0 - 9999 Times per day 482,238 100.00 100.00
-BLANK Don’t know/Not Sure Or Refused/Missing 24,229
+BLANK Don't know/Not Sure Or Refused/Missing 24,229
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
 CODEBOOK REPORT, 2011
 Land-Line and Cell-Phone data
@@ -7379,7 +7379,7 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 0 - 9999 Times per day 478,756 100.00 100.00
-BLANK Don’t know/Not Sure Or Refused/Missing 27,711
+BLANK Don't know/Not Sure Or Refused/Missing 27,711
 Computed Dark Green Vegetable intake in times per day
 CalculatedVaria
 bles:
@@ -7391,7 +7391,7 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 0 - 9999 Times per day 481,320 100.00 100.00
-BLANK Don’t know/Not Sure Or Refused/Missing 25,147
+BLANK Don't know/Not Sure Or Refused/Missing 25,147
 Computed Orange-Colored Vegetable intake in times per day
 CalculatedVaria
 bles:
@@ -7403,7 +7403,7 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 0 - 9999 Times per day 479,979 100.00 100.00
-BLANK Don’t know/Not Sure Or Refused/Missing 26,488
+BLANK Don't know/Not Sure Or Refused/Missing 26,488
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
 CODEBOOK REPORT, 2011
 Land-Line and Cell-Phone data
@@ -7419,7 +7419,7 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 0 - 9999 Times per day 477,776 100.00 100.00
-BLANK Don’t know/Not Sure Or Refused/Missing 28,691
+BLANK Don't know/Not Sure Or Refused/Missing 28,691
 The number of missing fruit responses
 CalculatedVaria
 bles:
@@ -7570,7 +7570,7 @@ Notes: EXERANY2 = 1
 2 No physical activity or exercise in last 30 days
 Notes: EXERANY2 = 2
 130,303 25.73 24.36
-9 Don’t know/Refused/Missing
+9 Don't know/Refused/Missing
 Notes: EXERANY2 = 7 or 9 or Missing
 22,994 4.54 5.25
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -7614,7 +7614,7 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 0 - 501 Estimated Maximum Oxygen Consumption (two implied decimal places) 501,502 99.02 99.32
-99900 Don’t know/Not Sure/Refused/Missing 4,965 0.98 0.68
+99900 Don't know/Not Sure/Refused/Missing 4,965 0.98 0.68
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
 CODEBOOK REPORT, 2011
 Land-Line and Cell-Phone data
@@ -7630,7 +7630,7 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 0 - 8590 Estimated Functional Capacity (2 implied decimal places) 501,502 99.02 99.32
-99900 Don’t know/Not Sure/Refused/Missing 4,965 0.98 0.68
+99900 Don't know/Not Sure/Refused/Missing 4,965 0.98 0.68
 Estimated Activity Intensity for First Activity
 CalculatedVaria
 bles:
@@ -7698,7 +7698,7 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 0 - 98999 Activity times per week (3 implied decimal places) 347,710 100.00 100.00
-99000 Don’t know/Not Sure/Refused 7 0.00 0.00
+99000 Don't know/Not Sure/Refused 7 0.00 0.00
 BLANK Not asked or Missing 158,750
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
 CODEBOOK REPORT, 2011
@@ -7715,7 +7715,7 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 0 - 98999 Activity times per week (3 implied decimal places) 213,965 99.99 100.00
-99000 Don’t know/Not Sure/Refused 16 0.01 0.00
+99000 Don't know/Not Sure/Refused 16 0.01 0.00
 BLANK Not asked or Missing 292,486
 Minutes of Physical Activity per week for First Activity
 CalculatedVaria
@@ -7771,7 +7771,7 @@ Weighted
 Percentage
 0 Not Missing Physical Activity Data 459,442 90.72 90.50
 1 Missing Physical Activity Data 24,031 4.74 4.25
-9 Don’t know/Not Sure/Refused 22,994 4.54 5.25
+9 Don't know/Not Sure/Refused 22,994 4.54 5.25
 Minutes of Physical Activity per week for First Activity
 CalculatedVaria
 bles:
@@ -7866,7 +7866,7 @@ Percentage
 2 Active 86,370 17.05 17.76
 3 Insufficiently Active 89,049 17.58 19.23
 4 Inactive 134,785 26.61 25.37
-9 Don’t know/Not Sure/Refused/Missing 43,356 8.56 8.86
+9 Don't know/Not Sure/Refused/Missing 43,356 8.56 8.86
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
 CODEBOOK REPORT, 2011
 Land-Line and Cell-Phone data
@@ -7883,7 +7883,7 @@ Weighted
 Percentage
 1 Meet Aerobic Recommendations 242,482 47.88 47.13
 2 Did Not Meet Aerobic Recommendations 223,834 44.20 44.60
-9 Don’t know/Not Sure/Refused/Missing 40,151 7.93 8.27
+9 Don't know/Not Sure/Refused/Missing 40,151 7.93 8.27
 150 Minute Physical Activity Calculated Variable
 CalculatedVaria
 bles:
@@ -7899,7 +7899,7 @@ Percentage
 activity
 89,049 17.58 19.23
 3 0 minutes (or vigorous equivalent minutes) of physical activity 134,785 26.61 25.37
-9 Don’t know/Not Sure/Refused/Missing 40,151 7.93 8.27
+9 Don't know/Not Sure/Refused/Missing 40,151 7.93 8.27
 300 Minute Physical Activity Calculated Variable
 CalculatedVaria
 bles:
@@ -7917,7 +7917,7 @@ activity
 activity
 175,419 34.64 36.99
 3 0 minutes (or vigorous equivalent minutes) of physical activity 134,785 26.61 25.37
-9 Don’t know/Not Sure/Refused/Missing 43,356 8.56 8.86
+9 Don't know/Not Sure/Refused/Missing 43,356 8.56 8.86
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
 CODEBOOK REPORT, 2011
 Land-Line and Cell-Phone data
@@ -7938,7 +7938,7 @@ activity
 2 0-300 minutes (or vigorous equivalent minutes) of physical
 activity
 310,204 61.25 62.37
-9 Don’t know/Not Sure/Refused/Missing 43,356 8.56 8.86
+9 Don't know/Not Sure/Refused/Missing 43,356 8.56 8.86
 Muscle Strengthening Recommendation
 CalculatedVaria
 bles:
@@ -7951,7 +7951,7 @@ Weighted
 Percentage
 1 Meet muscle strengthening recommendations 124,242 24.53 27.22
 2 Did not meet muscle strengthening recommendations 353,420 69.78 66.26
-9 Don’t know/Not Sure/Refused/Missing 28,805 5.69 6.52
+9 Don't know/Not Sure/Refused/Missing 28,805 5.69 6.52
 Aerobic and Strengthening Guideline
 CalculatedVaria
 bles:
@@ -7966,7 +7966,7 @@ Percentage
 2 Met Aerobic Guidelines Only 153,772 30.36 28.06
 3 Met Strengthening Guidelines Only 34,169 6.75 7.95
 4 Did not meet Either Guideline 187,759 37.07 36.28
-9 Don’t know/Not Sure/Refused/Missing 44,548 8.80 9.17
+9 Don't know/Not Sure/Refused/Missing 44,548 8.80 9.17
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
 CODEBOOK REPORT, 2011
 Land-Line and Cell-Phone data
@@ -7983,7 +7983,7 @@ Weighted
 Percentage
 1 Met Both Guidelines 86,219 17.02 18.54
 2 Did Not Meet Both Guidelines 375,700 74.18 72.29
-9 Don’t know/Not Sure/Refused/Missing 44,548 8.80 9.17
+9 Don't know/Not Sure/Refused/Missing 44,548 8.80 9.17
 Always or Nearly Always Wear Seat Belts
 CalculatedVaria
 bles:
@@ -7996,7 +7996,7 @@ Weighted
 Percentage
 1 Always or Almost Always Wear Seat Belt 448,418 88.54 87.34
 2 Sometimes, Seldom, or Never Wear Seat Belt 28,977 5.72 5.66
-9 Don’t know/Not Sure Or Refused/Missing 29,072 5.74 7.00
+9 Don't know/Not Sure Or Refused/Missing 29,072 5.74 7.00
 Always Wear Seat Belts
 CalculatedVaria
 bles:
@@ -8008,8 +8008,8 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 Always Wear Seat Belt 411,241 81.20 80.78
-2 Don’t Always Wear Seat Belt 66,154 13.06 12.22
-9 Don’t know/Not Sure Or Refused/Missing 29,072 5.74 7.00
+2 Don't Always Wear Seat Belt 66,154 13.06 12.22
+9 Don't know/Not Sure Or Refused/Missing 29,072 5.74 7.00
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
 CODEBOOK REPORT, 2011
 Land-Line and Cell-Phone data
@@ -8028,7 +8028,7 @@ Percentage
 Notes: AGE >=65 and FLUSHOT5 = 1
 92,331 55.79 53.50
 2 No 58,040 35.07 35.38
-9 Don’t know/Not Sure Or Refused/Missing 15,123 9.14 11.12
+9 Don't know/Not Sure Or Refused/Missing 15,123 9.14 11.12
 BLANK Age Less Than 65 340,973
 Pneumonia Vaccination Calculated Variable
 CalculatedVaria
@@ -8046,7 +8046,7 @@ Notes: AGE >= 65 and PNEUVAC3 = 1
 2 No
 Notes: AGE >= 65 and PNEUVAC3 = 2
 43,583 26.34 26.56
-9 Don’t know/Not Sure Or Refused/Missing
+9 Don't know/Not Sure Or Refused/Missing
 Notes: AGE = 7 or 9 or Missing or PNEUVAC3 = 7 or 9 or Missing
 20,199 12.21 14.19
 BLANK Age Less Than 65
@@ -8072,7 +8072,7 @@ Notes: 1 <= ALCDAY5 <= 231
 2 No
 Notes: ALCDAY5=888
 230,214 45.45 41.28
-7 Don’t know/Not Sure
+7 Don't know/Not Sure
 Notes: ALCDAY5=777
 2,427 0.48 0.44
 9 Refused/Missing
@@ -8094,7 +8094,7 @@ Notes: ALCDAY5 = 888
 1 - 899 Drink-Occasions per day
 Notes: ALCDAY5 <= 231
 242,550 47.89 50.71
-900 Don’t know/Not Sure Or Refused/Missing
+900 Don't know/Not Sure Or Refused/Missing
 Notes: ALCDAY5 = 777 or 999 or Missing
 33,695 6.65 8.00
 BLANK 8
@@ -8119,7 +8119,7 @@ Notes: ALCDAY5 < 300 and DRNK3GE5 = 0 or ALCDAY5 = 888
 2 Yes
 Notes: ALCDAY5 < 300 and DRNK3GE5 = 1
 60,769 12.00 16.65
-9 Don’t know/Refused/Missing
+9 Don't know/Refused/Missing
 Notes: DRNK3GE5 = 7 or 9 or Missing or ALCDAY5 = 777 or 999 or Missing
 36,809 7.27 8.83
 Computed number of drinks of alcohol beverages per day
@@ -8138,7 +8138,7 @@ Notes: ALCDAY5 = 888
 1 - 9899 Number of drinks per day
 Notes: ALCDAY5 / 7 per week or ALCDAY5 / 30 per month * AVEDRNK2
 239,202 47.23 49.82
-9900 Don’t know/Not sure/Refused/Missing
+9900 Don't know/Not sure/Refused/Missing
 Notes: ALCDAY5 = 777 or 999 or Missing
 37,044 7.31 8.89
 BLANK 7
@@ -8158,7 +8158,7 @@ Notes: _DRNKDY4 = 0
 1 - 9998 Number of Drinks
 Notes: _DRNKDY4 * 30
 239,202 47.23 49.82
-9999 Don’t know/Refused/Missing
+9999 Don't know/Refused/Missing
 Notes: _DRNKDY4 = 900
 37,051 7.32 8.89
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
@@ -8183,7 +8183,7 @@ ALCDAY5 = 888
 2 Yes
 Notes: SEX = 1 and _DRNKDY4 > 2 or SEX = 2 and _DRNKDY4 > 1
 26,848 5.30 6.00
-9 Don’t know/Refused/Missing
+9 Don't know/Refused/Missing
 Notes: _DRNKDY4 = 900
 37,051 7.32 8.89
 Adult Men Heavy Alcohol Consumption Calculated Variable
@@ -8202,7 +8202,7 @@ Notes: SEX = 1 and _DRNKDY4 <= 2 or ALCDAY5 = 888
 2 Yes
 Notes: SEX = 1 and _DRNKDY4> 2
 12,374 6.22 6.89
-9 Don’t know/Refused/Missing
+9 Don't know/Refused/Missing
 Notes: _DRNKDY4 = 900
 15,466 7.78 9.22
 BLANK Respondent is female
@@ -8228,7 +8228,7 @@ Notes: SEX = 2 and _DRNKDY4 <= 1 or ALCDAY5 = 888
 2 Yes
 Notes: SEX = 2 and _DRNKDY4 > 1
 14,474 4.70 5.16
-9 Don’t know/Refused/Missing
+9 Don't know/Refused/Missing
 Notes: _DRNKDY4 = 900
 21,585 7.02 8.58
 BLANK Respondent is male
@@ -8250,7 +8250,7 @@ Notes: HIVTST6 = 1
 2 No
 Notes: HIVTST6 = 2
 322,055 68.34 60.14
-9 Don’t know/Not Sure/Refused
+9 Don't know/Not Sure/Refused
 Notes: HIVTST6 = 7 or 9
 15,961 3.39 3.94
 BLANK Missing or Age greater than 64
