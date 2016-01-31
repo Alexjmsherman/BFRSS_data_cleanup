@@ -3781,7 +3781,7 @@ Column: 364 SAS Variable Name: SMCMEDQT
 Prologue:
 Description: (If Core Q7.4 = 1-4 and Q2 = 1): When you quit smoking... (If Core Q7.2 = 1 or 2 and Q7.3 = 1): The last time you
 tried to quit smoking... did you use any of the following medications: a nicotine patch, nicotine gum, nicotine
-lozenges, nicotine nasal spray, a nicotine inhaler, or pills such as Wellbutrin®, Zyban®, buproprion, Chantix®, or
+lozenges, nicotine nasal spray, a nicotine inhaler, or pills such as Wellbutrin, Zyban, buproprion, Chantix, or
 varenicline to help you quit? [NOTE: Pronounce "Wellbutrin" as Well-BYOU-TRIN, "Zyban" as Z-EYE BAN,
 "buproprion" as BYO PRO PRI ON, "Chantix" as CHAN TICS, and "varenicline" as VAR EN IH CLEAN]. Please read
 list slowly.]
@@ -4279,7 +4279,7 @@ Have You Had Shingles Vaccine?
 Module: 21.1 Shingles Type: Num
 Column: 404 SAS Variable Name: SHINGLE1
 Prologue:
-Description: A vaccine for shingles has been available since May 2006, it is called Zostavax®, the zoster vaccine, or the shingles
+Description: A vaccine for shingles has been available since May 2006, it is called Zostavax, the zoster vaccine, or the shingles
 vaccine. Have you had this vaccine?
 Value Value Label Frequency Percentage
 Weighted

@@ -3024,7 +3024,7 @@ Have You Had Shingles Vaccine?
 Module: 11.1 Shingles (Zostavax or ZOS) Type: Num
 Column: 303 SAS Variable Name: SHINGLE1
 Prologue:
-Description: A vaccine for shingles has been available since May 2006, it is called Zostavax®, the zoster vaccine, or the shingles
+Description: A vaccine for shingles has been available since May 2006, it is called Zostavax, the zoster vaccine, or the shingles
 vaccine. Have you had this vaccine?
 Value Value Label Frequency Percentage
 Weighted
