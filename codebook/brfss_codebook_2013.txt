@@ -1645,11 +1645,11 @@ camping)
 19 Golf (with motorized cart) 4,452 1.34 1.21
 20 Golf (without motorized cart) 2,059 0.62 0.59
 21 Handball 22 0.01 0.01
-22 Hiking ­- cross-country 2,617 0.79 0.85
+22 Hiking - cross-country 2,617 0.79 0.85
 23 Hockey 284 0.09 0.11
 24 Horseback riding 549 0.17 0.12
-25 Hunting large game ­- deer, elk 294 0.09 0.08
-26 Hunting small game ­- quail 140 0.04 0.04
+25 Hunting large game - deer, elk 294 0.09 0.08
+26 Hunting small game - quail 140 0.04 0.04
 27 Inline Skating 27 0.01 0.01
 28 Jogging 3,270 0.98 1.44
 29 Lacrosse 26 0.01 0.01
@@ -1682,7 +1682,7 @@ Percentage
 41 Rugby 38 0.01 0.02
 42 Scuba diving 21 0.01 0.01
 43 Skateboarding 149 0.04 0.09
-44 Skating ­- ice or roller 197 0.06 0.08
+44 Skating - ice or roller 197 0.06 0.08
 45 Sledding, tobogganing 23 0.01 0.01
 46 Snorkeling 32 0.01 0.01
 47 Snow blowing 41 0.01 0.00
@@ -1814,11 +1814,11 @@ camping)
 19 Golf (with motorized cart) 3,079 0.93 0.82
 20 Golf (without motorized cart) 1,807 0.55 0.54
 21 Handball 27 0.01 0.01
-22 Hiking ­- cross-country 2,444 0.74 0.73
+22 Hiking - cross-country 2,444 0.74 0.73
 23 Hockey 173 0.05 0.08
 24 Horseback riding 784 0.24 0.16
-25 Hunting large game ­- deer, elk 344 0.10 0.08
-26 Hunting small game ­- quail 237 0.07 0.05
+25 Hunting large game - deer, elk 344 0.10 0.08
+26 Hunting small game - quail 237 0.07 0.05
 27 Inline Skating 38 0.01 0.02
 28 Jogging 2,132 0.65 0.93
 29 Lacrosse 28 0.01 0.01
@@ -1851,7 +1851,7 @@ Percentage
 41 Rugby 35 0.01 0.02
 42 Scuba diving 41 0.01 0.02
 43 Skateboarding 142 0.04 0.10
-44 Skating ­- ice or roller 214 0.06 0.09
+44 Skating - ice or roller 214 0.06 0.09
 45 Sledding, tobogganing 52 0.02 0.01
 46 Snorkeling 41 0.01 0.01
 47 Snow blowing 117 0.04 0.02
