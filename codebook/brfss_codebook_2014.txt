@@ -1297,7 +1297,7 @@ Adult flu shot/spray past 12 mos
 Section: 11.1 Immunization Type: Num
 Column: 202 SAS Variable Name: FLUSHOT6
 Prologue: Now I will ask you questions about the flu vaccine. There are two ways to get the flu vaccine, one is a shot in the arm
-and the other is a spray, mist, or drop in the nose called FluMist™.
+and the other is a spray, mist, or drop in the nose called FluMist.
 Description: During the past 12 months, have you had either a flu shot or a flu vaccine that was sprayed in your nose? (A new flu
 shot came out in 2011 that injects vaccine into the skin with a very small needle. It is called Fluzone Intradermal vaccine.
 This is also considered a flu shot.)
@@ -1666,7 +1666,7 @@ What was the MAIN reason you had this PSA test?
 Section: 16.6 Prostate Cancer Screening Type: Num
 Column: 230 SAS Variable Name: PCPSARS1
 Prologue:
-Description: What was the MAIN reason you had this PSA test - was it ...?
+Description: What was the MAIN reason you had this PSA test?
 Value Value Label Frequency Percentage
 Weighted
 Percentage
