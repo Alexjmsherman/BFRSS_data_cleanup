@@ -612,7 +612,7 @@ Ever Diagnosed with Heart Attack
 Section: 5.1 Chronic Health Conditions Type: Num
 Column: 85 SAS Variable Name: CVDINFR4
 Prologue: Has a doctor, nurse, or other health professional ever told you that you had any of the following? For each, tell me
-"Yes”, "No”, or you're "Not sure”:
+"Yes", "No", or you're "Not sure":
 Description: (Ever told) you had a heart attack, also called a myocardial infarction?
 Value Value Label Frequency Percentage
 Weighted
@@ -1988,7 +1988,7 @@ Module: 1.2 Pre-Diabetes Type: Num
 Column: 211 SAS Variable Name: PREDIAB1
 Prologue:
 Description: Have you ever been told by a doctor or other health professional that you have pre-diabetes or borderline diabetes?
-(If "Yes” and respondent is female, ask: "Was this only when you were pregnant?”)
+(If "Yes" and respondent is female, ask: "Was this only when you were pregnant?")
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -2117,8 +2117,8 @@ Times Checked for Glycosylated Hemoglobin
 Module: 2.6 Diabetes Type: Num
 Column: 223-224 SAS Variable Name: CHKHEMO3
 Prologue:
-Description: A test for "A one C” measures the average level of blood sugar over the past three months. About how many times
-in the past 12 months has a doctor, nurse, or other health professional checked you for "A one C”?
+Description: A test for "A one C" measures the average level of blood sugar over the past three months. About how many times
+in the past 12 months has a doctor, nurse, or other health professional checked you for "A one C"?
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -2126,7 +2126,7 @@ Percentage
 Notes: _ _ Number of times, 76 = 76 or more
 27,868 80.06 79.30
 88 None 2,779 7.98 8.91
-98 Never heard of "A one C” test 1,360 3.91 3.60
+98 Never heard of "A one C" test 1,360 3.91 3.60
 77 Don't know/Not sure 2,713 7.79 7.82
 99 Refused 91 0.26 0.37
 BLANK Not asked or Missing
@@ -2683,7 +2683,7 @@ Description: During the past month, how many times per day, week, or month did y
 refried, baked, black, garbanzo beans, beans in soup, soybeans, edamame, tofu or lentils. Do NOT include long
 green beans.(Read only if necessary: "Include round or oval beans or peas such as navy, pinto, split peas, cow
 peas, garbanzo beans, lentils, soy beans and tofu. Do NOT include long green beans such as string beans, broad or
-winged beans, or pole beans.”)
+winged beans, or pole beans.")
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -2722,7 +2722,7 @@ Column: 277-279 SAS Variable Name: FVORANG
 Prologue:
 Description: During the past month, how many times per day, week, or month did you eat orange-colored vegetables such as
 sweet potatoes, pumpkin, winter squash, or carrots? (Read only if needed: "Winter squash have hard, thick skins
-and deep yellow to orange flesh. They include acorn, buttercup, and spaghetti squash.”)
+and deep yellow to orange flesh. They include acorn, buttercup, and spaghetti squash.")
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -2745,7 +2745,7 @@ Prologue:
 Description: Not counting what you just told me about, during the past month, about how many times per day, week, or month did
 you eat OTHER vegetables? Examples of other vegetables include tomatoes, tomato juice or V-8 juice, corn,
 eggplant, peas, lettuce, cabbage, and white potatoes that are not fried such as baked or mashed potatoes.(Read
-only if needed: "Do not count vegetables you have already counted and do not include fried potatoes.”)
+only if needed: "Do not count vegetables you have already counted and do not include fried potatoes.")
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -2821,7 +2821,7 @@ Land-Line and Cell-Phone data
 Urgent Asthma Treatment During Past 12 Months
 Module: 9.4 Adult Asthma History Type: Num
 Column: 288-289 SAS Variable Name: ASDRVIST
-Prologue: If one or more visits to Q3, fill in "Besides those emergency room or urgent care center visits,”]
+Prologue: If one or more visits to Q3, fill in "Besides those emergency room or urgent care center visits,"]
 Description: During the past 12 months, how many times did you see a doctor, nurse or other health professional for urgent
 treatment of worsening asthma symptoms?
 Value Value Label Frequency Percentage
@@ -3093,7 +3093,7 @@ Have you ever had the HPV vaccination?
 Module: 13.1 Adult Human Papilloma Virus (HPV) Type: Num
 Column: 307 SAS Variable Name: HPVADVC2
 Prologue: A vaccine to prevent the human papilloma virus or HPV infection is available and is called the cervical cancer or
-genital warts vaccine, HPV shot, [Fill: if female "GARDASIL or CERVARIX”, if male "GARDASIL”].
+genital warts vaccine, HPV shot, [Fill: if female "GARDASIL or CERVARIX", if male "GARDASIL"].
 Description: Have you ever had the HPV vaccination? (Human Papilloma Virus (Human Pap-uh-loh-muh Virus), Gardasil
 (Gar-duh- seel), Cervarix (Serv a rix))
 Value Value Label Frequency Percentage
@@ -3211,7 +3211,7 @@ Module: 15.2 Cancer Survivorship Type: Num
 Column: 317-318 SAS Variable Name: CNCRAGE
 Prologue:
 Description: At what age were you told that you had cancer? (If Response = 2 (Two) or 3 (Three or more), ask: "At what age
-was your first diagnosis of cancer?”)
+was your first diagnosis of cancer?")
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -3234,7 +3234,7 @@ Module: 15.3 Cancer Survivorship Type: Num
 Column: 319-320 SAS Variable Name: CNCRTYP1
 Prologue:
 Description: What type of cancer was it? (If Response = 2 (Two) or 3 (Three or more), ask: "With your most recent diagnoses of
-cancer, what type of cancer was it?”)
+cancer, what type of cancer was it?")
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -3393,7 +3393,7 @@ Module: 15.9 Cancer Survivorship Type: Num
 Column: 327 SAS Variable Name: CSRVINSR
 Prologue:
 Description: With your most recent diagnosis of cancer, did you have health insurance that paid for all or part of your cancer
-treatment? ("Health insurance” also includes Medicare, Medicaid, or other types of state health programs.)
+treatment? ("Health insurance" also includes Medicare, Medicaid, or other types of state health programs.)
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -4439,7 +4439,7 @@ Birth date of child
 Module: 23.1 Random Child Selection Type: Char
 Column: 392-397 SAS Variable Name: RCSBIRTH
 Prologue:
-Description: What is the birth month and year of the "Xth” child?
+Description: What is the birth month and year of the "Xth" child?
 Value Value Label Frequency Percentage
 Weighted
 Percentage

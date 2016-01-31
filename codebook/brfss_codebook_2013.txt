@@ -277,7 +277,7 @@ Section: 0.20 Record Identification Type: Num
 Column: 63 SAS Variable Name: PVTRESD1
 Prologue: Variable only on the land line survey
 Description: Is this a private residence? [READ ONLY IF NECESSARY: "By private residence, we mean someplace like a
-house or apartment.”]
+house or apartment."]
 Weighted
 Value Value Label Frequency Percentage Percentage
 1 Yes 360,035 99.99 99.99
@@ -329,7 +329,7 @@ Column: 66 SAS Variable Name: CELLFON3
 Prologue: Variable only on the land line survey
 Description: Is this a cellular telephone? (Telephone service over the internet counts as landline service (includes Vonage,
 Magic Jack and other home-based phone services).)[Read only if necessary: "By cellular (or cell) telephone we
-mean a telephone that is mobile and usable outside of your neighborhood.”]
+mean a telephone that is mobile and usable outside of your neighborhood."]
 Weighted
 Value Value Label Frequency Percentage Percentage
 1 Not a cellular phone 356,564 100.00 100.00
@@ -635,7 +635,7 @@ Ever Diagnosed with Heart Attack
 Section: 7.1 Chronic Health Conditions Type: Num
 Column: 98 SAS Variable Name: CVDINFR4
 Prologue: Has a doctor, nurse, or other health professional ever told you that you had any of the following? For each, tell me
-"Yes”, "No”, or you're "Not sure”:
+"Yes", "No", or you're "Not sure":
 Description: (Ever told) you had a heart attack, also called a myocardial infarction?
 Weighted
 Value Value Label Frequency Percentage Percentage
@@ -1502,7 +1502,7 @@ Description: During the past month, how many times per day, week, or month did y
 refried, baked, black, garbanzo beans, beans in soup, soybeans, edamame, tofu or lentils. Do NOT include long
 green beans.(Read only if necessary: "Include round or oval beans or peas such as navy, pinto, split peas, cow
 peas, garbanzo beans, lentils, soy beans and tofu. Do NOT include long green beans such as string beans, broad or
-winged beans, or pole beans.”)
+winged beans, or pole beans.")
 Weighted
 Value Value Label Frequency Percentage Percentage
 101 - 199 	 Times per day 27,008 5.80 7.20
@@ -1550,7 +1550,7 @@ Column: 214-216 SAS Variable Name: FVORANG
 Prologue:
 Description: During the past month, how many times per day, week, or month did you eat orange-colored vegetables such as
 sweet potatoes, pumpkin, winter squash, or carrots? (Read only if needed: "Winter squash have hard, thick skins
-and deep yellow to orange flesh. They include acorn, buttercup, and spaghetti squash.”)
+and deep yellow to orange flesh. They include acorn, buttercup, and spaghetti squash.")
 Weighted
 Value Value Label Frequency Percentage Percentage
 101 - 199 Times per day 31,939 6.89 6.67
@@ -1568,7 +1568,7 @@ Prologue:
 Description: Not counting what you just told me about, during the past month, about how many times per day, week, or month did
 you eat OTHER vegetables? Examples of other vegetables include tomatoes, tomato juice or V-8 juice, corn,
 eggplant, peas, lettuce, cabbage, and white potatoes that are not fried such as baked or mashed potatoes.(Read
-only if needed: "Do not count vegetables you have already counted and do not include fried potatoes.”)
+only if needed: "Do not count vegetables you have already counted and do not include fried potatoes.")
 Weighted
 Value Value Label Frequency Percentage Percentage
 101 - 199 Times per day 153,138 33.10 30.26
@@ -2125,7 +2125,7 @@ Section: 15.3 Immunization Type: Num
 Column: 253 SAS Variable Name: TETANUS
 Prologue:
 Description: Since 2005, have you had a tetanus shot? (If yes, ask: "Was this Tdap, the tetanus shot that also has pertussis or
-whooping cough vaccine?”)
+whooping cough vaccine?")
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -2248,7 +2248,7 @@ Module: 1.2 Pre-Diabetes Type: Num
 Column: 271 SAS Variable Name: PREDIAB1
 Prologue:
 Description: Have you ever been told by a doctor or other health professional that you have pre-diabetes or borderline diabetes?
-(If "Yes” and respondent is female, ask: "Was this only when you were pregnant?”)
+(If "Yes" and respondent is female, ask: "Was this only when you were pregnant?")
 Weighted
 Value Value Label Frequency Percentage Percentage
 1 Yes 22,432 9.53 8.03
@@ -2374,8 +2374,8 @@ Times Checked for Glycosylated Hemoglobin
 Module: 2.6 Diabetes Type: Num
 Column: 283-284 SAS Variable Name: CHKHEMO3
 Prologue:
-Description: A test for "A one C” measures the average level of blood sugar over the past three months. About how many times
-in the past 12 months has a doctor, nurse, or other health professional checked you for "A one C”?
+Description: A test for "A one C" measures the average level of blood sugar over the past three months. About how many times
+in the past 12 months has a doctor, nurse, or other health professional checked you for "A one C"?
 Weighted
 Value Value Label Frequency Percentage Percentage
 1 - 76 Number of times [76=76 or more] 28,020 79.89 78.87
@@ -2852,7 +2852,7 @@ Section 07.05, ASTHNOW, is coded 2, 7, 9, or Missing; or Module
 Urgent Asthma Treatment During Past 12 Months
 Module: 7.4 Adult Asthma History Type: Num
 Column: 362-363 SAS Variable Name: ASDRVIST
-Prologue: If one or more visits to Q3, fill in "Besides those emergency room or urgent care center visits,”]
+Prologue: If one or more visits to Q3, fill in "Besides those emergency room or urgent care center visits,"]
 Description: During the past 12 months, how many times did you see a doctor, nurse or other health professional for urgent
 treatment of worsening asthma symptoms?
 Weighted
@@ -3015,7 +3015,7 @@ Outpatient rehab after heart attack hosp stay
 Module: 8.1 Cardiovascular Health Type: Num
 Column: 373 SAS Variable Name: HAREHAB1
 Prologue:
-Description: Following your heart attack, did you go to any kind of outpatient rehabilitation? This is sometimes called "rehab.”
+Description: Following your heart attack, did you go to any kind of outpatient rehabilitation? This is sometimes called "rehab."
 Weighted
 Value Value Label Frequency Percentage Percentage
 1 Yes 2,891 33.99 31.90
@@ -3028,7 +3028,7 @@ Outpatient rehab after hosp stay for stroke
 Module: 8.2 Cardiovascular Health Type: Num
 Column: 374 SAS Variable Name: STREHAB1
 Prologue:
-Description: Following your stroke did you go to any kind of outpatient rehabilitation? This is sometimes called "rehab.”
+Description: Following your stroke did you go to any kind of outpatient rehabilitation? This is sometimes called "rehab."
 Weighted
 Value Value Label Frequency Percentage Percentage
 1 Yes 1,904 30.92 30.06
@@ -3242,7 +3242,7 @@ Have you ever had the HPV vaccination?
 Module: 11.1 Adult Human Papilloma Virus (HPV) Type: Num
 Column: 386 SAS Variable Name: HPVADVC2
 Prologue: A vaccine to prevent the human papilloma virus or HPV infection is available and is called the cervical cancer or
-genital warts vaccine, HPV shot, [Fill: if female "GARDASIL or CERVARIX”, if male "GARDASIL”].
+genital warts vaccine, HPV shot, [Fill: if female "GARDASIL or CERVARIX", if male "GARDASIL"].
 Description: Have you ever had the HPV vaccination? (Human Papilloma Virus (Human Pap-uh-loh-muh Virus), Gardasil
 (Gar-duh- seel), Cervarix (Serv a rix))
 Weighted
@@ -4222,7 +4222,7 @@ SAS Variable Name:
 Char
 RCSBIRTH
 Prologue:
-Description: What is the birth month and year of the "Xth” child?
+Description: What is the birth month and year of the "Xth" child?
 Value Value Label Frequency Percentage
 Weighted
 Percentage
