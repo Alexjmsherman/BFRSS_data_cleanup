@@ -2698,7 +2698,7 @@ Land-Line and Cell-Phone data
 Have you ever had an HPV test?
 Module: 10.1 Adult Human Papilloma Virus (HPV) - Testing Type: Num
 Column: 346 SAS Variable Name: HPVTEST
-Prologue: Now, I would like to ask you about the Human Papillomavirus (Pap•uh•loh•muh Virus) or HPV.
+Prologue: Now, I would like to ask you about the Human Papillomavirus (Pap-uh-loh-muh Virus) or HPV.
 Description: An HPV test is sometimes given with the Pap test for cervical cancer screening. Have you ever had an HPV test?
 Value Value Label Frequency Percentage
 Weighted
@@ -2738,8 +2738,8 @@ Module: 11.1 Adult Human Papilloma Virus (HPV) - Vaccination Type: Num
 Column: 348 SAS Variable Name: HPVADVC2
 Prologue: A vaccine to prevent the human papilloma virus or HPV infection is available and is called the cervical cancer or genital
 warts vaccine, HPV shot, [Fill: if female "GARDASIL or CERVARIX", if male "GARDASIL"].
-Description: Have you ever had the HPV vaccination? (Human Papilloma Virus (Human Pap•uh•loh•muh Virus), Gardasil
-(Gar•duh• seel), Cervarix (Serv a rix))
+Description: Have you ever had the HPV vaccination? (Human Papilloma Virus (Human Pap-uh-loh-muh Virus), Gardasil
+(Gar-duh- seel), Cervarix (Serv a rix))
 Value Value Label Frequency Percentage
 Weighted
 Percentage

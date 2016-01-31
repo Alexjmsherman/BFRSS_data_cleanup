@@ -3094,8 +3094,8 @@ Module: 13.1 Adult Human Papilloma Virus (HPV) Type: Num
 Column: 307 SAS Variable Name: HPVADVC2
 Prologue: A vaccine to prevent the human papilloma virus or HPV infection is available and is called the cervical cancer or
 genital warts vaccine, HPV shot, [Fill: if female “GARDASIL or CERVARIX”, if male “GARDASIL”].
-Description: Have you ever had the HPV vaccination? (Human Papilloma Virus (Human Pap•uh•loh•muh Virus), Gardasil
-(Gar•duh• seel), Cervarix (Serv a rix))
+Description: Have you ever had the HPV vaccination? (Human Papilloma Virus (Human Pap-uh-loh-muh Virus), Gardasil
+(Gar-duh- seel), Cervarix (Serv a rix))
 Value Value Label Frequency Percentage
 Weighted
 Percentage
