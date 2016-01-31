@@ -1926,7 +1926,7 @@ Adult seasonal flu shot/spray past 12 mos
 Section: 14.1 Immunization Type: Num
 Column: 199 SAS Variable Name: FLUSHOT5
 Prologue: Now I will ask you questions about seasonal flu vaccine. There are two ways to get the seasonal flu vaccine, one is
-a shot in the arm and the other is a spray, mist, or drop in the nose called FluMist™.
+a shot in the arm and the other is a spray, mist, or drop in the nose called FluMist.
 Description: During the past 12 months, have you had either a seasonal flu shot or a seasonal flu vaccine that was sprayed in
 your nose?
 Value Value Label Frequency Percentage
@@ -2866,12 +2866,12 @@ Percentage
 BLANK Not asked or Missing
 Notes: Module 08.01, WRKHCF1, is coded 2, 7, 9 or missing
 506,467
-Has A Doctor, Nurse, Or Other Health Professional Ever Said That You Have…Problem Caused By A Chronic Illness Or By
+Has A Doctor, Nurse, Or Other Health Professional Ever Said That You Have...Problem Caused By A Chronic Illness Or By
 Medicines; Taken For A Chronic Illness?
 Module: 8.3 High Risk/Health Care Worker Type: Num
 Column: 310 SAS Variable Name: DRHPAD1
 Prologue:
-Description: Has a doctor, nurse, or other health professional ever said that you have… Lung problems, other than asthma,
+Description: Has a doctor, nurse, or other health professional ever said that you have... Lung problems, other than asthma,
 Kidney problems, Anemia, including Sickle Cell, Or A weakened immune system caused by a chronic illness or by
 medicines, taken for a chronic illness?
 Value Value Label Frequency Percentage
@@ -3718,8 +3718,8 @@ Column: 361 SAS Variable Name: SMCCALQT
 Prologue: Previously, you mentioned you (If Core Q7.3 = 1): say, "tried to quit smoking in the past year." (If Core Q7.4 = 1-4
 and Q2 = 1): say, "quit smoking in the past year. The next few questions ask about your most recent attempt to quit
 smoking.
-Description: (If Core Q7.4 = 1-4 and Q.2 = 1): When you quit smoking… (If Core Q7.2 = 1 or 2 and Q7.3 = 1): The last time you
-tried to quit smoking… did you call a telephone quitline to help you quit?
+Description: (If Core Q7.4 = 1-4 and Q.2 = 1): When you quit smoking... (If Core Q7.2 = 1 or 2 and Q7.3 = 1): The last time you
+tried to quit smoking... did you call a telephone quitline to help you quit?
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -3739,8 +3739,8 @@ Did you use a program to help you quit smoking?
 Module: 15.4 Smoking Cessation Type: Num
 Column: 362 SAS Variable Name: SMCPROGQ
 Prologue:
-Description: (If Core Q7.4 = 1-4 and Q2 = 1): When you quit smoking… (If Core Q7.2 = 1 or 2 and Q7.3 = 1): The last time you
-tried to quit smoking… did you use a program to help you quit?
+Description: (If Core Q7.4 = 1-4 and Q2 = 1): When you quit smoking... (If Core Q7.2 = 1 or 2 and Q7.3 = 1): The last time you
+tried to quit smoking... did you use a program to help you quit?
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -3757,8 +3757,8 @@ Did you receive one-on-one counseling to help you quit smoking?
 Module: 15.5 Smoking Cessation Type: Num
 Column: 363 SAS Variable Name: SMCCNSLQ
 Prologue:
-Description: (If Core Q7.4 = 1-4 and Q2 = 1): When you quit smoking… (If Core Q7.2 = 1 or 2 and Q7.3 = 1): The last time you
-tried to quit smoking… did you receive one-on-one counseling from a health professional to help you quit?
+Description: (If Core Q7.4 = 1-4 and Q2 = 1): When you quit smoking... (If Core Q7.2 = 1 or 2 and Q7.3 = 1): The last time you
+tried to quit smoking... did you receive one-on-one counseling from a health professional to help you quit?
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -3779,8 +3779,8 @@ Did you use any medications to help you quit smoking?
 Module: 15.6 Smoking Cessation Type: Num
 Column: 364 SAS Variable Name: SMCMEDQT
 Prologue:
-Description: (If Core Q7.4 = 1-4 and Q2 = 1): When you quit smoking… (If Core Q7.2 = 1 or 2 and Q7.3 = 1): The last time you
-tried to quit smoking… did you use any of the following medications: a nicotine patch, nicotine gum, nicotine
+Description: (If Core Q7.4 = 1-4 and Q2 = 1): When you quit smoking... (If Core Q7.2 = 1 or 2 and Q7.3 = 1): The last time you
+tried to quit smoking... did you use any of the following medications: a nicotine patch, nicotine gum, nicotine
 lozenges, nicotine nasal spray, a nicotine inhaler, or pills such as Wellbutrin®, Zyban®, buproprion, Chantix®, or
 varenicline to help you quit? [NOTE: Pronounce "Wellbutrin" as Well-BYOU-TRIN, "Zyban" as Z-EYE BAN,
 "buproprion" as BYO PRO PRI ON, "Chantix" as CHAN TICS, and "varenicline" as VAR EN IH CLEAN]. Please read
@@ -3819,11 +3819,11 @@ BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
 CODEBOOK REPORT, 2011
 Land-Line and Cell-Phone data
 93 of 190 January 24, 2013
-Do you plan to quit smoking cigarettes for good…
+Do you plan to quit smoking cigarettes for good...
 Module: 15.8 Smoking Cessation Type: Num
 Column: 366 SAS Variable Name: SMCPLANQ
 Prologue:
-Description: Do you plan to quit smoking cigarettes for good…
+Description: Do you plan to quit smoking cigarettes for good...
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -3893,7 +3893,7 @@ Where is smoking allowed inside your home?
 Module: 16.5 Secondhand Smoke I Type: Num
 Column: 375 SAS Variable Name: SHSHOMES
 Prologue:
-Description: Not counting decks, porches, or garages, inside your home, is smoking…
+Description: Not counting decks, porches, or garages, inside your home, is smoking...
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -3902,7 +3902,7 @@ Is smoking allowed in family vehicles?
 Module: 16.6 Secondhand Smoke I Type: Num
 Column: 376 SAS Variable Name: SHSVHICL
 Prologue:
-Description: Not counting motorcycles, in the vehicles that you or family members who live with you own or lease, is smoking…
+Description: Not counting motorcycles, in the vehicles that you or family members who live with you own or lease, is smoking...
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -3915,7 +3915,7 @@ Should smoking be allowed in workplace?
 Module: 16.7 Secondhand Smoke Type: Num
 Column: 377 SAS Variable Name: SHSALOW1
 Prologue:
-Description: At workplaces, do you think smoking indoors should be…
+Description: At workplaces, do you think smoking indoors should be...
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -4381,7 +4381,7 @@ Household prepared to handle large-scale disaster or emergency
 Module: 23.1 General Preparedness Type: Num
 Column: 411 SAS Variable Name: GPWELPR3
 Prologue:
-Description: How well prepared do you feel your household is to handle a large-scale disaster or emergency? Would you say…
+Description: How well prepared do you feel your household is to handle a large-scale disaster or emergency? Would you say...
 Value Value Label Frequency Percentage
 Weighted
 Percentage

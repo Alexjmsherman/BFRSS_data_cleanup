@@ -558,7 +558,7 @@ Value Value Label Frequency Percentage Percentage
 1 Yes 198,874 40.44 32.42
 2 Yes, but female told only during pregnancy-Go to Section 06.01 3,673 0.75 0.88
 BLOODCHO
-3 No--­-Go to Section 06.01 BLOODCHO 282,760 57.50 65.52
+3 No-Go to Section 06.01 BLOODCHO 282,760 57.50 65.52
 4 Told borderline high or pre-hypertensive-Go to Section 06.01 5,056 1.03 0.89
 BLOODCHO
 7 Don't know/Not Sure-Go to Section 06.01 BLOODCHO 932 0.19 0.19
@@ -593,7 +593,7 @@ Description: Blood cholesterol is a fatty substance found in the blood. Have you
 Weighted
 Value Value Label Frequency Percentage Percentage
 1 Yes 423,926 86.20 78.74
-2 No--­-Go to Section 07.01 CVDINFR4 58,859 11.97 18.96
+2 No-Go to Section 07.01 CVDINFR4 58,859 11.97 18.96
 7 Don't know/Not Sure-Go to Section 07.01 CVDINFR4 8,791 1.79 2.24
 9 Refused-Go to Section 07.01 CVDINFR4 197 0.04 0.05
 How Long since Cholesterol Checked
@@ -681,7 +681,7 @@ Description: (Ever told) you had asthma?
 Weighted
 Value Value Label Frequency Percentage Percentage
 1 Yes 67,174 13.66 14.03
-2 No--­-Go to Section 07.06 CHCSCNCR 423,040 86.02 85.70
+2 No-Go to Section 07.06 CHCSCNCR 423,040 86.02 85.70
 7 Don't know/Not Sure-Go to Section 07.06 CHCSCNCR 1,391 0.28 0.25
 9 Refused-Go to Section 07.06 CHCSCNCR 168 0.03 0.03
 Still Have Asthma
@@ -882,7 +882,7 @@ Employment Status
 Section: 8.9 Demographics Type: Num
 Column: 151 SAS Variable Name: EMPLOY1
 Prologue:
-Description: Are you currently…?
+Description: Are you currently...?
 Weighted
 Value Value Label Frequency Percentage Percentage
 1 Employed for wages 202,169 41.17 47.17
@@ -1310,7 +1310,7 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 Yes-Go to Section 09.05 USENOW3 43,696 57.07 59.73
-2 No--­-Go to Section 09.05 USENOW3 32,612 42.59 39.81
+2 No-Go to Section 09.05 USENOW3 32,612 42.59 39.81
 7 Don't know/Not Sure-Go to Section 09.05 USENOW3 192 0.25 0.26
 9 Refused-Go to Section 09.05 USENOW3 66 0.09 0.20
 BLANK Not asked or Missing 415,207
@@ -1604,7 +1604,7 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 Yes 332,429 72.20 72.02
-2 No--­-Go to Section 12.08 STRENGTH 125,314 27.22 26.05
+2 No-Go to Section 12.08 STRENGTH 125,314 27.22 26.05
 7 Don't know/Not Sure-Go to Section 12.08 STRENGTH 561 0.12 0.13
 9 Refused-Go to Section 12.08 STRENGTH 2,154 0.47 1.80
 BLANK Not asked or Missing 31,315
@@ -2086,7 +2086,7 @@ Adult flu shot/spray past 12 mos
 Section: 15.1 Immunization Type: Num
 Column: 246 SAS Variable Name: FLUSHOT6
 Prologue: Now I will ask you questions about the flu vaccine. There are two ways to get the flu vaccine, one is a shot in the
-arm and the other is a spray, mist, or drop in the nose called FluMist™.
+arm and the other is a spray, mist, or drop in the nose called FluMist.
 Description: During the past 12 months, have you had either a flu shot or a flu vaccine that was sprayed in your nose? (A new
 flu shot came out in 2011 that injects vaccine into the skin with a very small needle. It is called Fluzone Intradermal
 vaccine. This is also considered a flu shot.)
@@ -2094,7 +2094,7 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 Yes 208,387 45.79 37.43
-2 No--­-Go to Section 15.03 TETANUS 242,939 53.38 59.75
+2 No-Go to Section 15.03 TETANUS 242,939 53.38 59.75
 7 Don't know/Not Sure-Go to Section 15.03 TETANUS 959 0.21 0.23
 9 Refused-Go to Section 15.03 TETANUS 2,791 0.61 2.58
 BLANK Not asked or Missing 36,697
@@ -2160,7 +2160,7 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 Yes 132,093 29.16 35.86
-2 No--­-Go to optional module transition 305,106 67.36 59.14
+2 No-Go to optional module transition 305,106 67.36 59.14
 7 Don't know/Not Sure-Go to optional module transition 12,004 2.65 2.18
 9 Refused-Go to optional module transition 3,753 0.83 2.82
 BLANK Not asked or Missing 38,817
@@ -2819,7 +2819,7 @@ Description: During the past 12 months, have you had an episode of asthma or an 
 Weighted
 Value Value Label Frequency Percentage Percentage
 1 Yes 476 50.42 48.05
-2 No--­-Go to Module 07.05 ASRCHKUP 466 49.36 51.77
+2 No-Go to Module 07.05 ASRCHKUP 466 49.36 51.77
 7 Don't know/Not sure-Go to Module 07.05 ASRCHKUP 2 0.21 0.17
 BLANK Not asked or Missing
 Notes: Section 07.04, ASTHMA3, is coded 2, 7, 9, or Missing; or
@@ -3073,7 +3073,7 @@ Weighted
 Percentage
 1 Yes, not stomach related-Go to next module 6,168 7.04 5.13
 2 Yes, stomach problems-Go to next module 4,867 5.56 4.14
-3 No--­-Go to next module 74,807 85.42 88.43
+3 No-Go to next module 74,807 85.42 88.43
 7 Don't know/Not sure-Go to next module 867 0.99 0.70
 9 Refused-Go to next module 862 0.98 1.60
 BLANK Not asked or Missing 404,202
@@ -3301,7 +3301,7 @@ Description: A mammogram is an x-ray of each breast to look for breast cancer. H
 Weighted
 Value Value Label Frequency Percentage Percentage
 1 Yes 24,330 80.59 68.38
-2 No--­-Go to Module 12.03 PROFEXAM 5,309 17.59 29.13
+2 No-Go to Module 12.03 PROFEXAM 5,309 17.59 29.13
 7 Don't know/Not sure-Go to Module 12.03 PROFEXAM 26 0.09 0.05
 9 Refused-Go to Module 12.03 PROFEXAM 523 1.73 2.44
 BLANK Not asked or Missing 461,585
@@ -3385,7 +3385,7 @@ Description: A Pap test is a test for cancer of the cervix. Have you ever had a 
 Weighted
 Value Value Label Frequency Percentage Percentage
 1 Yes 27,809 92.22 89.02
-2 No--­-Go to Module 12.07 HADHYST2 1,670 5.54 8.04
+2 No-Go to Module 12.07 HADHYST2 1,670 5.54 8.04
 7 Don't know/Not sure-Go to Module 12.07 HADHYST2 134 0.44 0.44
 9 Refused-Go to Module 12.07 HADHYST2 543 1.80 2.49
 BLANK Not asked or Missing 461,617
@@ -3453,7 +3453,7 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 Yes 28,767 39.24 35.49
-2 No--­-Go to Module 13.03 HADSIGM3 43,931 59.92 63.71
+2 No-Go to Module 13.03 HADSIGM3 43,931 59.92 63.71
 7 Don't know/Not Sure-Go to Module 13.03 HADSIGM3 544 0.74 0.68
 9 Refused-Go to Module 13.03 HADSIGM3 76 0.10 0.12
 BLANK Not asked or Missing 418,455
@@ -3491,7 +3491,7 @@ cancer or other health problems. Have you ever had either of these exams?
 Weighted
 Value Value Label Frequency Percentage Percentage
 1 Yes 52,502 71.65 69.12
-2 No--­-Go to Next Module 20,326 27.74 30.29
+2 No-Go to Next Module 20,326 27.74 30.29
 7 Don't know/Not Sure-Go to Next Module 365 0.50 0.43
 9 Refused-Go to Next Module 87 0.12 0.16
 BLANK Not asked or Missing 418,493
@@ -3606,7 +3606,7 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 Yes 1,986 50.91 45.61
-2 No--­-Go to Next Module 1,693 43.40 48.76
+2 No-Go to Next Module 1,693 43.40 48.76
 7 Don't know/Not Sure-Go to Next Module 219 5.61 5.56
 9 Refused-Go to Next Module 3 0.08 0.06
 BLANK Not asked or Missing
@@ -3640,7 +3640,7 @@ What was the MAIN reason you had this PSA test?
 Module: 14.6 Prostate Cancer Screening Type: Num
 Column: 406 SAS Variable Name: PCPSARS1
 Prologue:
-Description: What was the MAIN reason you had this PSA test - was it …?
+Description: What was the MAIN reason you had this PSA test - was it ...?
 Weighted
 Value Value Label Frequency Percentage Percentage
 1 Part of a routine exam 1,363 68.66 68.38
@@ -4327,7 +4327,7 @@ Description: Has a doctor, nurse or other health professional EVER said that the
 Weighted
 Value Value Label Frequency Percentage Percentage
 1 Yes 9,125 13.47 12.34
-2 No--­-Go to next module 55,749 82.27 78.41
+2 No-Go to next module 55,749 82.27 78.41
 7 Don't know/Not Sure-Go to next module 630 0.93 1.14
 9 Refused-Go to next module 2,258 3.33 8.11
 BLANK Not asked or Missing 424,011
