@@ -1456,7 +1456,7 @@ center)
 7 An emergency room 142 0.07 0.08
 8 Workplace 30,188 14.92 16.66
 9 Some other kind of place 6,859 3.39 3.34
-10 Received vaccination in Canada/Mexico (Volunteered – Do not read) 79 0.04 0.06
+10 Received vaccination in Canada/Mexico (Volunteered - Do not read) 79 0.04 0.06
 11 A school 1,840 0.91 1.21
 77 Don't know / Not sure-Probe: 700 0.35 0.33
 99 Refused 130 0.06 0.08
@@ -1795,7 +1795,7 @@ What was the MAIN reason you had this PSA test?
 Section: 16.6 Prostate Cancer Screening Type: Num
 Column: 189 SAS Variable Name: PCPSARS1
 Prologue:
-Description: What was the MAIN reason you had this PSA test – was it …?
+Description: What was the MAIN reason you had this PSA test - was it …?
 Value Value Label Frequency Percentage
 Weighted
 Percentage

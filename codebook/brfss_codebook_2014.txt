@@ -824,7 +824,7 @@ Employment Status
 Section: 8.9 Demographics Type: Num
 Column: 151 SAS Variable Name: EMPLOY1
 Prologue:
-Description: Are you currently…?
+Description: Are you currently...?
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -1666,7 +1666,7 @@ What was the MAIN reason you had this PSA test?
 Section: 16.6 Prostate Cancer Screening Type: Num
 Column: 230 SAS Variable Name: PCPSARS1
 Prologue:
-Description: What was the MAIN reason you had this PSA test – was it …?
+Description: What was the MAIN reason you had this PSA test - was it ...?
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -2153,7 +2153,7 @@ Primary Health Insurance Coverage
 Module: 4.2 Health Care Access Type: Num
 Column: 282-283 SAS Variable Name: HLTHCVR1
 Prologue:
-Description: What is the primary source of your health care coverage? Is it…
+Description: What is the primary source of your health care coverage? Is it...
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -2668,7 +2668,7 @@ center)
 7 An emergency room 12 0.05 0.08
 8 Workplace 3,339 14.21 16.04
 9 Some other kind of place 889 3.78 3.72
-10 Received vaccination in Canada/Mexico (Volunteered – Do not read) 7 0.03 0.03
+10 Received vaccination in Canada/Mexico (Volunteered - Do not read) 7 0.03 0.03
 11 A school 129 0.55 0.83
 77 Don't know / Not sure-Probe: 95 0.40 0.49
 99 Refused 26 0.11 0.17
