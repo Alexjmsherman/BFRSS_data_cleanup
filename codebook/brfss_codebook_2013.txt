@@ -3640,7 +3640,7 @@ What was the MAIN reason you had this PSA test?
 Module: 14.6 Prostate Cancer Screening Type: Num
 Column: 406 SAS Variable Name: PCPSARS1
 Prologue:
-Description: What was the MAIN reason you had this PSA test – was it …?
+Description: What was the MAIN reason you had this PSA test - was it …?
 Weighted
 Value Value Label Frequency Percentage Percentage
 1 Part of a routine exam 1,363 68.66 68.38

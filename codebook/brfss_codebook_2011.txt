@@ -1514,18 +1514,18 @@ camping)
 12 Canoeing/rowing in competition 91 0.03 0.02
 13 Carpentry 207 0.06 0.05
 14 Dancing-ballet, ballroom, Latin, hip hop, etc 2,327 0.66 0.76
-15 Elliptical/EFX machine exercise 5,920 1.68 1.74
+15 Elliptical/EFX machine exercise 5,920 1.68 1.7-
 16 Fishing from river bank or boat 323 0.09 0.08
 17 Frisbee 125 0.04 0.07
 18 Gardening (spading, weeding, digging, filling) 24,932 7.06 5.48
 19 Golf (with motorized cart) 4,415 1.25 1.14
 20 Golf (without motorized cart) 2,292 0.65 0.66
 21 Handball 30 0.01 0.01
-22 Hiking – cross-country 2,396 0.68 0.63
+22 Hiking - cross-country 2,396 0.68 0.63
 23 Hockey 314 0.09 0.11
 24 Horseback riding 695 0.20 0.17
-25 Hunting large game – deer, elk 299 0.08 0.07
-26 Hunting small game – quail 182 0.05 0.03
+25 Hunting large game - deer, elk 299 0.08 0.07
+26 Hunting small game - quail 182 0.05 0.03
 27 Inline Skating 22 0.01 0.01
 28 Jogging 3,527 1.00 1.51
 29 Lacrosse 26 0.01 0.01
@@ -1555,7 +1555,7 @@ Percentage
 41 Rugby 36 0.01 0.02
 42 Scuba diving 25 0.01 0.01
 43 Skateboarding 102 0.03 0.07
-44 Skating – ice or roller 198 0.06 0.07
+44 Skating - ice or roller 198 0.06 0.07
 45 Sledding, tobogganing 37 0.01 0.01
 46 Snorkeling 31 0.01 0.01
 47 Snow blowing 90 0.03 0.01
@@ -1664,11 +1664,11 @@ camping)
 19 Golf (with motorized cart) 3,225 0.92 0.89
 20 Golf (without motorized cart) 2,054 0.59 0.56
 21 Handball 39 0.01 0.02
-22 Hiking – cross-country 2,248 0.64 0.66
+22 Hiking - cross-country 2,248 0.64 0.66
 23 Hockey 180 0.05 0.08
 24 Horseback riding 859 0.25 0.19
-25 Hunting large game – deer, elk 361 0.10 0.09
-26 Hunting small game – quail 207 0.06 0.04
+25 Hunting large game - deer, elk 361 0.10 0.09
+26 Hunting small game - quail 207 0.06 0.04
 27 Inline Skating 33 0.01 0.02
 28 Jogging 2,065 0.59 0.94
 29 Lacrosse 18 0.01 0.02
@@ -1698,7 +1698,7 @@ Percentage
 41 Rugby 29 0.01 0.02
 42 Scuba diving 28 0.01 0.01
 43 Skateboarding 91 0.03 0.07
-44 Skating – ice or roller 209 0.06 0.08
+44 Skating - ice or roller 209 0.06 0.08
 45 Sledding, tobogganing 65 0.02 0.01
 46 Snorkeling 31 0.01 0.01
 47 Snow blowing 168 0.05 0.03
@@ -1956,7 +1956,7 @@ center)
 7 An emergency room 161 0.07 0.10
 8 Workplace 32,060 14.88 16.89
 9 Some other kind of place 6,691 3.11 3.05
-10 Received vaccination in Canada/Mexico (Volunteered – Do not read) 89 0.04 0.07
+10 Received vaccination in Canada/Mexico (Volunteered - Do not read) 89 0.04 0.07
 11 A school 2,569 1.19 1.59
 77 Don't know / Not sure-Probe: 651 0.30 0.26
 99 Refused 150 0.07 0.12
@@ -3483,7 +3483,7 @@ What was the MAIN reason you had this PSA test?
 Module: 13.4 Prostate Cancer Screening Type: Num
 Column: 349 SAS Variable Name: PCPSARSN
 Prologue:
-Description: What was the MAIN reason you had this PSA test – was it part of a routine exam, because of a problem, or some
+Description: What was the MAIN reason you had this PSA test - was it part of a routine exam, because of a problem, or some
 other reason?
 Value Value Label Frequency Percentage
 Weighted
@@ -4787,7 +4787,7 @@ Module: 26.8 Anxiety and Depression Type: Num
 Column: 449-450 SAS Variable Name: ADMOVE
 Prologue:
 Description: Over the last 2 weeks, how many days have you moved or spoken so slowly that other people could have noticed?
-Or the opposite – being so fidgety or restless that you were moving around a lot more than usual?
+Or the opposite - being so fidgety or restless that you were moving around a lot more than usual?
 Value Value Label Frequency Percentage
 Weighted
 Percentage
