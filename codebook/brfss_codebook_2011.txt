@@ -589,7 +589,7 @@ BLOODCHO
 4 Told borderline high or pre-hypertensive-Go to Section 05.01
 BLOODCHO
 6,110 1.21 0.98
-7 Don´t know/Not Sure-Go to Section 05.01 BLOODCHO 990 0.20 0.16
+7 Don't know/Not Sure-Go to Section 05.01 BLOODCHO 990 0.20 0.16
 9 Refused-Go to Section 05.01 BLOODCHO 375 0.07 0.07
 BLANK Not asked or Missing 5
 Currently Taking Blood Pressure Medication
@@ -663,7 +663,7 @@ Ever Diagnosed with Heart Attack
 Section: 6.1 Chronic Health Conditions Type: Num
 Column: 89 SAS Variable Name: CVDINFR4
 Prologue: Has a doctor, nurse, or other health professional ever told you that you had any of the following? For each, tell me
-“Yes”, “No”, or you're “Not sure”:
+"Yes”, "No”, or you're "Not sure”:
 Description: (Ever told) you had a heart attack, also called a myocardial infarction?
 Value Value Label Frequency Percentage
 Weighted
@@ -881,7 +881,7 @@ Percentage
 1 Every day 62,027 26.64 31.83
 2 Some days 22,724 9.76 12.98
 3 Not at all-Go to Section 07.04 LASTSMK2 147,864 63.50 55.07
-7 Don´t Know/Not Sure-Go to Section 07.05 USENOW3 79 0.03 0.04
+7 Don't Know/Not Sure-Go to Section 07.05 USENOW3 79 0.03 0.04
 9 Refused-Go to Section 07.05 USENOW3 166 0.07 0.08
 BLANK Not asked or Missing
 Notes: Section 07.01, SMOKE100, is coded 2, 7, 9, or Missing
@@ -936,7 +936,7 @@ Column: 107 SAS Variable Name: USENOW3
 Prologue:
 Description: Do you currently use chewing tobacco, snuff, or snus every day, some days, or not at all? (Snus (Swedish for snuff)
 is a moist smokeless tobacco, usually sold in small pouches that are placed under the lip against the gum.)[Snus
-(rhymes with ´goose´)]
+(rhymes with 'goose')]
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -1123,25 +1123,25 @@ Value Value Label Frequency Percentage
 Weighted
 Percentage
 1 Less than $10,000
-Notes: If “no,“ code 02
+Notes: If "no,"code 02
 26,736 5.29 6.28
 2 Less than $15,000 ($10,000 to less than $15,000)
-Notes: If “no,“ code 03; if “yes,“ ask 01
+Notes: If "no,"code 03; if "yes,"ask 01
 28,602 5.66 5.56
 3 Less than $20,000 ($15,000 to less than $20,000)
-Notes: If “no,“ code 04; if “yes,“ ask 02
+Notes: If "no,"code 04; if "yes,"ask 02
 35,729 7.07 7.63
 4 Less than $25,000 ($20,000 to less than $25,000)
-Notes: If “no,“ ask 05; if “yes,“ ask 03
+Notes: If "no,"ask 05; if "yes,"ask 03
 43,709 8.65 8.56
 5 Less than $35,000 ($25,000 to less than $35,000)
-Notes: If “no,“ ask 06
+Notes: If "no,"ask 06
 51,745 10.24 9.91
 6 Less than $50,000 ($35,000 to less than $50,000)
-Notes: If “no,“ ask 07
+Notes: If "no,"ask 07
 64,474 12.76 11.96
 7 Less than $75,000 ($50,000 to less than $75,000)
-Notes: If “no,“ code 08
+Notes: If "no,"code 08
 67,569 13.37 12.79
 8 $75,000 or more 114,328 22.62 23.56
 77 Don't know/Not sure 36,192 7.16 7.98
@@ -1161,7 +1161,7 @@ Notes: 0 _ _ _ = weight in pounds
 484,429 95.81 96.25
 7777 Don't know/Not sure 7,643 1.51 1.46
 9000 - 999 Weight (kilograms)
-Notes: The initial ´9´ indicates this was a metric value.
+Notes: The initial '9' indicates this was a metric value.
 569 0.11 0.20
 9999 Refused 12,979 2.57 2.09
 BLANK Not asked or Missing 847
@@ -1183,7 +1183,7 @@ Notes: 0 _ / _ _ = feet / inches
 497,909 98.50 97.71
 7777 Don't know/Not sure 3,643 0.72 1.03
 9000 - 999 Height (meters/centimeters)
-Notes: The initial ´9´ indicates this was a metric value.
+Notes: The initial '9' indicates this was a metric value.
 1,530 0.30 0.72
 9999 Refused 2,424 0.48 0.54
 BLANK Not asked or Missing 961
@@ -1373,7 +1373,7 @@ Section: 9.2 Fruits & Vegetables Type: Num
 Column: 156-158 SAS Variable Name: FRUIT1
 Prologue:
 Description: During the past month, not counting juice, how many times per day, week, or month did you eat fruit? Count fresh,
-frozen, or canned fruit.(Read only if necessary: “Your best guess is fine. Include apples, bananas, applesauce,
+frozen, or canned fruit.(Read only if necessary: "Your best guess is fine. Include apples, bananas, applesauce,
 oranges, grape fruit, fruit salad, watermelon, cantaloupe or musk melon, papaya, lychees, star fruit,)
 Value Value Label Frequency Percentage
 Weighted
@@ -1396,7 +1396,7 @@ Column: 159-161 SAS Variable Name: FVBEANS
 Prologue:
 Description: During the past month, how many times per day, week, or month did you eat cooked or canned beans, such as
 refried, baked, black, garbanzo beans, beans in soup, soybeans, edamame, tofu or lentils. Do NOT include long
-green beans.(Read only if necessary: “Include round or oval beans or peas such as navy, pinto, split peas, cow
+green beans.(Read only if necessary: "Include round or oval beans or peas such as navy, pinto, split peas, cow
 peas, garbanzo beans, lentils, soy beans and tofu. Do NOT include long green beans such as string beans, broad or
 winged beans, or pole beans.”)
 Value Value Label Frequency Percentage
@@ -1436,7 +1436,7 @@ Section: 9.5 Fruits & Vegetables Type: Num
 Column: 165-167 SAS Variable Name: FVORANG
 Prologue:
 Description: During the past month, how many times per day, week, or month did you eat orange-colored vegetables such as
-sweet potatoes, pumpkin, winter squash, or carrots? (Read only if needed: “Winter squash have hard, thick skins
+sweet potatoes, pumpkin, winter squash, or carrots? (Read only if needed: "Winter squash have hard, thick skins
 and deep yellow to orange flesh. They include acorn, buttercup, and spaghetti squash.”)
 Value Value Label Frequency Percentage
 Weighted
@@ -1456,7 +1456,7 @@ Prologue:
 Description: Not counting what you just told me about, during the past month, about how many times per day, week, or month did
 you eat OTHER vegetables? Examples of other vegetables include tomatoes, tomato juice or V-8 juice, corn,
 eggplant, peas, lettuce, cabbage, and white potatoes that are not fried such as baked or mashed potatoes.(Read
-only if needed: “Do not count vegetables you have already counted and do not include fried potatoes.”)
+only if needed: "Do not count vegetables you have already counted and do not include fried potatoes.”)
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -1945,7 +1945,7 @@ Description: At what kind of place did you get your last flu shot/vaccine?
 Value Value Label Frequency Percentage
 Weighted
 Percentage
-1 A doctor´s office or health maintenance organization (HMO) 83,519 38.76 38.37
+1 A doctor's office or health maintenance organization (HMO) 83,519 38.76 38.37
 2 A health department 8,706 4.04 3.45
 3 Another type of clinic or health center (Example: a community health
 center)
@@ -1971,7 +1971,7 @@ Pneumonia shot ever
 Section: 14.4 Immunization Type: Num
 Column: 208 SAS Variable Name: PNEUVAC3
 Prologue:
-Description: A pneumonia shot or pneumococcal vaccine is usually given only once or twice in a person´s lifetime and is different
+Description: A pneumonia shot or pneumococcal vaccine is usually given only once or twice in a person's lifetime and is different
 from the flu shot. Have you ever had a pneumonia shot?
 Value Value Label Frequency Percentage
 Weighted
@@ -2131,7 +2131,7 @@ Module: 1.2 Pre-Diabetes Type: Num
 Column: 246 SAS Variable Name: PREDIAB1
 Prologue:
 Description: Have you ever been told by a doctor or other health professional that you have pre-diabetes or borderline diabetes?
-(If “Yes” and respondent is female, ask: “Was this only when you were pregnant?”)
+(If "Yes” and respondent is female, ask: "Was this only when you were pregnant?”)
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -2260,8 +2260,8 @@ Times Checked for Glycosylated Hemoglobin
 Module: 2.6 Diabetes Type: Num
 Column: 258-259 SAS Variable Name: CHKHEMO3
 Prologue:
-Description: A test for “A one C” measures the average level of blood sugar over the past three months. About how many times
-in the past 12 months has a doctor, nurse, or other health professional checked you for “A one C”?
+Description: A test for "A one C” measures the average level of blood sugar over the past three months. About how many times
+in the past 12 months has a doctor, nurse, or other health professional checked you for "A one C”?
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -2269,7 +2269,7 @@ Percentage
 Notes: _ _ Number of times, 76 = 76 or more
 11,654 79.50 79.12
 88 None 1,118 7.63 8.39
-98 Never heard of “A one C” test 658 4.49 4.19
+98 Never heard of "A one C” test 658 4.49 4.19
 77 Don't know/Not sure 1,188 8.10 7.80
 99 Refused 42 0.29 0.50
 BLANK Not asked or Missing
@@ -2565,16 +2565,16 @@ Description: What was your main reason for not doing anything the last time you 
 Value Value Label Frequency Percentage
 Weighted
 Percentage
-1 You didn´t think you were going to have sex/no regular partner 66 4.39 5.34
-2 You just didn´t think about it/don´t care if you get pregnant 76 5.05 6.87
+1 You didn't think you were going to have sex/no regular partner 66 4.39 5.34
+2 You just didn't think about it/don't care if you get pregnant 76 5.05 6.87
 3 You want a pregnancy 225 14.95 14.43
-4 You or your partner don´t want to use birth control 7 0.47 0.31
-5 You or your partner don´t like birth control/side effects 4 0.27 0.12
-6 You couldn´t pay for birth control 13 0.86 1.64
+4 You or your partner don't want to use birth control 7 0.47 0.31
+5 You or your partner don't like birth control/side effects 4 0.27 0.12
+6 You couldn't pay for birth control 13 0.86 1.64
 7 You had a problem getting birth control when you needed it 2 0.13 0.06
 8 Religious reasons 6 0.40 0.30
 9 Lapse in use of a method 1 0.07 0.01
-10 Don´t think you or your partner can get pregnant (infertile or too
+10 Don't think you or your partner can get pregnant (infertile or too
 old)
 139 9.24 8.57
 11 You had tubes tied (sterilization)-Go to next module 304 20.20 16.69
@@ -2605,7 +2605,7 @@ Description: How do you feel about having a child now or sometime in the future?
 Value Value Label Frequency Percentage
 Weighted
 Percentage
-1 You don´t want to have one 1,129 44.89 38.76
+1 You don't want to have one 1,129 44.89 38.76
 2 You do want to have one, less than 12 months from now 234 9.30 7.75
 3 You do want to have one, between 12 months to less than 2 years from
 now
@@ -2833,8 +2833,8 @@ Weighted
 Percentage
 1 Yes 532 2.30 2.96
 2 No 21,175 91.63 89.67
-3 Don´t drive 848 3.67 2.61
-4 Don´t have license 12 0.05 0.06
+3 Don't drive 848 3.67 2.61
+4 Don't have license 12 0.05 0.06
 7 Don't know/Not Sure 27 0.12 0.09
 9 Refused 514 2.22 4.62
 BLANK Not asked or Missing 483,359
@@ -2842,12 +2842,12 @@ BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
 CODEBOOK REPORT, 2011
 Land-Line and Cell-Phone data
 69 of 190 January 24, 2013
-Do you currently volunteer or work in a hospital, medical clinic, doctor´s office, dentist´s office, nursing home or some other
+Do you currently volunteer or work in a hospital, medical clinic, doctor's office, dentist's office, nursing home or some other
 health-care facility?
 Module: 8.1 High Risk/Health Care Worker Type: Num
 Column: 308 SAS Variable Name: WRKHCF1
 Prologue:
-Description: Do you currently volunteer or work in a hospital, medical clinic, doctor´s office, dentist´s office, nursing home or some
+Description: Do you currently volunteer or work in a hospital, medical clinic, doctor's office, dentist's office, nursing home or some
 other health-care facility? This includes part-time and unpaid work in a health care facility as well as professional
 nursing care provided in the home.
 Value Value Label Frequency Percentage
@@ -2897,7 +2897,7 @@ Outpatient rehab after heart attack hosp stay
 Module: 9.1 Cardiovascular Health Type: Num
 Column: 312 SAS Variable Name: HAREHAB1
 Prologue:
-Description: Following your heart attack, did you go to any kind of outpatient rehabilitation? This is sometimes called “rehab.”
+Description: Following your heart attack, did you go to any kind of outpatient rehabilitation? This is sometimes called "rehab.”
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -2912,7 +2912,7 @@ Outpatient rehab after hosp stay for stroke
 Module: 9.2 Cardiovascular Health Type: Num
 Column: 313 SAS Variable Name: STREHAB1
 Prologue:
-Description: Following your stroke did you go to any kind of outpatient rehabilitation? This is sometimes called “rehab.”
+Description: Following your stroke did you go to any kind of outpatient rehabilitation? This is sometimes called "rehab.”
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -3126,7 +3126,7 @@ Module: 10.10 Actions to Control High Blood Pressure Type: Num
 Column: 325 SAS Variable Name: BPHI2MR
 Prologue:
 Description: Were you told on two or more different visits to a doctor or other health professional that you had high blood
-pressure? (If “Yes” and respondent is female, ask: “Was this only when you were pregnant?”)
+pressure? (If "Yes” and respondent is female, ask: "Was this only when you were pregnant?”)
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -3143,7 +3143,7 @@ Heart Attack Symptoms - Jaw/Back/Neck Pain
 Module: 11.1 Heart Attack and Stroke Type: Num
 Column: 326 SAS Variable Name: HASYMP1
 Prologue: Now I would like to ask you about your knowledge of the signs and symptoms of a heart attack and stroke. Which of
-the following do you think is a symptom of a heart attack? For each, tell me “yes”, “no”, or you're “not sure”:
+the following do you think is a symptom of a heart attack? For each, tell me "yes”, "no”, or you're "not sure”:
 Description: (Do you think) pain or discomfort in the jaw, neck, or back (are symptoms of a heart attack)?
 Value Value Label Frequency Percentage
 Weighted
@@ -3229,7 +3229,7 @@ BLANK Not asked or Missing 482,428
 Stroke Symptoms - Confusion/Trouble speaking
 Module: 11.7 Heart Attack and Stroke Type: Num
 Column: 332 SAS Variable Name: STRSYMP1
-Prologue: Which of the following do you think is a symptom of a stroke? For each, tell me “yes”, “no”, or you're “not sure”.
+Prologue: Which of the following do you think is a symptom of a stroke? For each, tell me "yes”, "no”, or you're "not sure”.
 Description: (Do you think) sudden confusion or trouble speaking (are symptoms of a stroke?)
 Value Value Label Frequency Percentage
 Weighted
@@ -3680,7 +3680,7 @@ Column: 359 SAS Variable Name: SMCQUITL
 Prologue:
 Description: A telephone quitline is a free telephone-based service that connects people who smoke cigarettes with someone
 who can help them quit. Are you aware of any telephone quitline services that are available to help [If Core Q7.2 = 1
-or 2, say “you”, otherwise say people”] quit smoking?
+or 2, say "you”, otherwise say people”] quit smoking?
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -3697,7 +3697,7 @@ Are trying to quit smoking for good?
 Module: 15.2 Smoking Cessation Type: Num
 Column: 360 SAS Variable Name: SMCTRYQT
 Prologue:
-Description: You last smoked (If Core Q7.4 = 1): say “less than.” If (Core Q7.4 = 2, 3, or 4) say “more than” [first two words in the
+Description: You last smoked (If Core Q7.4 = 1): say "less than.” If (Core Q7.4 = 2, 3, or 4) say "more than” [first two words in the
 parentheses of Core Q7.4 SMOKLAST response] ago. Is that because you are trying to quit smoking for good?
 Value Value Label Frequency Percentage
 Weighted
@@ -3715,8 +3715,8 @@ coded 1,2,7, or 9; or Section 07.04, LASTSMK2, is coded 5, 6, 7,
 Did you call a telephone quitline to help you quit smoking?
 Module: 15.3 Smoking Cessation Type: Num
 Column: 361 SAS Variable Name: SMCCALQT
-Prologue: Previously, you mentioned you (If Core Q7.3 = 1): say, “tried to quit smoking in the past year.” (If Core Q7.4 = 1-4
-and Q2 = 1): say, “quit smoking in the past year. The next few questions ask about your most recent attempt to quit
+Prologue: Previously, you mentioned you (If Core Q7.3 = 1): say, "tried to quit smoking in the past year.” (If Core Q7.4 = 1-4
+and Q2 = 1): say, "quit smoking in the past year. The next few questions ask about your most recent attempt to quit
 smoking.
 Description: (If Core Q7.4 = 1-4 and Q.2 = 1): When you quit smoking… (If Core Q7.2 = 1 or 2 and Q7.3 = 1): The last time you
 tried to quit smoking… did you call a telephone quitline to help you quit?
@@ -3782,8 +3782,8 @@ Prologue:
 Description: (If Core Q7.4 = 1-4 and Q2 = 1): When you quit smoking… (If Core Q7.2 = 1 or 2 and Q7.3 = 1): The last time you
 tried to quit smoking… did you use any of the following medications: a nicotine patch, nicotine gum, nicotine
 lozenges, nicotine nasal spray, a nicotine inhaler, or pills such as Wellbutrin®, Zyban®, buproprion, Chantix®, or
-varenicline to help you quit? [NOTE: Pronounce “Wellbutrin” as Well-BYOU-TRIN, “Zyban” as Z-EYE BAN,
-“buproprion” as BYO PRO PRI ON, “Chantix” as CHAN TICS, and “varenicline” as VAR EN IH CLEAN]. Please read
+varenicline to help you quit? [NOTE: Pronounce "Wellbutrin” as Well-BYOU-TRIN, "Zyban” as Z-EYE BAN,
+"buproprion” as BYO PRO PRI ON, "Chantix” as CHAN TICS, and "varenicline” as VAR EN IH CLEAN]. Please read
 list slowly.]
 Value Value Label Frequency Percentage
 Weighted
@@ -3882,7 +3882,7 @@ Module: 16.4 Secondhand Smoke I Type: Num
 Column: 373-374 SAS Variable Name: SHSINPUB
 Prologue: The next question asks about tobacco use in indoor public places. Examples of indoor public places are the indoor
 areas of stores, restaurants, bars, casinos, clubs, and sports arenas.
-Description: [If Q8.9 = 1 (Employed) or Q8.9 = 2 (Self-employed); say “Not counting times while you were at work,”] during the
+Description: [If Q8.9 = 1 (Employed) or Q8.9 = 2 (Self-employed); say "Not counting times while you were at work,”] during the
 past 7 days, that is, since last [TODAY'S DAY OF WEEK], on how many days did you breathe the smoke from
 someone else who was smoking in an indoor public place?
 Value Value Label Frequency Percentage
@@ -3979,7 +3979,7 @@ Section 06.05, ASTHNOW, is coded 2, 7, 9, or Missing; or Module
 Urgent Asthma Treatment During Past 12 Months
 Module: 17.4 Adult Asthma History Type: Num
 Column: 383-384 SAS Variable Name: ASDRVIST
-Prologue: If one or more visits to Q3, fill in “Besides those emergency room or urgent care center visits,”]
+Prologue: If one or more visits to Q3, fill in "Besides those emergency room or urgent care center visits,”]
 Description: During the past 12 months, how many times did you see a doctor, nurse or other health professional for urgent
 treatment of worsening asthma symptoms?
 Value Value Label Frequency Percentage
@@ -4043,7 +4043,7 @@ Module: 17.7 Adult Asthma History Type: Num
 Column: 390 SAS Variable Name: ASYMPTOM
 Prologue:
 Description: Symptoms of asthma include cough, wheezing, shortness of breath, chest tightness and phlegm production when
-you don´t have a cold or respiratory infection. During the past 30 days, how often did you have any symptoms of
+you don't have a cold or respiratory infection. During the past 30 days, how often did you have any symptoms of
 asthma?
 Value Value Label Frequency Percentage
 Weighted
@@ -4143,7 +4143,7 @@ Percentage
 2 I can do most things I would like to do 6,597 41.91 40.23
 3 I can do some things I would like to do 3,917 24.89 23.99
 4 I can hardly do anything I would like to do 1,458 9.26 9.92
-7 Don´t know/Not Sure 97 0.62 0.45
+7 Don't know/Not Sure 97 0.62 0.45
 9 Refused 241 1.53 2.09
 BLANK Not asked or Missing
 Notes: Section 06.09, HAVARTH3, is coded 2, 7, 9, or Missing
@@ -4158,7 +4158,7 @@ Weighted
 Percentage
 1 Yes 5,588 35.52 34.76
 2 No 9,799 62.28 62.72
-7 Don´t know/Not Sure 99 0.63 0.48
+7 Don't know/Not Sure 99 0.63 0.48
 9 Refused 248 1.58 2.04
 BLANK Not asked or Missing
 Notes: Section 06.09, HAVARTH3, is coded 2, 7, 9, or Missing
@@ -4179,7 +4179,7 @@ Weighted
 Percentage
 1 Yes 8,857 56.30 54.65
 2 No 6,460 41.06 42.54
-7 Don´t know/Not Sure 171 1.09 0.78
+7 Don't know/Not Sure 171 1.09 0.78
 9 Refused 245 1.56 2.04
 BLANK Not asked or Missing
 Notes: Section 06.09, HAVARTH3, is coded 2, 7, 9, or Missing
@@ -4195,7 +4195,7 @@ Weighted
 Percentage
 1 Yes 2,007 12.76 12.18
 2 No 13,408 85.27 85.32
-7 Don´t know/Not Sure 68 0.43 0.46
+7 Don't know/Not Sure 68 0.43 0.46
 9 Refused 242 1.54 2.04
 BLANK Not asked or Missing
 Notes: Section 06.09, HAVARTH3, is coded 2, 7, 9, or Missing
@@ -4241,7 +4241,7 @@ Have you ever had the HPV vaccination?
 Module: 20.1 Adult Human Papilloma Virus (HPV) Type: Num
 Column: 401 SAS Variable Name: HPVADVC2
 Prologue: A vaccine to prevent the human papilloma virus or HPV infection is available and is called the cervical cancer or
-genital warts vaccine, HPV shot, [Fill: if female “GARDASIL or CERVARIX”, if male “GARDASIL”].
+genital warts vaccine, HPV shot, [Fill: if female "GARDASIL or CERVARIX”, if male "GARDASIL”].
 Description: Have you ever had the HPV vaccination? (Human Papilloma Virus (Human Pap-uh-loh-muh Virus), Gardasil
 (Gar-duh- seel), Cervarix (Serv a rix))
 Value Value Label Frequency Percentage
@@ -4500,7 +4500,7 @@ BLANK Not asked or Missing
 Notes: Module 23.10, GPMNDEVC, is coded 1
 506,467
 Ever serve in a combat or war zone?
-Module: 24.1 Veteran´s Health Type: Num
+Module: 24.1 Veteran's Health Type: Num
 Column: 423 SAS Variable Name: VHCOMBAT
 Prologue:
 Description: Did you ever serve in a combat or war zone?
@@ -4519,7 +4519,7 @@ CODEBOOK REPORT, 2011
 Land-Line and Cell-Phone data
 109 of 190 January 24, 2013
 Doctor diagnosed depression, anxiety, or post traumatic stress disorder (PTSD)?
-Module: 24.2 Veteran´s Health Type: Num
+Module: 24.2 Veteran's Health Type: Num
 Column: 424 SAS Variable Name: VHDRPTSD
 Prologue:
 Description: Has a doctor or other health professional ever told you that you have depression, anxiety, or post traumatic stress
@@ -4535,7 +4535,7 @@ BLANK Not asked or Missing
 Notes: Section 08.05, VETERAN3, is coded 2, 7, 9, or missing
 504,300
 Doctor diagnosed traumatic brain injury (TBI)?
-Module: 24.3 Veteran´s Health Type: Num
+Module: 24.3 Veteran's Health Type: Num
 Column: 425 SAS Variable Name: VHDRTBI
 Prologue: A traumatic brain injury may result from a violent blow to the head or when an object pierces the skull and enters the
 brain tissue.
@@ -4555,7 +4555,7 @@ CODEBOOK REPORT, 2011
 Land-Line and Cell-Phone data
 110 of 190 January 24, 2013
 Receive psychological or psychiatric counseling or treatment past 12 months?
-Module: 24.4 Veteran´s Health Type: Num
+Module: 24.4 Veteran's Health Type: Num
 Column: 426 SAS Variable Name: VHCOUNSL
 Prologue:
 Description: In the past 12 months, did you receive any psychological or psychiatric counseling or treatment?
@@ -4572,7 +4572,7 @@ BLANK Not asked or Missing
 Notes: Section 08.05, VETERAN3, is coded 2, 7, 9, or missing
 504,301
 Thought of taking your own life in the past 12 months?
-Module: 24.5 Veteran´s Health Type: Num
+Module: 24.5 Veteran's Health Type: Num
 Column: 427 SAS Variable Name: VHTAKLIF
 Prologue: The next few questions are a sensitive topic and some people may feel uncomfortable with these questions. At the
 end of this section, I will give you a phone number for an organization that can provide information and referral for
@@ -4593,7 +4593,7 @@ CODEBOOK REPORT, 2011
 Land-Line and Cell-Phone data
 111 of 190 January 24, 2013
 Attempt to commit suicide in past 12 months?
-Module: 24.6 Veteran´s Health Type: Num
+Module: 24.6 Veteran's Health Type: Num
 Column: 428 SAS Variable Name: VHSUICID
 Prologue:
 Description: During the past 12 months, did you attempt to commit suicide? Would you say--- (As I mentioned, I would give you
@@ -4898,8 +4898,8 @@ often or is getting worse?
 Module: 27.4 Cognitive Impairment Type: Num
 Column: 457 SAS Variable Name: CIHOWOFT
 Prologue:
-Description: During the past 12 months, how often [If Q1 = 1 (Yes): insert “have you” otherwise, insert “has this person”] given up
-household activities or chores [If Q1 = 1 (Yes): insert “you” otherwise, insert “they”] used to do, because of confusion
+Description: During the past 12 months, how often [If Q1 = 1 (Yes): insert "have you” otherwise, insert "has this person”] given up
+household activities or chores [If Q1 = 1 (Yes): insert "you” otherwise, insert "they”] used to do, because of confusion
 or memory loss that is happening more often or is getting worse?
 Value Value Label Frequency Percentage
 Weighted
@@ -4919,8 +4919,8 @@ As a result of person's confusion or memory loss, in which areas do you ” need t
 Module: 27.5 Cognitive Impairment Type: Num
 Column: 458 SAS Variable Name: CIASSIST
 Prologue:
-Description: As a result of [If Q1 = 1 (Yes): insert “your” otherwise, insert “this person's”] confusion or memory loss, in which of
-the following four areas [If Q1 = 1 (Yes): insert “do you” otherwise, insert “does this person”] need the MOST
+Description: As a result of [If Q1 = 1 (Yes): insert "your” otherwise, insert "this person's”] confusion or memory loss, in which of
+the following four areas [If Q1 = 1 (Yes): insert "do you” otherwise, insert "does this person”] need the MOST
 assistance?
 Value Value Label Frequency Percentage
 Weighted
@@ -4945,8 +4945,8 @@ How often has confusion or memory loss interfered with ability to work, voluntee
 Module: 27.6 Cognitive Impairment Type: Num
 Column: 459 SAS Variable Name: CIINTFER
 Prologue:
-Description: During the past 12 months, how often has confusion or memory loss interfered with [If Q1 = 1 (Yes): insert “your”
-otherwise, insert “this person's”] ability to work, volunteer, or engage in social activities?
+Description: During the past 12 months, how often has confusion or memory loss interfered with [If Q1 = 1 (Yes): insert "your”
+otherwise, insert "this person's”] ability to work, volunteer, or engage in social activities?
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -4965,8 +4965,8 @@ How often has a family member or friend provided any care or assistance because 
 Module: 27.7 Cognitive Impairment Type: Num
 Column: 460 SAS Variable Name: CIFAMCAR
 Prologue:
-Description: During the past 30 days, how often [If Q1 = 1 (Yes): insert “has” otherwise, insert “have you,”] a family member or
-friend provided any care or assistance for [If Q1 = 1 (Yes): “you” otherwise, insert “this person”] because of confusion
+Description: During the past 30 days, how often [If Q1 = 1 (Yes): insert "has” otherwise, insert "have you,”] a family member or
+friend provided any care or assistance for [If Q1 = 1 (Yes): "you” otherwise, insert "this person”] because of confusion
 or memory loss?
 Value Value Label Frequency Percentage
 Weighted
@@ -4990,8 +4990,8 @@ Discussed with a health care professional, increases in confusion or memory loss
 Module: 27.8 Cognitive Impairment Type: Num
 Column: 461 SAS Variable Name: CIHCPROF
 Prologue:
-Description: Has anyone discussed with a health care professional, increases in [If Q1 = 1 (Yes): insert “your” otherwise, insert
-“this person's”] confusion or memory loss?
+Description: Has anyone discussed with a health care professional, increases in [If Q1 = 1 (Yes): insert "your” otherwise, insert
+"this person's”] confusion or memory loss?
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -5007,7 +5007,7 @@ Received treatment such as therapy or medications for confusion or memory loss?
 Module: 27.9 Cognitive Impairment Type: Num
 Column: 462 SAS Variable Name: CIMEDS
 Prologue:
-Description: Have [If Q1 = 1 (Yes): insert “you” otherwise, insert “this person”] received treatment such as therapy or medications
+Description: Have [If Q1 = 1 (Yes): insert "you” otherwise, insert "this person”] received treatment such as therapy or medications
 for confusion or memory loss?
 Value Value Label Frequency Percentage
 Weighted
@@ -5028,13 +5028,13 @@ Has a health care professional ever said it was Alzheimer's disease or some othe
 Module: 27.10 Cognitive Impairment Type: Num
 Column: 463 SAS Variable Name: CIDIAGAZ
 Prologue:
-Description: Has a health care professional ever said that [If Q1 = 1 (Yes): insert “you have” otherwise, insert “this person has”]
+Description: Has a health care professional ever said that [If Q1 = 1 (Yes): insert "you have” otherwise, insert "this person has”]
 Alzheimer's disease or some other form of dementia?
 Value Value Label Frequency Percentage
 Weighted
 Percentage
-1 Yes, Alzheimer´s Disease 174 9.59 7.86
-2 Yes, some other form of dementia but not Alzheimer´s disease 290 15.98 15.29
+1 Yes, Alzheimer's Disease 174 9.59 7.86
+2 Yes, some other form of dementia but not Alzheimer's disease 290 15.98 15.29
 3 No diagnosis has been given 1,306 71.96 75.01
 7 Don't know/Not sure 41 2.26 1.71
 9 Refused 4 0.22 0.13
@@ -5382,7 +5382,7 @@ Birth date of child
 Module: 32.1 Random Child Selection Type: Char
 Column: 488-493 SAS Variable Name: RCSBIRTH
 Prologue:
-Description: What is the birth month and year of the “Xth” child?
+Description: What is the birth month and year of the "Xth” child?
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -5572,7 +5572,7 @@ Description: At what kind of place did [he/she] get [his/her] last seasonal flu 
 Value Value Label Frequency Percentage
 Weighted
 Percentage
-1 A doctor´s office or health maintenance organization (HMO) 2,273 69.43 72.04
+1 A doctor's office or health maintenance organization (HMO) 2,273 69.43 72.04
 2 A health department 121 3.70 2.78
 3 Another type of clinic or health center (Example: a community health
 center)
@@ -6663,7 +6663,7 @@ Notes: HAVARTH3 = 1
 2 Not diagnosed with arthritis
 Notes: HAVARTH3 = 2
 333,602 66.44 75.22
-BLANK Don´t know/Not Sure/Refused/Missing
+BLANK Don't know/Not Sure/Refused/Missing
 Notes: HAVARTH3 = 7 or 9 or Missing
 4,382
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM

@@ -276,7 +276,7 @@ Private Residence?
 Section: 0.20 Record Identification Type: Num
 Column: 63 SAS Variable Name: PVTRESD1
 Prologue: Variable only on the land line survey
-Description: Is this a private residence? [READ ONLY IF NECESSARY: “By private residence, we mean someplace like a
+Description: Is this a private residence? [READ ONLY IF NECESSARY: "By private residence, we mean someplace like a
 house or apartment.”]
 Weighted
 Value Value Label Frequency Percentage Percentage
@@ -328,7 +328,7 @@ Section: 0.23 Record Identification Type: Num
 Column: 66 SAS Variable Name: CELLFON3
 Prologue: Variable only on the land line survey
 Description: Is this a cellular telephone? (Telephone service over the internet counts as landline service (includes Vonage,
-Magic Jack and other home-based phone services).)[Read only if necessary: “By cellular (or cell) telephone we
+Magic Jack and other home-based phone services).)[Read only if necessary: "By cellular (or cell) telephone we
 mean a telephone that is mobile and usable outside of your neighborhood.”]
 Weighted
 Value Value Label Frequency Percentage Percentage
@@ -561,7 +561,7 @@ BLOODCHO
 3 No--­-Go to Section 06.01 BLOODCHO 282,760 57.50 65.52
 4 Told borderline high or pre-hypertensive-Go to Section 06.01 5,056 1.03 0.89
 BLOODCHO
-7 Don´t know/Not Sure-Go to Section 06.01 BLOODCHO 932 0.19 0.19
+7 Don't know/Not Sure-Go to Section 06.01 BLOODCHO 932 0.19 0.19
 9 Refused-Go to Section 06.01 BLOODCHO 471 0.10 0.10
 BLANK Not asked or Missing 7
 Currently Taking Blood Pressure Medication
@@ -635,7 +635,7 @@ Ever Diagnosed with Heart Attack
 Section: 7.1 Chronic Health Conditions Type: Num
 Column: 98 SAS Variable Name: CVDINFR4
 Prologue: Has a doctor, nurse, or other health professional ever told you that you had any of the following? For each, tell me
-“Yes”, “No”, or you're “Not sure”:
+"Yes”, "No”, or you're "Not sure”:
 Description: (Ever told) you had a heart attack, also called a myocardial infarction?
 Weighted
 Value Value Label Frequency Percentage Percentage
@@ -951,7 +951,7 @@ Notes: 0 _ _ _ = weight in pounds
 
 9000 - 9998 Weight (kilograms) 918 0.19 0.34
 
-Notes: The initial ´9´ indicates this was a metric value. 
+Notes: The initial '9' indicates this was a metric value. 
 
 9999 Refused 12,760 2.60 2.29
 
@@ -980,7 +980,7 @@ Notes: 0 _ / _ _ = feet / inches
 
 9000 - 9998 Height (meters/centimeters) 1,876 0.38 0.82
 
-Notes: The initial ´9´ indicates this was a metric value. 
+Notes: The initial '9' indicates this was a metric value. 
 
 9999 Refused 2,872 0.59 0.85
 
@@ -1290,7 +1290,7 @@ Value Value Label Frequency Percentage Percentage
 3 Not at all- ---Go to Section 09.04 LASTSMK2 
  138,218 64.23 57.57
 
-7 Don´t Know/Not Sure- ---Go to Section 09.05 USENOW3 
+7 Don't Know/Not Sure- ---Go to Section 09.05 USENOW3 
  101 0.05 0.05
 
 9 Refused- ---Go to Section 09.05 USENOW3 
@@ -1350,7 +1350,7 @@ Column: 192 SAS Variable Name: USENOW3
 Prologue:
 Description: Do you currently use chewing tobacco, snuff, or snus every day, some days, or not at all? (Snus (Swedish for snuff)
 is a moist smokeless tobacco, usually sold in small pouches that are placed under the lip against the gum.)[Snus
-(rhymes with ´goose´)]
+(rhymes with 'goose')]
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -1475,7 +1475,7 @@ Section: 11.2 Fruits & Vegetables Type: Num
 Column: 205-207 SAS Variable Name: FRUIT1
 Prologue:
 Description: During the past month, not counting juice, how many times per day, week, or month did you eat fruit? Count fresh,
-frozen, or canned fruit.(Read only if necessary: “Your best guess is fine. Include apples, bananas, applesauce,
+frozen, or canned fruit.(Read only if necessary: "Your best guess is fine. Include apples, bananas, applesauce,
 oranges, grape fruit, fruit salad, watermelon, cantaloupe or musk melon, papaya, lychees, star fruit,)
 Weighted
 Value Value Label Frequency Percentage Percentage
@@ -1500,7 +1500,7 @@ Column: 208-210 SAS Variable Name: FVBEANS
 Prologue:
 Description: During the past month, how many times per day, week, or month did you eat cooked or canned beans, such as
 refried, baked, black, garbanzo beans, beans in soup, soybeans, edamame, tofu or lentils. Do NOT include long
-green beans.(Read only if necessary: “Include round or oval beans or peas such as navy, pinto, split peas, cow
+green beans.(Read only if necessary: "Include round or oval beans or peas such as navy, pinto, split peas, cow
 peas, garbanzo beans, lentils, soy beans and tofu. Do NOT include long green beans such as string beans, broad or
 winged beans, or pole beans.”)
 Weighted
@@ -1549,7 +1549,7 @@ Section: 11.5 Fruits & Vegetables Type: Num
 Column: 214-216 SAS Variable Name: FVORANG
 Prologue:
 Description: During the past month, how many times per day, week, or month did you eat orange-colored vegetables such as
-sweet potatoes, pumpkin, winter squash, or carrots? (Read only if needed: “Winter squash have hard, thick skins
+sweet potatoes, pumpkin, winter squash, or carrots? (Read only if needed: "Winter squash have hard, thick skins
 and deep yellow to orange flesh. They include acorn, buttercup, and spaghetti squash.”)
 Weighted
 Value Value Label Frequency Percentage Percentage
@@ -1568,7 +1568,7 @@ Prologue:
 Description: Not counting what you just told me about, during the past month, about how many times per day, week, or month did
 you eat OTHER vegetables? Examples of other vegetables include tomatoes, tomato juice or V-8 juice, corn,
 eggplant, peas, lettuce, cabbage, and white potatoes that are not fried such as baked or mashed potatoes.(Read
-only if needed: “Do not count vegetables you have already counted and do not include fried potatoes.”)
+only if needed: "Do not count vegetables you have already counted and do not include fried potatoes.”)
 Weighted
 Value Value Label Frequency Percentage Percentage
 101 - 199 Times per day 153,138 33.10 30.26
@@ -2124,7 +2124,7 @@ Received Tetanus Shot Since 2005?
 Section: 15.3 Immunization Type: Num
 Column: 253 SAS Variable Name: TETANUS
 Prologue:
-Description: Since 2005, have you had a tetanus shot? (If yes, ask: “Was this Tdap, the tetanus shot that also has pertussis or
+Description: Since 2005, have you had a tetanus shot? (If yes, ask: "Was this Tdap, the tetanus shot that also has pertussis or
 whooping cough vaccine?”)
 Value Value Label Frequency Percentage
 Weighted
@@ -2140,7 +2140,7 @@ Pneumonia shot ever
 Section: 15.4 Immunization Type: Num
 Column: 254 SAS Variable Name: PNEUVAC3
 Prologue:
-Description: A pneumonia shot or pneumococcal vaccine is usually given only once or twice in a person´s lifetime and is different
+Description: A pneumonia shot or pneumococcal vaccine is usually given only once or twice in a person's lifetime and is different
 from the flu shot. Have you ever had a pneumonia shot?
 Value Value Label Frequency Percentage
 Weighted
@@ -2248,7 +2248,7 @@ Module: 1.2 Pre-Diabetes Type: Num
 Column: 271 SAS Variable Name: PREDIAB1
 Prologue:
 Description: Have you ever been told by a doctor or other health professional that you have pre-diabetes or borderline diabetes?
-(If “Yes” and respondent is female, ask: “Was this only when you were pregnant?”)
+(If "Yes” and respondent is female, ask: "Was this only when you were pregnant?”)
 Weighted
 Value Value Label Frequency Percentage Percentage
 1 Yes 22,432 9.53 8.03
@@ -2374,8 +2374,8 @@ Times Checked for Glycosylated Hemoglobin
 Module: 2.6 Diabetes Type: Num
 Column: 283-284 SAS Variable Name: CHKHEMO3
 Prologue:
-Description: A test for “A one C” measures the average level of blood sugar over the past three months. About how many times
-in the past 12 months has a doctor, nurse, or other health professional checked you for “A one C”?
+Description: A test for "A one C” measures the average level of blood sugar over the past three months. About how many times
+in the past 12 months has a doctor, nurse, or other health professional checked you for "A one C”?
 Weighted
 Value Value Label Frequency Percentage Percentage
 1 - 76 Number of times [76=76 or more] 28,020 79.89 78.87
@@ -2852,7 +2852,7 @@ Section 07.05, ASTHNOW, is coded 2, 7, 9, or Missing; or Module
 Urgent Asthma Treatment During Past 12 Months
 Module: 7.4 Adult Asthma History Type: Num
 Column: 362-363 SAS Variable Name: ASDRVIST
-Prologue: If one or more visits to Q3, fill in “Besides those emergency room or urgent care center visits,”]
+Prologue: If one or more visits to Q3, fill in "Besides those emergency room or urgent care center visits,”]
 Description: During the past 12 months, how many times did you see a doctor, nurse or other health professional for urgent
 treatment of worsening asthma symptoms?
 Weighted
@@ -2924,7 +2924,7 @@ Module: 7.7 Adult Asthma History Type: Num
 Column: 369 SAS Variable Name: ASYMPTOM
 Prologue:
 Description: Symptoms of asthma include cough, wheezing, shortness of breath, chest tightness and phlegm production when
-you don´t have a cold or respiratory infection. During the past 30 days, how often did you have any symptoms of
+you don't have a cold or respiratory infection. During the past 30 days, how often did you have any symptoms of
 asthma?
 Weighted
 Value Value Label Frequency Percentage Percentage
@@ -3015,7 +3015,7 @@ Outpatient rehab after heart attack hosp stay
 Module: 8.1 Cardiovascular Health Type: Num
 Column: 373 SAS Variable Name: HAREHAB1
 Prologue:
-Description: Following your heart attack, did you go to any kind of outpatient rehabilitation? This is sometimes called “rehab.”
+Description: Following your heart attack, did you go to any kind of outpatient rehabilitation? This is sometimes called "rehab.”
 Weighted
 Value Value Label Frequency Percentage Percentage
 1 Yes 2,891 33.99 31.90
@@ -3028,7 +3028,7 @@ Outpatient rehab after hosp stay for stroke
 Module: 8.2 Cardiovascular Health Type: Num
 Column: 374 SAS Variable Name: STREHAB1
 Prologue:
-Description: Following your stroke did you go to any kind of outpatient rehabilitation? This is sometimes called “rehab.”
+Description: Following your stroke did you go to any kind of outpatient rehabilitation? This is sometimes called "rehab.”
 Weighted
 Value Value Label Frequency Percentage Percentage
 1 Yes 1,904 30.92 30.06
@@ -3137,7 +3137,7 @@ Value Value Label Frequency Percentage Percentage
 2 I can do most things I would like to do 8,733 40.07 39.53
 3 I can do some things I would like to do 5,570 25.56 24.48
 4 I can hardly do anything I would like to do 2,214 10.16 10.31
-7 Don´t know/Not Sure 114 0.52 0.70
+7 Don't know/Not Sure 114 0.52 0.70
 9 Refused 330 1.51 2.38
 BLANK Not asked or Missing 469,977
 Notes: Section 07.09, HAVARTH3, is coded 2, 7, 9, or Missing
@@ -3150,7 +3150,7 @@ Weighted
 Value Value Label Frequency Percentage Percentage
 1 Yes 7,581 34.79 34.18
 2 No 13,778 63.23 63.00
-7 Don´t know/Not Sure 116 0.53 0.52
+7 Don't know/Not Sure 116 0.53 0.52
 9 Refused 315 1.45 2.31
 BLANK Not asked or Missing 469,983
 Notes: Section 07.09, HAVARTH3, is coded 2, 7, 9, or Missing
@@ -3172,7 +3172,7 @@ Weighted
 Value Value Label Frequency Percentage Percentage
 1 Yes 11,862 54.44 53.37
 2 No 9,378 43.04 43.33
-7 Don´t know/Not Sure 222 1.02 0.92
+7 Don't know/Not Sure 222 1.02 0.92
 9 Refused 326 1.50 2.38
 BLANK Not asked or Missing 469,985
 Notes: Section 07.09, HAVARTH3, is coded 2, 7, 9, or Missing
@@ -3187,7 +3187,7 @@ Weighted
 Percentage
 1 Yes 2,467 11.33 10.28
 2 No 18,945 87.00 87.13
-7 Don´t know/Not Sure 58 0.27 0.25
+7 Don't know/Not Sure 58 0.27 0.25
 9 Refused 307 1.41 2.35
 BLANK Not asked or Missing 469,996
 Notes: Section 07.09, HAVARTH3, is coded 2, 7, 9, or Missing
@@ -3205,7 +3205,7 @@ Prologue:
 Description: At what kind of place did you get your last flu shot/vaccine?
 Weighted
 Value Value Label Frequency Percentage Percentage
-1 A doctor´s office or health maintenance organization (HMO) 9,535 41.60 41.75
+1 A doctor's office or health maintenance organization (HMO) 9,535 41.60 41.75
 
 2 A health department 495 2.16 2.20
 
@@ -3242,7 +3242,7 @@ Have you ever had the HPV vaccination?
 Module: 11.1 Adult Human Papilloma Virus (HPV) Type: Num
 Column: 386 SAS Variable Name: HPVADVC2
 Prologue: A vaccine to prevent the human papilloma virus or HPV infection is available and is called the cervical cancer or
-genital warts vaccine, HPV shot, [Fill: if female “GARDASIL or CERVARIX”, if male “GARDASIL”].
+genital warts vaccine, HPV shot, [Fill: if female "GARDASIL or CERVARIX”, if male "GARDASIL”].
 Description: Have you ever had the HPV vaccination? (Human Papilloma Virus (Human Pap-uh-loh-muh Virus), Gardasil
 (Gar-duh- seel), Cervarix (Serv a rix))
 Weighted
@@ -4001,7 +4001,7 @@ Land-Line and Cell-Phone data
 Mental health treatment can help people lead normal life
 Module: 17.9 Mental Illness & Stigma Type: Num
 Column: 427 SAS Variable Name: MISTRHLP
-Prologue: These next questions ask about peoples´ attitudes toward mental illness and its treatment.
+Prologue: These next questions ask about peoples' attitudes toward mental illness and its treatment.
 Description: Treatment can help people with mental illness lead normal lives. Do you agree slightly or strongly, or disagree
 slightly or strongly?
 Weighted
@@ -4222,7 +4222,7 @@ SAS Variable Name:
 Char
 RCSBIRTH
 Prologue:
-Description: What is the birth month and year of the “Xth” child?
+Description: What is the birth month and year of the "Xth” child?
 Value Value Label Frequency Percentage
 Weighted
 Percentage
@@ -5395,7 +5395,7 @@ Notes: HAVARTH3 = 1
 2 Not diagnosed with arthritis
 Notes: HAVARTH3 = 2
 323,602 66.20 75.00
-BLANK Don´t know/Not Sure/Refused/Missing
+BLANK Don't know/Not Sure/Refused/Missing
 Notes: HAVARTH3 = 7 or 9 or Missing
 2,979
 111 of 143 October 24, 2014 
@@ -5528,7 +5528,7 @@ Weighted
 Value Value Label Frequency Percentage Percentage
 1 Hispanic, Latino/a, or Spanish origin 37,054 7.53 16.18
 2 Not of Hispanic, Latino/a, or Spanish origin 449,300 91.36 82.38
-9 Don´t Know, Refused or Missing 5,419 1.10 1.45
+9 Don't Know, Refused or Missing 5,419 1.10 1.45
 113 of 143 October 24, 2014 
 BEHAVIORAL RISK FACTOR SURVEILLANCE SYSTEM
 
@@ -6476,7 +6476,7 @@ Weighted
 Value Value Label Frequency Percentage Percentage
 1 Consumed fruit one or more times per day 286,488 58.26 55.13
 2 Consumed fruit less than one time per day 164,003 33.35 34.77
-9 Don´t know, refused or missing values 41,282 8.39 10.10
+9 Don't know, refused or missing values 41,282 8.39 10.10
 Consume Vegetables 1 or more times per day
 CalculatedVaria 11.20 Calculated Variables Type: Num
 bles:
@@ -6487,7 +6487,7 @@ Weighted
 Value Value Label Frequency Percentage Percentage
 1 Consumed vegetables one or more times per day 349,868 71.14 68.58
 2 Consumed vegetables less than one time per day 92,422 18.79 19.86
-9 Don´t know, refused or missing values 49,483 10.06 11.56
+9 Don't know, refused or missing values 49,483 10.06 11.56
 Reported consuming Fruit >16 per day
 CalculatedVaria 11.15 Calculated Variables Type: Num
 bles:
@@ -6557,7 +6557,7 @@ Weighted
 Value Value Label Frequency Percentage Percentage
 1 Consumed fruit one or more times per day 286,488 58.26 55.13
 2 Consumed fruit less than one time per day 164,003 33.35 34.77
-9 Don´t know, refused or missing values 41,282 8.39 10.10
+9 Don't know, refused or missing values 41,282 8.39 10.10
 Consume Vegetables 1 or more times per day
 CalculatedVaria 11.20 Calculated Variables Type: Num
 bles:
@@ -6568,7 +6568,7 @@ Weighted
 Value Value Label Frequency Percentage Percentage
 1 Consumed vegetables one or more times per day 349,868 71.14 68.58
 2 Consumed vegetables less than one time per day 92,422 18.79 19.86
-9 Don´t know, refused or missing values 49,483 10.06 11.56
+9 Don't know, refused or missing values 49,483 10.06 11.56
 Leisure Time Physical Activity Calculated Variable
 CalculatedVaria 12.1 Calculated Variables Type: Num
 bles:
@@ -7020,9 +7020,9 @@ Value Value Label Frequency Percentage Percentage
 
 3 Not told they have arthritis 323,602 66.20 75.00
 
-9 Don´t know, refused or missing usual activities limited 11,785 2.41 2.12
+9 Don't know, refused or missing usual activities limited 11,785 2.41 2.12
 
-BLANK Don´t know, refused or missing arthritis or not asked 2,979 
+BLANK Don't know, refused or missing arthritis or not asked 2,979 
 
 Limited work activities
 CalculatedVaria 13.2 Calculated Variables Type: Num
@@ -7038,9 +7038,9 @@ Value Value Label Frequency Percentage Percentage
 
 3 Not told they have arthritis 323,602 66.20 75.00
 
-9 Don´t know, refused or missing work limited 14,654 3.00 2.52
+9 Don't know, refused or missing work limited 14,654 3.00 2.52
 
-BLANK Don´t know, refused or missing arthritis or not asked 2,979 
+BLANK Don't know, refused or missing arthritis or not asked 2,979 
 
 Limited social activities
 CalculatedVaria 13.3 Calculated Variables Type: Num
@@ -7062,10 +7062,10 @@ Value Value Label Frequency Percentage Percentage
 4 
  Not told they have arthritis 323,602 66.20 75.00
 
-9 Don´t know, refused or missing social activities limited 11,969 2.45
+9 Don't know, refused or missing social activities limited 11,969 2.45
  2.17
 
-BLANK Don´t know, refused or missing arthritis or not asked 2,979 
+BLANK Don't know, refused or missing arthritis or not asked 2,979 
 
 140 of 143 October 24, 2014 
 
