@@ -3593,7 +3593,7 @@ is coded 2
 487,872
 Ever Had PSA Test
 Module:	14.4 Prostate Cancer Screening Type: Num
-Column:	404 SAS Variable Name: PSATEST1
+Column: 404 SAS Variable Name: PSATEST1
 Prologue:
 Description: Have you EVER HAD a PSA test?
 Value Value Label Frequency Percentage
