@@ -3592,14 +3592,8 @@ Notes: Section 08.01, AGE, is less than 40; or Section 08.21, SEX,
 is coded 2
 487,872
 Ever Had PSA Test
-Module:
-Column:
-14.4
-404
-Prostate Cancer Screening Type:
-SAS Variable Name:
-Num
-PSATEST1
+Module:	14.4 Prostate Cancer Screening Type: Num
+Column:	404 SAS Variable Name: PSATEST1
 Prologue:
 Description: Have you EVER HAD a PSA test?
 Value Value Label Frequency Percentage

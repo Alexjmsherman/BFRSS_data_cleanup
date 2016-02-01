@@ -17,7 +17,8 @@ def main():
         codebook_data = get_codebook_data(codebook_file=codebook_file)
         extract_key_values_from_codebook(codebook_data=codebook_data,
                                          data_dict=data_dict)
-                                         
+        
+        data_dict_values = {}                                 
         # uncomment for new datasets, otherwise use created pickle
         #data_dict_values = \ 
         #   read_brfss_ascii_into_dict(data_file=data_file,data_dict=data_dict)
@@ -39,8 +40,7 @@ def get_codebook_and_data_dict_files():
     github_account = r'https://raw.githubusercontent.com/Alexjmsherman/OpenData/'
     codebook_path = r'master/codebook/brfss_codebook_'
     data_dict_path = r'master/data_dictionary/brfss_data_dictionary_'
-    years = ['2011', '2012', '2014'] ###################################################################################################, '2012', '2013', '2014']
-    #C:\Users\alsherman\Desktop\Data\BRFSS\brfss_2012
+    years = [ '2013'] #, '2011', '2012', '2014']
     for year in years:
         codebook_file = github_account + codebook_path + year + '.txt'
         data_dict_file = github_account + data_dict_path + year + '.txt'
@@ -57,6 +57,7 @@ def get_codebook_and_data_dict_files():
         
         yield codebook_file, data_dict_file, csv_name_dict, data_file, pickle_path
         
+
 def initialize_data_dict(data_dict_file):
     """ create a dictionary with the fields from the provided data dictionary 
 
@@ -122,6 +123,8 @@ def extract_key_values_from_codebook(codebook_data, data_dict):
     for row in codebook_data:
         current_row = row.strip()
         
+        if current_row == '':
+            continue
         # identify when to start adding key value pairs to the data_dict
         if 'Value Value Label' in current_row: 
             next_row_has_key_val_data = True
@@ -195,7 +198,7 @@ def extract_key_values_from_codebook(codebook_data, data_dict):
                 previous_row = current_row
                 continue
             if 'Go to' in val:
-                val = val.split('Go to')[0]
+                val = val.split('-Go to')[0]
                 
             val = val.decode('utf-8', 'ignore')
             
@@ -234,6 +237,8 @@ def get_field_name_and_ascii_location(current_row):
     """ get field names and field character locations in the ascii data file """
     # ascii character location (e.g. 1 - 10) 
     # located inbetween 'Column: ' and 'SAS Variable Name'
+    if '403 SAS Variable Name' in current_row:
+        print current_row    
     ascii_character_location = current_row.split('Column: ')[1]
     ascii_character_location.split(' SAS Variable Name')[0].strip()
     # current field name is call the SAS Variable name in the raw data
@@ -449,7 +454,7 @@ def determine_selected_fields_in_df(df):
     return fields_in_df
     
 
-if __name__ == "__main__": main():
+if __name__ == "__main__": main()
     
     
 """
