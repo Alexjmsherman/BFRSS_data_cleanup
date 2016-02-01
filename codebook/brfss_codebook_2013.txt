@@ -4207,14 +4207,8 @@ am not eligible to vote)
 BLANK Not asked or Missing 425,904 
 
 Birth date of child
-Module:
-Column:
-20.1 Random Child Selection
-488-493
-Type:
-SAS Variable Name:
-Char
-RCSBIRTH
+Module: 20.1 Random Child Selection Type: Char
+Column: 488-493 SAS Variable Name: RCSBIRTH
 Prologue:
 Description: What is the birth month and year of the "Xth" child?
 Value Value Label Frequency Percentage
