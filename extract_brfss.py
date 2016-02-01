@@ -1,29 +1,68 @@
-import pandas as pd
 from collections import defaultdict
-
-data_dict_2014 = r'C:\Users\alsherman\Desktop\Data\BRFSS\brfss_data_dictionary_2014.txt'
-codebook_file = r'C:\Users\alsherman\Desktop\Data\BRFSS\brfss_codebook_2014.txt'
-dataframe_pickle = r'C:\Users\alsherman\Desktop\Data\BRFSS\raw_dataframe_pickle.pkl'
-data_file = r'C:\Users\alsherman\Desktop\\Data\BRFSS\LLCP2014.ASC'
-output_csv = r'C:\Users\alsherman\Desktop\Data\BRFSS\brfss_cleaned_data_2014.csv'
+import os
+import pandas as pd
+import requests
 
 
 def main():
-    data_dict = initialize_data_dict(data_dict_file=data_dict_2014)
-    codebook_data = get_codebook_data(codebook_file=codebook_file)
-    extract_key_values_from_codebook(codebook_data=codebook_data,
-                                     data_dict=data_dict)
-    #data_dict_values = read_brfss_ascii_into_dict(data_file=data_file,
-    #                                              data_dict=data_dict)
-    # currently reading from a pickle
-    #df = create_brfss_encoded_values_dataframe(data_dict_values=data_dict_values)
-    #decode_brfss_data(df=df, data_dict=data_dict)
-    #create_brfss_csv(df=df)
+    for (codebook_file,
+        data_dict_file,
+        csv_name_dict,
+        data_file, 
+        pickle_path) in get_codebook_and_data_dict_files():
+
+        # use the codebook to create a data_dict with key value pairs for 
+        # all the survey response options
+        data_dict = initialize_data_dict(data_dict_file=data_dict_file)
+        codebook_data = get_codebook_data(codebook_file=codebook_file)
+        extract_key_values_from_codebook(codebook_data=codebook_data,
+                                         data_dict=data_dict)
+                                         
+        # uncomment for new datasets, otherwise use created pickle
+        #data_dict_values = \ 
+        #   read_brfss_ascii_into_dict(data_file=data_file,data_dict=data_dict)
+        df = create_brfss_encoded_values_dataframe(data_dict_values=data_dict_values,
+                                                   dataframe_pickle_path=pickle_path)
+        
+        # use the data_dict to convert all the acsii numeric keys into
+        # their according values
+        encoded_df, decoded_df = decode_brfss_data(df=df,
+                                                    data_dict=data_dict)
+
+        create_brfss_csv(csv_name_dict=csv_name_dict, 
+                         decoded_df=decoded_df, 
+                         encoded_df=encoded_df)
 
 
+def get_codebook_and_data_dict_files():
+    local_path = r'C:\Users\alsherman\Desktop\Data\BRFSS'    
+    github_account = r'https://raw.githubusercontent.com/Alexjmsherman/OpenData/'
+    codebook_path = r'master/codebook/brfss_codebook_'
+    data_dict_path = r'master/data_dictionary/brfss_data_dictionary_'
+    years = ['2011', '2012', '2014'] ###################################################################################################, '2012', '2013', '2014']
+    #C:\Users\alsherman\Desktop\Data\BRFSS\brfss_2012
+    for year in years:
+        codebook_file = github_account + codebook_path + year + '.txt'
+        data_dict_file = github_account + data_dict_path + year + '.txt'
+        data_file = local_path + r'\brfss_' + year + r'\LLCP' + year + r'.ASC'
+        pickle_path = local_path + r'\brfss_' + year + r'\raw_dataframe_pickle_' + year + r'.pkl'
+
+        clean_data_path = r'\cleaned_data\brfss_'
+        encoded_df_csv = local_path + clean_data_path + 'encoded_data' + year + r'.csv'
+        decoded_output_csv = local_path + clean_data_path + 'decode_data' + year + r'.csv'
+        selected_fields_output_csv = local_path + clean_data_path + 'selected_data' + year + r'.csv'
+        csv_name_dict = {'encoded_csv':encoded_df_csv,
+                         'decoded_csv': decoded_output_csv,
+                         'selected_csv': selected_fields_output_csv}
+        
+        yield codebook_file, data_dict_file, csv_name_dict, data_file, pickle_path
+        
 def initialize_data_dict(data_dict_file):
     """ create a dictionary with the fields from the provided data dictionary 
-    
+
+    NOTES: the original data_dicts are html pages on www.cdc.gov:
+    (e.g. http://www.cdc.gov/brfss/annual_data/2014/llcp_varlayout_14_onecolumn.html)
+
     ARGS: data_dict_file = survey field names and locations
 
     RETURNS: data_dict with start and end character locations in the ascii file
@@ -52,14 +91,14 @@ def get_codebook_data(codebook_file):
     
     RETURNS: codebook_data = list of codebook text with key/value survey answers
     """
-    with open(codebook_file, 'rU') as f:
-        # do not remove newlines yet - used later to identify extraneous text 
-        codebook_data = [row for row in f]
+    codebook_text = requests.get(codebook_file).text
+    codebook_data = [row for row in codebook_text.split('\n')]    
     return codebook_data
 
 
 def extract_key_values_from_codebook(codebook_data, data_dict): 
-    """
+    """ extracts key value pairs from the code book and adds them to data_dict
+    
     NOTES: due to the unstructured nature of the codebook, this function 
            includes (too) many conditions to skip rows with extraneous text.
            The data_dict which holds the extracted key/value pairs extracts
@@ -70,6 +109,7 @@ def extract_key_values_from_codebook(codebook_data, data_dict):
     ARGS: codebook_data = list of codebook file text with key/value to extract
           data_dict = includes codebook to store key/value from code_book data
     """
+    
     add_row = False # notates values that span multiple rows
     ascii_character_location = None # character location of field in ascii file
     concatenate_description = False # identify descriptions that span many lines
@@ -226,7 +266,7 @@ def get_field_description(current_row, concatenate_description, description):
             the description. current description = {0}\n row being added = {1}.
             """.format(description, current_row) 
             # Value doesn't contain a colon. Most other items do (e.g. Column:)
-            assert(':' not in current_row.split(' ')[0][0])           
+            assert(':' not in current_row.split(' ')[0][0]), err_msg           
         else:   
             # first row of the description            
             description = current_row.split('Description: ')[1].strip()
@@ -343,38 +383,75 @@ def read_brfss_ascii_into_dict(data_file, data_dict):
             end_pos = data_dict[key]['end_position']
             val = item[0][start_pos:end_pos]
             data_dict_values[key].append(val)   
+    
     return data_dict_values
 
 
-def create_brfss_encoded_values_dataframe(data_dict_values):
-    # df = pd.DataFrame(data_dict_values)
-    # df.to_pickle(dataframe_pickle )
-    df = pd.read_pickle(dataframe_pickle)
+def create_brfss_encoded_values_dataframe(data_dict_values, dataframe_pickle_path):
+    #df = pd.DataFrame(data_dict_values)
+    #df.to_pickle(dataframe_pickle_path)
+    df = pd.read_pickle(dataframe_pickle_path)
     return df
 
 
-def decode_brfss_data(df, data_dict):
-    fields_in_df = []    
-    for field in ['_STATE', 'HADMAM', 'HOWLONG', 'PROFEXAM', 'LENGEXAM', 'HADPAP2', 'LASTPAP2', 'HADHYST2', 'PCPSAAD2',	'PCPSADI1',	'PCPSAAD2',	'PCPSADI1',	'PCPSARE1',	'PSATEST1',	'PSATIME',	'PCPSARS1',	'BLDSTOOL',	'LSTBLDS3',	'HADSIGM3',	'HADSGCO1',	'LASTSIG3',	'HPVTEST',	'HPLSTTST',	'HPVADVC2',	'HPVADSHT',	'EDUCA',	'_IMPEDUC',	'INCOME2',	'_INCOMG',	'HLTHPLN1',	'PERSDOC2',	'MEDCOST',	'CHECKUP1',	'MEDICARE',	'HLTHCVR1',	'DELAYMED',	'DLYOTHER',	'NOCOV121',	'LSTCOVRG',	'DRVISITS',	'MEDSCOST',	'CARERCVD',	'MEDBILL1']:
-        if field in df.columns:
-            fields_in_df.append(field)
-
-    for field in df[fields_in_df]:  
+def decode_brfss_data(df, data_dict):    
+    encoded_df = df
+    decoded_df = df.copy()
+    
+    for field in decoded_df:  
         decoded_val_list = []
-        for encoded_val in df[field]:
+        for encoded_val in decoded_df[field]:
             if encoded_val in data_dict[field]['codebook']:
                 decoded_val = data_dict[field]['codebook'][encoded_val]
             else:
                 decoded_val = encoded_val
             decoded_val_list.append(decoded_val)
-        df[field] = decoded_val_list
+        decoded_df[field] = decoded_val_list
+        
+    return encoded_df, decoded_df
 
 
-def create_brfss_csv(df):
-    df[fields_in_df].to_csv(output_csv, index=False)
+def create_brfss_csv(decoded_df, encoded_df, csv_name_dict):    
+    encoded_output_csv = csv_name_dict['encoded_csv']
+    decoded_output_csv = csv_name_dict['decoded_csv']
+    selected_fields_output_csv = csv_name_dict['selected_csv']
+    
+    encoded_df.to_csv(encoded_output_csv, index=False)
+    decoded_df.to_csv(decoded_output_csv, index=False)
+    
+    fields_in_df = determine_selected_fields_in_df(decoded_df)    
+    decoded_df[fields_in_df].to_csv(selected_fields_output_csv, index=False)
 
 
-if __name__ == "__main__": main()
+def determine_selected_fields_in_df(df):
+    """ determine which selected fields exist in the current dataframe 
+    
+    Notes: there are different fields in each years survey    
+
+    ARGS: df: df with one year of data
+    
+    RETURNS: fields_in_df: list of selected fields that exist in the current df
+    """    
+    fields_in_df = []    
+    for field in ['_STATE', 'HADMAM', 'HOWLONG', 'PROFEXAM', 'LENGEXAM',
+                  'HADPAP2', 'LASTPAP2', 'HADHYST2', 'PCPSAAD2',	'PCPSADI1',
+                  'PCPSAAD2', 'PCPSADI1', 'PCPSARE1', 'PSATEST1', 'PSATIME',
+                  'PCPSARS1', 'BLDSTOOL', 'LSTBLDS3', 'HADSIGM3', 'HADSGCO1',
+                  'LASTSIG3', 'HPVTEST', 'HPLSTTST', 'HPVADVC2', 'HPVADSHT',
+                  'EDUCA', '_IMPEDUC', 'INCOME2', '_INCOMG', 'HLTHPLN1', 
+                  'PERSDOC2', 'MEDCOST', 'CHECKUP1', 'MEDICARE', 'HLTHCVR1',
+                  'DELAYMED', 'DLYOTHER', 'NOCOV121',	 'LSTCOVRG',	
+                  'DRVISITS', 'MEDSCOST', 'CARERCVD', 'MEDBILL1']:
+    
+        if field in df.columns:
+            fields_in_df.append(field)
+    
+    return fields_in_df
+    
+
+if __name__ == "__main__": main():
+    
+    
 """
 ### VARIABLES OF INTEREST ###
 breast and cervical cancer screening
@@ -433,31 +510,3 @@ data_dict['MEDSCOST']
 data_dict['CARERCVD']
 data_dict['MEDBILL1']
 """
-
-
-"""
-            # identify and concatenate values that span multiple rows
-            # look for a period in the weighted percentage to identify the end 
-            cols_to_remove = previous_row.rsplit(' ', 3)
-            final_row_concat_cond = '.' in cols_to_remove[-1].strip()[0:-1]                     
-            
-            if add_row:       
-                add_row = False
-                if 'BLANK' in previous_row or '=' in previous_row:
-                    pass # blank is the last key - does not require concatenate
-                elif final_row_concat_cond: # final concatenation condition
-                    previous_row = span_row  + ' ' + previous_row.strip()
-                else:
-                    if current_row.strip()[-1] != ':': # new var names
-                        span_row = span_row  + ' ' + previous_row.strip()
-                        previous_row = current_row
-                        add_row = True                        
-                    else:
-                        next_row_has_key_val_data = False
-                    continue
-            elif not final_row_concat_cond:
-                span_row = previous_row.strip()
-                add_row = True
-                previous_row = current_row
-                continue
- """
